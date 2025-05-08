@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_bus_link_in_Student_Monthly_Pass_FAQs_pop_up_in_registration_page_12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>186f2a66-045d-4d4c-a6f2-09b65b16de04</testCaseGuid>
+</TestCaseEntity>

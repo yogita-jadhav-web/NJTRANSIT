@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147163_To_Verify_Ticket_subscription_For_Rail_Weekly_using_existing_Discover_card_db</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>285fce3e-8c19-44a0-a7e7-13b2a4e5e4a6</testCaseGuid>
+</TestCaseEntity>

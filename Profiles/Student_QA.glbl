@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Student_QA</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/register?university_code=2515&amp;student_id=101'</initValue>
+      <name>STUDENT_PORTAL_REGISTER_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email and Confirm Email must be same'</initValue>
+      <name>CONFIRM_EMAIL_FIELD_VALIDATION_ERROR_MSG</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'@maildrop.cc'</initValue>
+      <name>EMAIL_EXTENSION</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Password is invalid'</initValue>
+      <name>PASSWORD_FIELD_ERROR_MSG</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Password is required'</initValue>
+      <name>PASSWORD_FIELD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Phone Number is too short'</initValue>
+      <name>PHONE_NUMBER_VALIDATION_MSG1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Phone Number is invalid'</initValue>
+      <name>PHONE_NUMBER_VALIDATION_MSG2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Zip/Postal Code is too short'</initValue>
+      <name>ZIP_CODE_ERROR_MSG1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Zip/Postal Code is invalid'</initValue>
+      <name>ZIP_CODE_ERROR_MSG2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email is invalid'</initValue>
+      <name>Email_error_message_1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email is required'</initValue>
+      <name>Email_Error_Message_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Email is too short'</initValue>
+      <name>Email_error_message_3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/login?university_code=2515&amp;student_id=101'</initValue>
+      <name>STUDENT_PORTAL_LOGIN_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/register?university_code=2024&amp;student_id=101'</initValue>
+      <name>Student_register_mailinator_domain</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/login?university_code=2024&amp;student_id=101'</initValue>
+      <name>Student_login_mailinator_domain</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/register?university_code=2515&amp;student_id=abcd'</initValue>
+      <name>Student_Registation_ID_alphabet</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/register?university_code=2515&amp;student_id=ab428'</initValue>
+      <name>Student_Registration_ID_alphanumeric</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/register?university_code=123&amp;student_id=101'</initValue>
+      <name>STUDENT_PORTAL_REGISTER_INVALID_University_Code_URL_</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'@MAILDROP.CC'</initValue>
+      <name>EMAIL_EXTENSION_IN_CAPITAL_LETTERS</name>
+   </GlobalVariableEntity>
+   
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/register?university_code=&amp;student_id=101'</initValue>
+      <name>STUDENT_PORTAL_REGISTER_EMPTY_University_Code_URL_</name>
+   </GlobalVariableEntity>
+   
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.njtransit.com/tickets/light-rail-tickets'</initValue>
+      <name>Light_Rail_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.njtransit.com/tickets/bus-tickets#travel-flex'</initValue>
+      <name>BUS_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.njtransit.com/tickets/train-tickets'</initValue>
+      <name>TRAIN_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cmsqa.cmsservices.us/njt-web/student-ticketing/login?university_code=2515&amp;student_id=101'</initValue>
+      <name>STUDENT_LOGIN_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

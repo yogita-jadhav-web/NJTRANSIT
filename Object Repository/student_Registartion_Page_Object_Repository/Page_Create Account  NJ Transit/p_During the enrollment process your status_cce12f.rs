@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_During the enrollment process your status_cce12f</name>
+   <tag></tag>
+   <elementGuidId>2904aefe-ddc0-4a8a-bfd4-e40baba7b9c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#desc7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc7']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;During the enrollment process your status as a full-time student is confirmed wi&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5366f23b-0cb4-4557-85e1-098017bfd35c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1iv26rg</value>
+      <webElementGuid>7b730a21-cf86-4b5a-9871-8ecaa082838e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc7</value>
+      <webElementGuid>82a2a476-3cec-409a-a598-59362848d49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>During the enrollment process your status as a full-time student is confirmed with your college/university, you are then eligible to purchase the discounted student pass for the balance of that semester. You can purchase the discounted pass directly in the NJT app.</value>
+      <webElementGuid>70b4661c-9d0e-4c67-83d9-5c4d7bd25d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc7&quot;)</value>
+      <webElementGuid>69f3cdb4-f17e-4e27-b065-2e0932a2f799</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc7']</value>
+      <webElementGuid>1ee74e4c-9626-47f9-b418-f866d7af5944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[6]/p</value>
+      <webElementGuid>727d92f7-e7f0-409a-a18c-96094f21be80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I purchase my first mobile Student Monthly Pass?'])[1]/following::p[2]</value>
+      <webElementGuid>04944744-31b4-4068-a378-13dad763bee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where can I use a Student Monthly Pass?'])[1]/following::p[3]</value>
+      <webElementGuid>da8f4e68-4953-456c-a683-511d8e04694e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I have to renew my Student Pass account at any time?'])[1]/preceding::p[1]</value>
+      <webElementGuid>b4227e54-f01c-49d4-9992-6ca7cad380ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When can I purchase my student monthly pass?'])[1]/preceding::p[2]</value>
+      <webElementGuid>5da01eb3-7af2-414e-92ee-dd61a2b4cd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='During the enrollment process your status as a full-time student is confirmed with your college/university, you are then eligible to purchase the discounted student pass for the balance of that semester. You can purchase the discounted pass directly in the NJT app.']/parent::*</value>
+      <webElementGuid>be17a7c0-ef8e-406c-927b-b28dbde84fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/p</value>
+      <webElementGuid>a3998f35-a452-443e-be27-89e782de3060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc7' and (text() = 'During the enrollment process your status as a full-time student is confirmed with your college/university, you are then eligible to purchase the discounted student pass for the balance of that semester. You can purchase the discounted pass directly in the NJT app.' or . = 'During the enrollment process your status as a full-time student is confirmed with your college/university, you are then eligible to purchase the discounted student pass for the balance of that semester. You can purchase the discounted pass directly in the NJT app.')]</value>
+      <webElementGuid>518884cc-c833-436e-b09d-5996cfaefe05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

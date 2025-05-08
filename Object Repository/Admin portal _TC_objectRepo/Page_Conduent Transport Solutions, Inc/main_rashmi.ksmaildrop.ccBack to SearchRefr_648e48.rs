@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_rashmi.ksmaildrop.ccBack to SearchRefr_648e48</name>
+   <tag></tag>
+   <elementGuidId>285fbbde-bf1e-42ba-9907-c38f777e8b60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main.css-oipzib</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[(text() = 'rashmi.ks@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Active  Name: ASGH ASHK  Current Email Id: rashmi.ks@maildrop.cc Original Email Id: rashmi.ks@maildrop.cc Account Created: 03/19/2025 | 04:24:40 University Name: Rowan University University Code: 2515 Phone Number: 1234567889 DOB: N/A Zip Code: 12345Country Code: US User Type: Student UserStudent Id: 101 Rider Classification: AdultTravel Preference: NoNo. of Notes: 4 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Block UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details' or . = 'rashmi.ks@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Active  Name: ASGH ASHK  Current Email Id: rashmi.ks@maildrop.cc Original Email Id: rashmi.ks@maildrop.cc Account Created: 03/19/2025 | 04:24:40 University Name: Rowan University University Code: 2515 Phone Number: 1234567889 DOB: N/A Zip Code: 12345Country Code: US User Type: Student UserStudent Id: 101 Rider Classification: AdultTravel Preference: NoNo. of Notes: 4 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Block UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>e7fca47a-ec6b-4b38-bff3-bd96c2acbf56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oipzib</value>
+      <webElementGuid>9ae0436c-a328-4bbe-93d0-9bdd98e7f8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>rashmi.ks@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Active  Name: ASGH ASHK  Current Email Id: rashmi.ks@maildrop.cc Original Email Id: rashmi.ks@maildrop.cc Account Created: 03/19/2025 | 04:24:40 University Name: Rowan University University Code: 2515 Phone Number: 1234567889 DOB: N/A Zip Code: 12345Country Code: US User Type: Student UserStudent Id: 101 Rider Classification: AdultTravel Preference: NoNo. of Notes: 4 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Block UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details</value>
+      <webElementGuid>908b51d3-d232-4a42-aec1-6835ca898ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-oipzib&quot;]</value>
+      <webElementGuid>db135b2a-cf45-43f6-b3ca-e122d6bc7a08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'rashmi.ks@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Active  Name: ASGH ASHK  Current Email Id: rashmi.ks@maildrop.cc Original Email Id: rashmi.ks@maildrop.cc Account Created: 03/19/2025 | 04:24:40 University Name: Rowan University University Code: 2515 Phone Number: 1234567889 DOB: N/A Zip Code: 12345Country Code: US User Type: Student UserStudent Id: 101 Rider Classification: AdultTravel Preference: NoNo. of Notes: 4 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Block UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details' or . = 'rashmi.ks@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Active  Name: ASGH ASHK  Current Email Id: rashmi.ks@maildrop.cc Original Email Id: rashmi.ks@maildrop.cc Account Created: 03/19/2025 | 04:24:40 University Name: Rowan University University Code: 2515 Phone Number: 1234567889 DOB: N/A Zip Code: 12345Country Code: US User Type: Student UserStudent Id: 101 Rider Classification: AdultTravel Preference: NoNo. of Notes: 4 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Block UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details')]</value>
+      <webElementGuid>8faa8c06-83dd-452f-adda-8e3e791ace18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main</value>
+      <webElementGuid>4af72724-eac6-4887-87b8-7936c3c46676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>1d9e3258-5c50-4cde-98fb-526d5b5c3ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::main[1]</value>
+      <webElementGuid>c2883ec5-b915-4721-80f9-8072d30b4f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Management'])[1]/following::main[1]</value>
+      <webElementGuid>76cb293c-3840-4db4-b9c9-56b94101df1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

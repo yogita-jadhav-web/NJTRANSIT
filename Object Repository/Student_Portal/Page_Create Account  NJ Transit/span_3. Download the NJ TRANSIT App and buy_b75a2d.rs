@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3. Download the NJ TRANSIT App and buy_b75a2d</name>
+   <tag></tag>
+   <elementGuidId>2efc35b1-d449-4639-8334-c729bff6b73b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#studentRegDesc3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='studentRegDesc3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;3. Download the NJ TRANSIT App and buy your Mobile MyTix Student Monthly Pass.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6c9034f-4457-40ab-b0b6-ddd6f0df2717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subText css-1c09nwh</value>
+      <webElementGuid>3cbaeb3a-ce20-48ff-91a2-49303e294847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>studentRegDesc3</value>
+      <webElementGuid>f95b9c3c-25f6-456c-a123-338d2a08bda4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 3. Download the NJ TRANSIT App and buy your Mobile MyTix Student Monthly Pass.</value>
+      <webElementGuid>6665347e-fa0c-449b-a6ab-37b2d819b734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;studentRegDesc3&quot;)</value>
+      <webElementGuid>84370342-cbb0-431f-a1a1-ff005925f86f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='studentRegDesc3']</value>
+      <webElementGuid>c0dd946c-76ca-43fc-9000-a36bc94cbc33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerForm']/div/div[2]/div/ul/li[3]/span</value>
+      <webElementGuid>2e833160-0b1a-4193-be7b-adbea0e656ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[10]/following::span[3]</value>
+      <webElementGuid>4457c33a-f905-4326-879b-ff1e9daa7c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Of Birth (MM/DD)'])[1]/following::span[4]</value>
+      <webElementGuid>fb280002-910e-40c7-a084-0cae8e865031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Monthly Pass FAQs.'])[1]/preceding::span[1]</value>
+      <webElementGuid>30ad22ad-d518-4952-89d2-5a912de842e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::span[2]</value>
+      <webElementGuid>05ceb8ca-f0c6-44dd-982f-dd73cf733133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3. Download the NJ TRANSIT App and buy your Mobile MyTix Student Monthly Pass.']/parent::*</value>
+      <webElementGuid>bd69f47a-9528-4433-b1ce-bc8da3a018e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>f8dcb0d2-add7-4590-a5f2-76ca4763e143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'studentRegDesc3' and (text() = ' 3. Download the NJ TRANSIT App and buy your Mobile MyTix Student Monthly Pass.' or . = ' 3. Download the NJ TRANSIT App and buy your Mobile MyTix Student Monthly Pass.')]</value>
+      <webElementGuid>e40ee4c3-f2e4-407f-8316-ef8c8b95d881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

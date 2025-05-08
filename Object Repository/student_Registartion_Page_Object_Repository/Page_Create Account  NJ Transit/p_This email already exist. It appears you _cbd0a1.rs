@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This email already exist. It appears you _cbd0a1</name>
+   <tag></tag>
+   <elementGuidId>34122afe-6fc2-44f0-9ef8-21ffbcdec198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#subDesc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='subDesc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;This email already exist. It appears you have registered with either our mobile &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>799cfaa9-2f8f-4606-9376-3ba0d8d40573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1hocgsk</value>
+      <webElementGuid>464ca004-9507-47ef-a1fa-254209321e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>subDesc</value>
+      <webElementGuid>8da937cc-fbde-4e07-840f-92907b5afd03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This email already exist. It appears you have registered with either our mobile app, web ticketing or tap &amp; ride account. Please login with your existing credentials to register your farecard. </value>
+      <webElementGuid>a891f458-a595-4cc4-af99-2a1d4233153c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subDesc&quot;)</value>
+      <webElementGuid>b3922ffa-01da-4b06-a610-5c5ecd7ae617</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='subDesc']</value>
+      <webElementGuid>27abb333-5eb0-4fe0-8a99-119d2d0a3247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/p</value>
+      <webElementGuid>b9106f82-e50e-4fdf-adac-d5b22ab9732d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Failed'])[1]/following::p[1]</value>
+      <webElementGuid>99bd2557-d169-4935-9a62-10c5d1e8dfe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::p[1]</value>
+      <webElementGuid>5c1dba89-6b21-4b00-91d2-cc944af03b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::p[2]</value>
+      <webElementGuid>7179bfd1-5e3f-4bf1-b568-5a9d38f82179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::p[2]</value>
+      <webElementGuid>77e944ef-0b74-4268-b4e3-efcfeca7c88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This email already exist. It appears you have registered with either our mobile app, web ticketing or tap &amp; ride account. Please login with your existing credentials to register your farecard.']/parent::*</value>
+      <webElementGuid>b0d638d7-4978-464a-92fc-d9ce2ae2a051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>deee72f6-baf9-4014-8bb1-2586d9e7bf4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'subDesc' and (text() = 'This email already exist. It appears you have registered with either our mobile app, web ticketing or tap &amp; ride account. Please login with your existing credentials to register your farecard. ' or . = 'This email already exist. It appears you have registered with either our mobile app, web ticketing or tap &amp; ride account. Please login with your existing credentials to register your farecard. ')]</value>
+      <webElementGuid>de75214c-8580-4fed-a4cb-6850551540c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

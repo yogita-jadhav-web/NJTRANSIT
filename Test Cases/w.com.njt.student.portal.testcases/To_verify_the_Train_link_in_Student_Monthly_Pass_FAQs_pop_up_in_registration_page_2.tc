@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_Train_link_in_Student_Monthly_Pass_FAQs_pop_up_in_registration_page_2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9b8f725-e060-4a25-98a2-a9eca9ce5dd0</testCaseGuid>
+</TestCaseEntity>

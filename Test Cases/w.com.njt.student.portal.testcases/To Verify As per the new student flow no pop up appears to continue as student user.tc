@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify As per the new student flow no pop up appears to continue as student user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5bf96a3a-9cdd-4f3c-9355-1d1f52deac7f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109200_To_verify_that_user_is_able_to_Add_Value_using_the_existing_JCB_credit_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68cb372b-961a-47e9-9838-929156557160</testCaseGuid>
+</TestCaseEntity>

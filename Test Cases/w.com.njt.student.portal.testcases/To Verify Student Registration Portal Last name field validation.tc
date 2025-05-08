@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify Student Registration Portal Last name field validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>342fd954-5aeb-4f9a-b47d-ef9c304fab19</testCaseGuid>
+</TestCaseEntity>

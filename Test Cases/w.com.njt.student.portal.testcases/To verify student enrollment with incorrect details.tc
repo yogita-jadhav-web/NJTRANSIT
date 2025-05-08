@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify student enrollment with incorrect details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>291ea7d8-0bd8-478c-8abc-a2488a8e4b4a</testCaseGuid>
+</TestCaseEntity>

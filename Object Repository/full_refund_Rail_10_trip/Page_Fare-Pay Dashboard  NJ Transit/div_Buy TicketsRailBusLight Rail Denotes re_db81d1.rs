@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buy TicketsRailBusLight Rail Denotes re_db81d1</name>
+   <tag></tag>
+   <elementGuidId>b4f2e998-ab26-46b0-aa24-bb3723a36bfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Buy TicketsRailBusLight Rail* Denotes required fields 3 Easy Steps to Buy Tickets  Select Product  Select your Origin, Destination and Via  Submit Payment Information Tap your FARE-PAY Card and take a ride!Select Origin *​​Select Destination *​​Select Tickets' or . = 'Buy TicketsRailBusLight Rail* Denotes required fields 3 Easy Steps to Buy Tickets  Select Product  Select your Origin, Destination and Via  Submit Payment Information Tap your FARE-PAY Card and take a ride!Select Origin *​​Select Destination *​​Select Tickets')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Buy TicketsRailBusLight Rail* Denotes required fields 3 Easy Steps to Buy Ticket&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1908af9-6774-478a-90ac-e3e17efa49ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>00662352-fcdb-4bf6-afe5-939121a51809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>6d2c1b85-f8b4-4881-8310-451d13fdab70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>159eaa02-92d1-41de-9977-835ffeb53d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy TicketsRailBusLight Rail* Denotes required fields 3 Easy Steps to Buy Tickets  Select Product  Select your Origin, Destination and Via  Submit Payment Information Tap your FARE-PAY Card and take a ride!Select Origin *​​Select Destination *​​Select Tickets</value>
+      <webElementGuid>e727a619-2440-4a07-bb9e-085bb12697a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>af034d9d-0075-4384-ae28-f26b418c2bbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buy TicketsRailBusLight Rail* Denotes required fields 3 Easy Steps to Buy Tickets  Select Product  Select your Origin, Destination and Via  Submit Payment Information Tap your FARE-PAY Card and take a ride!Select Origin *​​Select Destination *​​Select Tickets' or . = 'Buy TicketsRailBusLight Rail* Denotes required fields 3 Easy Steps to Buy Tickets  Select Product  Select your Origin, Destination and Via  Submit Payment Information Tap your FARE-PAY Card and take a ride!Select Origin *​​Select Destination *​​Select Tickets')]</value>
+      <webElementGuid>5f1a7098-3333-4ca7-b118-e84969895adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='historyModal']/div[3]</value>
+      <webElementGuid>13827125-22aa-4ef4-90c8-960cd70a3c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]</value>
+      <webElementGuid>576e5ccc-5529-4f15-9831-8ef8f9cc4fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback will be used to help improve Google Translate'])[1]/following::div[8]</value>
+      <webElementGuid>7d097a97-de54-428c-af8c-646bf785f346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate this translation'])[1]/following::div[9]</value>
+      <webElementGuid>fa0517b3-0b8c-4672-bd7f-2b56786dfdc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

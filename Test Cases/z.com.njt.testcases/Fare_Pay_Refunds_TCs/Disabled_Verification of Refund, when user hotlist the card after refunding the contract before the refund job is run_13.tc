@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Disabled_Verification of Refund, when user hotlist the card after refunding the contract before the refund job is run_13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>416c6bc9-0913-4840-b17f-390ac09e6558</testCaseGuid>
+</TestCaseEntity>

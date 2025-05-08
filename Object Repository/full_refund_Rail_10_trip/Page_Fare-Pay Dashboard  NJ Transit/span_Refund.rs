@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Refund</name>
+   <tag></tag>
+   <elementGuidId>d1af812d-8eac-409d-9d6e-4f0637df5987</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiChip-root.MuiChip-outlined.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-clickable.MuiChip-clickableColorDefault.MuiChip-outlinedDefault.css-1jeflz5 > span.MuiChip-label.MuiChip-labelMedium.css-k62kit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Refund' or . = 'Refund')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Refund&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51b7c099-9727-4141-a4c9-52259a2f2a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelMedium css-k62kit</value>
+      <webElementGuid>ea3539b6-e723-4062-bd6e-46cdf6e3e0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refund</value>
+      <webElementGuid>aafd1145-c444-411b-a942-03aa4fc8cf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXl MuiDialog-paperFullWidth css-1rlrsq7&quot;]/div[@class=&quot;MuiDialogContent-root css-104qf4r&quot;]/div[@class=&quot;MuiBox-root css-1sf3xto&quot;]/div[@class=&quot;MuiTableContainer-root css-kge0eu&quot;]/table[@class=&quot;MuiTable-root css-1owb465&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root css-1ieeib2&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeSmall css-37qz6k&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root MuiChip-outlined MuiChip-sizeMedium MuiChip-colorDefault MuiChip-clickable MuiChip-clickableColorDefault MuiChip-outlinedDefault css-1jeflz5&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelMedium css-k62kit&quot;]</value>
+      <webElementGuid>6688683c-3971-405c-8ecf-554619dea065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Refund' or . = 'Refund')]</value>
+      <webElementGuid>338eecda-e975-40b3-8f7d-13db8cd922e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='historyModal']/div[3]/div/div[2]/div[3]/div/table/tbody/tr/td[9]/div/span</value>
+      <webElementGuid>4c28744b-32da-472d-8799-82a0a3c0f3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/span</value>
+      <webElementGuid>2bf9b327-10b1-4cd7-a765-9aa741216eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$120.50'])[1]/following::span[1]</value>
+      <webElementGuid>fb4c9302-3602-4e19-a045-126067b0ff1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allendale-Aberdeen-Matawan'])[1]/following::span[1]</value>
+      <webElementGuid>e432f315-540b-4547-a1f0-39443f89b63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Adult'])[1]/preceding::span[4]</value>
+      <webElementGuid>336630f2-71d0-474e-b2d7-53bd991a2437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus'])[1]/preceding::span[4]</value>
+      <webElementGuid>7e09bca7-be28-4386-a37b-24c794949f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refund']/parent::*</value>
+      <webElementGuid>fbae9588-8b5a-4fc2-a081-dd324bdf12b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$143.50'])[1]/following::span[1]</value>
+      <webElementGuid>a77ccc8c-7061-47a0-9880-abf43f5bb60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allendale-Belmar'])[1]/following::span[1]</value>
+      <webElementGuid>86311a26-3520-4728-b4b2-8461811d10c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rail'])[2]/preceding::span[4]</value>
+      <webElementGuid>1ebba830-8ec6-408f-b34e-a801ff0c1166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allendale-Avenel'])[1]/preceding::span[4]</value>
+      <webElementGuid>2303a3cf-d593-46ee-9db7-63d95ba63e7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

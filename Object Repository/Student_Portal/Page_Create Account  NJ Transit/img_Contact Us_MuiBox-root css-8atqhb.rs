@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Contact Us_MuiBox-root css-8atqhb</name>
+   <tag></tag>
+   <elementGuidId>40f88a57-7875-44fa-9591-adfcc1a90a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiBox-root.css-8atqhb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>img >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>da621a83-6ba1-4621-bb75-ea578402b639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-8atqhb</value>
+      <webElementGuid>830302e2-a391-4b1e-bd20-b30d3d06d42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/njt-web/static/media/student_login_banner.9de7754d33abdcab0221.jpg</value>
+      <webElementGuid>f1792cd8-aab2-432a-855c-ad2f9acb503d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-zwq0rh&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/img[@class=&quot;MuiBox-root css-8atqhb&quot;]</value>
+      <webElementGuid>310d7b91-c48e-40c6-a470-16f6e519c072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/img</value>
+      <webElementGuid>f98d32e8-b4ea-4c32-9c71-9566fde3f941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>12272e61-b947-4986-8ab6-9323269216d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/njt-web/static/media/student_login_banner.9de7754d33abdcab0221.jpg']</value>
+      <webElementGuid>6f478af8-fc48-4a58-9492-07aaaffe9132</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

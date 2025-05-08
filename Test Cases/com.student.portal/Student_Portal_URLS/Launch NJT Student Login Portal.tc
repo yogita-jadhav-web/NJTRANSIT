@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch NJT Student Login Portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e303599c-ef9b-4bf4-a56a-4380a7c9ae11</testCaseGuid>
+</TestCaseEntity>

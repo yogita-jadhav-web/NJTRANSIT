@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for Bus Intrastate route</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89ba18d2-6b43-4c3b-96a6-2d0abfb49510</testCaseGuid>
+</TestCaseEntity>

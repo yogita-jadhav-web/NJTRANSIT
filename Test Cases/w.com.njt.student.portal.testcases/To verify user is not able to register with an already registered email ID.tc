@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify user is not able to register with an already registered email ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2be587e-8f1a-4483-99a6-301d728974b5</testCaseGuid>
+</TestCaseEntity>

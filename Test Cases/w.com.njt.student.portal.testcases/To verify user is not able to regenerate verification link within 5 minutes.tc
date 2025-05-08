@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify user is not able to regenerate verification link within 5 minutes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec35babb-c825-4e24-9641-ec34fe6575e4</testCaseGuid>
+</TestCaseEntity>

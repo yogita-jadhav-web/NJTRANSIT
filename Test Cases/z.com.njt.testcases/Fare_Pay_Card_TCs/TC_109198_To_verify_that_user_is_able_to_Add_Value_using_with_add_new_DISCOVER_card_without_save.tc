@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109198_To_verify_that_user_is_able_to_Add_Value_using_with_add_new_DISCOVER_card_without_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd9201a1-eda6-4b51-ac7d-08e1bb852656</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify Student Registration portal page UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8beb32f-ae70-4a60-9402-46849cdc9895</testCaseGuid>
+</TestCaseEntity>

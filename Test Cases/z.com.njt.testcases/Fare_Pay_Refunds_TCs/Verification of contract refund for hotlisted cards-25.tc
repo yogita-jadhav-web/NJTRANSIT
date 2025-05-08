@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of contract refund for hotlisted cards-25</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00aee853-96bf-4ecf-b43d-55ec053c6699</testCaseGuid>
+</TestCaseEntity>

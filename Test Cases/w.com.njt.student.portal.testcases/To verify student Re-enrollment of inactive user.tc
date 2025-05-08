@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify student Re-enrollment of inactive user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3e3b497-9545-4815-9984-8dbda1604075</testCaseGuid>
+</TestCaseEntity>

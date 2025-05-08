@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>status ele_Approved</name>
+   <tag></tag>
+   <elementGuidId>0783381f-d20d-4bbc-a6fe-e78e15fc950b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Approved' or . = 'Approved')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Approved&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>feffcdee-d60f-40e7-b43c-e54ce89cc56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelSmall css-cxrmjv</value>
+      <webElementGuid>7f92d7cc-9858-46fe-b803-11339157a12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approved</value>
+      <webElementGuid>5c51badc-29cf-4fe5-bf93-6a0c52e21e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-cwpu7v&quot;]/div[@class=&quot;MuiDialogContent-root css-104qf4r&quot;]/div[@class=&quot;MuiTableContainer-root css-kge0eu&quot;]/table[@class=&quot;MuiTable-root css-1owb465&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@id=&quot;transactionRow&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeSmall css-37qz6k&quot;]/div[@class=&quot;MuiChip-root MuiChip-outlined MuiChip-sizeSmall MuiChip-colorSuccess MuiChip-outlinedSuccess css-12oox9p&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelSmall css-cxrmjv&quot;]</value>
+      <webElementGuid>b742afdf-4169-4e9a-864d-a92aea5d26db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Approved' or . = 'Approved')]</value>
+      <webElementGuid>0d001cc6-e439-4af4-8c6a-04f97c870379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//tr[@id='transactionRow']/td[4]/div/span)[7]</value>
+      <webElementGuid>84ad8585-9029-4c37-9e69-39c702b16af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[4]/div/span</value>
+      <webElementGuid>2f48bdc8-7e8f-4cf3-9d36-89dc820fb880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$38.80'])[1]/following::span[1]</value>
+      <webElementGuid>70b13048-994f-4695-b789-7d3b8a7ce130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip'])[3]/following::span[1]</value>
+      <webElementGuid>0c150961-5c72-4b7f-8b6e-21626b51a43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NJT-KQBYZX9M-APR01-2'])[1]/preceding::span[1]</value>
+      <webElementGuid>9a6e474d-6f6a-4445-97aa-a8f5480c9e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip'])[4]/preceding::span[2]</value>
+      <webElementGuid>34227958-569f-448b-a50d-be13d0352f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approved']/parent::*</value>
+      <webElementGuid>e702b213-ac3a-42ed-a96a-b0ce8460a0fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

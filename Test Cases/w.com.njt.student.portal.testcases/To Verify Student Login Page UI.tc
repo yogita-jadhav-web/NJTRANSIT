@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify Student Login Page UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c442236-7f65-4f17-9cf1-419d38bf2f51</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Weekly ticket Refund Policy pop up-Rail-55</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7960e76-96eb-406a-a5e0-ac4dc30b0b2b</testCaseGuid>
+</TestCaseEntity>

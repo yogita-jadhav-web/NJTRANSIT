@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Do I have to renew my Student Pass accou_54ad61</name>
+   <tag></tag>
+   <elementGuidId>f6089e1c-c404-40a0-877d-41aa33720765</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#title8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@id='title8']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Do I have to renew my Student Pass account at any time?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>832dd058-5038-410f-8ed2-13d8d8911641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subtitle1 css-1c5co21</value>
+      <webElementGuid>ac7ef6a0-2c1b-45b5-94ed-f2923157b26d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title8</value>
+      <webElementGuid>b162e4d9-4e01-475e-bbee-7c33b589c127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Do I have to renew my Student Pass account at any time?</value>
+      <webElementGuid>49292d09-cd87-44ef-9f1e-88ca4c62f694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title8&quot;)</value>
+      <webElementGuid>5e67408b-0610-441b-abd0-96be26477dcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h6[@id='title8']</value>
+      <webElementGuid>22140562-a63b-4437-8f27-856d93e48bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[7]/h6</value>
+      <webElementGuid>52564187-974f-4c52-a8e6-24ed4bd00edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I purchase my first mobile Student Monthly Pass?'])[1]/following::h6[2]</value>
+      <webElementGuid>8768d72e-6bfd-4085-a02d-f9cdb6330340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where can I use a Student Monthly Pass?'])[1]/following::h6[3]</value>
+      <webElementGuid>eebdb5b8-522d-4a85-9082-10300887b170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When can I purchase my student monthly pass?'])[1]/preceding::h6[1]</value>
+      <webElementGuid>17ff300a-e046-4714-891a-e2940f5278a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I use my Student Monthly Pass?'])[1]/preceding::h6[3]</value>
+      <webElementGuid>83e30c03-31f4-4b02-9695-bad222b118c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Do I have to renew my Student Pass account at any time?']/parent::*</value>
+      <webElementGuid>ed917041-4917-43c4-a416-70d4620cae38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/h6</value>
+      <webElementGuid>14d4dad0-4517-4c8b-89e6-4a4dc0a4593d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[@id = 'title8' and (text() = 'Do I have to renew my Student Pass account at any time?' or . = 'Do I have to renew my Student Pass account at any time?')]</value>
+      <webElementGuid>b16b4682-b29d-40e6-aaf5-1ea4a85d3eef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

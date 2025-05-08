@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Invalid universityschool code. Please che_f1bc0b</name>
+   <tag></tag>
+   <elementGuidId>2c4399ca-b4bb-457d-90fa-0d3e889495a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Invalid university/school code. Please check with your university/school's Web A&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>298c60a1-08ce-4bee-9588-ae86860a3518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit css-1vhohya</value>
+      <webElementGuid>58aa25b0-4611-4119-a764-096a633ed901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>64d81b2d-b5e6-4711-9312-5fa45302a2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid university/school code. Please check with your university/school's Web Admin</value>
+      <webElementGuid>e734e21a-7874-4c0a-913d-a2b1de20d75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc&quot;)</value>
+      <webElementGuid>d34ebdbe-47d1-433b-848d-05fa4062993c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc']</value>
+      <webElementGuid>177f263b-fd78-4239-a0f1-659e19bdbff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/p</value>
+      <webElementGuid>c066f9f7-644b-47d5-ad5d-f4f6952cfa29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid Request'])[1]/following::p[1]</value>
+      <webElementGuid>311496ee-b502-40d2-a1e7-8f67123c437f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::p[1]</value>
+      <webElementGuid>b0eb5cdb-8537-45e3-bd64-2379247b97dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::p[1]</value>
+      <webElementGuid>98d487f2-be79-46c5-bf3e-d620eb378dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::p[1]</value>
+      <webElementGuid>0d0c18ad-9158-4aaf-981c-7060a00b678b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>fd34af0b-4d35-4420-841f-d468506ee2cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc' and (text() = concat(&quot;Invalid university/school code. Please check with your university/school&quot; , &quot;'&quot; , &quot;s Web Admin&quot;) or . = concat(&quot;Invalid university/school code. Please check with your university/school&quot; , &quot;'&quot; , &quot;s Web Admin&quot;))]</value>
+      <webElementGuid>621b8319-be6a-4ac1-be93-74460156e31b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

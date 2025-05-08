@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Within New Jersey</name>
+   <tag></tag>
+   <elementGuidId>62b33b42-ecbc-4ff4-8d1c-59f0469cbde1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.Mui-selected.Mui-focusVisible.MuiMenuItem-root.MuiMenuItem-gutters.Mui-selected.css-ebthvb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id=':r7:']/li[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Within New Jersey' or . = 'Within New Jersey')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Within New Jersey&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>45abf9be-8b55-4b71-b160-05bc23285b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters Mui-selected Mui-focusVisible MuiMenuItem-root MuiMenuItem-gutters Mui-selected css-ebthvb</value>
+      <webElementGuid>079b5f15-4c9f-4c81-acc9-c5a3c73836cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a522e001-f414-4e62-878d-18ae0f16559c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>6334ef3e-6960-417a-996a-fe0386c04d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>885a09ce-a4b6-4c6b-ac02-b4b0e0430605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>08b480bf-e7c1-4dc6-a467-f1d2eb74f515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Within New Jersey</value>
+      <webElementGuid>584cc59a-6aa1-45f6-a6a6-0466174637b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r7:&quot;)/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters Mui-selected Mui-focusVisible MuiMenuItem-root MuiMenuItem-gutters Mui-selected css-ebthvb&quot;]</value>
+      <webElementGuid>67926ea6-9619-4304-b872-7ae3d075376a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id=':r7:']/li[2]</value>
+      <webElementGuid>8c6ca489-58ad-4a23-beab-100f69bae4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Tariff Type'])[1]/following::li[1]</value>
+      <webElementGuid>1310a00a-cd24-4c45-8412-e3d3ccd9a13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Tickets'])[1]/following::li[2]</value>
+      <webElementGuid>fc2cf2e6-5a2a-4e49-87b1-cce91d51c43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To/From Philadelphia'])[1]/preceding::li[1]</value>
+      <webElementGuid>a70155d3-98f2-4a1e-9dc5-e82338d80d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]</value>
+      <webElementGuid>3a80c3ee-78c9-44fc-aeb0-7408e0018ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Within New Jersey' or . = 'Within New Jersey')]</value>
+      <webElementGuid>9c7c82bc-867c-4d41-b55d-37a4dcd281f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

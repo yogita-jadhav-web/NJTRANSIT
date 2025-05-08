@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_You need to enable JavaScript to run t_a8e906</name>
+   <tag></tag>
+   <elementGuidId>05ca335c-dd08-427d-981e-e4b39e6717e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[(text() = 'You need to enable JavaScript to run this app.Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchPrivacy|Terms of Use|Version: admin_1.0.b.9|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Mapid(&quot;userSearchForm&quot;)/div[@class=&quot;MuiBox-root css-1bjivtr&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;emailId&quot;]' or . = 'You need to enable JavaScript to run this app.Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchPrivacy|Terms of Use|Version: admin_1.0.b.9|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Mapid(&quot;userSearchForm&quot;)/div[@class=&quot;MuiBox-root css-1bjivtr&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;emailId&quot;]')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>body</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>732737f3-b5b1-4113-9f78-13d15904c26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You need to enable JavaScript to run this app.Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchPrivacy|Terms of Use|Version: admin_1.0.b.9|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Mapid(&quot;userSearchForm&quot;)/div[@class=&quot;MuiBox-root css-1bjivtr&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;emailId&quot;]</value>
+      <webElementGuid>8b8a38b5-cc74-49dc-9d3f-8b497ed1c756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>0d73139b-6afe-47ce-9e71-2a43e24c6dde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'You need to enable JavaScript to run this app.Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchPrivacy|Terms of Use|Version: admin_1.0.b.9|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Mapid(&quot;userSearchForm&quot;)/div[@class=&quot;MuiBox-root css-1bjivtr&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;emailId&quot;]' or . = 'You need to enable JavaScript to run this app.Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchPrivacy|Terms of Use|Version: admin_1.0.b.9|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Mapid(&quot;userSearchForm&quot;)/div[@class=&quot;MuiBox-root css-1bjivtr&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;emailId&quot;]')]</value>
+      <webElementGuid>bb711557-6718-4fef-988f-2d81c4916619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>9e3b9690-55ad-4a02-881a-f1d519eb50b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

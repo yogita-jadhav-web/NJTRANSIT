@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Full-time college students can save 25 pe_434a6f</name>
+   <tag></tag>
+   <elementGuidId>266dc6f3-27aa-442c-871e-0eab105c4de6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#desc6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc6']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Full-time college students can save 25 percent on NJ TRANSIT Monthly Passes when&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e1487638-9c90-4b3d-9b01-d5ec2f722726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1iv26rg</value>
+      <webElementGuid>90016417-8677-43b4-ab22-9fba5fe1849f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc6</value>
+      <webElementGuid>4606ae39-3e4c-4581-b428-0a523cbd0164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full-time college students can save 25 percent on NJ TRANSIT Monthly Passes when their school participates in our University Partnership Program. Sign up through the participating college/university student web portal and click the Student Enrollment link to complete your enrollment.</value>
+      <webElementGuid>c9e567ff-23fc-4601-a952-ced2b7f00298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc6&quot;)</value>
+      <webElementGuid>d2384d44-8786-43d8-bc14-3e9040bbd004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc6']</value>
+      <webElementGuid>5864ffd5-ea25-4dde-9cff-e3769f979147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[5]/p</value>
+      <webElementGuid>a7618e8b-f32d-456e-a3a6-75606dad86e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I purchase my first mobile Student Monthly Pass?'])[1]/following::p[1]</value>
+      <webElementGuid>ce7485cc-9d9b-4a73-b956-cd7c10ea1fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where can I use a Student Monthly Pass?'])[1]/following::p[2]</value>
+      <webElementGuid>6d58b96f-0474-4f8e-90bd-794ef6cebf79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I have to renew my Student Pass account at any time?'])[1]/preceding::p[2]</value>
+      <webElementGuid>b89844dd-ce72-45a4-8bdb-9c6e5b3bc197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When can I purchase my student monthly pass?'])[1]/preceding::p[3]</value>
+      <webElementGuid>bf7e4bbc-3bac-40b2-993b-ca8e00d18c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Full-time college students can save 25 percent on NJ TRANSIT Monthly Passes when their school participates in our University Partnership Program. Sign up through the participating college/university student web portal and click the Student Enrollment link to complete your enrollment.']/parent::*</value>
+      <webElementGuid>dc346eaa-0ebf-43fe-a627-27a916f3003b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p</value>
+      <webElementGuid>a69d7445-a056-4951-897f-e13cc0794030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc6' and (text() = 'Full-time college students can save 25 percent on NJ TRANSIT Monthly Passes when their school participates in our University Partnership Program. Sign up through the participating college/university student web portal and click the Student Enrollment link to complete your enrollment.' or . = 'Full-time college students can save 25 percent on NJ TRANSIT Monthly Passes when their school participates in our University Partnership Program. Sign up through the participating college/university student web portal and click the Student Enrollment link to complete your enrollment.')]</value>
+      <webElementGuid>7221b7e1-8b4f-467f-8df8-97a2d8affae1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_City</name>
+   <tag></tag>
+   <elementGuidId>6bf577bd-fd5b-4a43-8598-74d5a06d8fa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/form/fieldset[3]/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6.form-group > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;City&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>15d539eb-924f-465e-9394-3cd60b1a3872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>City</value>
+      <webElementGuid>54478051-fea2-40a6-9d82-d89b55939bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-edit&quot;]/fieldset[3]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-sm-6 form-group&quot;]/label[1]</value>
+      <webElementGuid>9d6b7ed9-8f8d-43ce-8124-a70cbf9181f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/form/fieldset[3]/div[3]/div/label</value>
+      <webElementGuid>1ce47f3f-2b52-4d96-b050-29937a7e2c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Street Address'])[1]/following::label[1]</value>
+      <webElementGuid>2992a50f-7d1a-4d66-a704-a55e1c1a0c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::label[2]</value>
+      <webElementGuid>df05908d-fe38-400b-a84c-21a39a6c7ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/preceding::label[1]</value>
+      <webElementGuid>942a456c-2cdf-46cd-a2a6-db7ac13a5950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip'])[1]/preceding::label[2]</value>
+      <webElementGuid>c4a0ec7f-0c24-4dad-bbb1-8d0d633396d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='City']/parent::*</value>
+      <webElementGuid>843d9c36-83ed-4c16-aac1-30c241aca69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>ad407f19-e350-4d71-ac21-d90e4fd1c0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'City' or . = 'City')]</value>
+      <webElementGuid>79ec44f4-bbca-41a0-bf43-ee0d3bb98016</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

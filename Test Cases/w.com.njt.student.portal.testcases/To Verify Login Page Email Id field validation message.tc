@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify Login Page Email Id field validation message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa1bbcb0-2f39-4ad7-b762-297fcb1e90a1</testCaseGuid>
+</TestCaseEntity>

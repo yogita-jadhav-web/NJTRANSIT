@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for Bus Intracommuter route-49</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb6546c7-3236-4116-bf07-6b10d42ec022</testCaseGuid>
+</TestCaseEntity>

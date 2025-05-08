@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109178_To_Verify_that_user_is_able_to_register_an_active_fare_pay_card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75507701-6c35-43ad-b127-2210e4197624</testCaseGuid>
+</TestCaseEntity>

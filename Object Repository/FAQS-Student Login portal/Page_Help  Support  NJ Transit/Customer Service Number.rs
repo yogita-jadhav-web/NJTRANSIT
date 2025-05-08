@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Customer Service Number</name>
+   <tag></tag>
+   <elementGuidId>e525753a-20c1-491d-a011-f8ea36a79788</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app_body']/div/div/div/div/div/div/ul/li/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Customer Service Number:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>38abc12f-1abb-4f04-9131-e79e164fa641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Service Number: </value>
+      <webElementGuid>a418c5d7-89b5-4149-92b1-3317a3307c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_body&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;content--grid&quot;]/div[@class=&quot;content__block&quot;]/div[@class=&quot;content__section&quot;]/ul[@class=&quot;list--icon&quot;]/li[@class=&quot;text-dark&quot;]/strong[1]</value>
+      <webElementGuid>0d1ec135-9f67-4820-aacc-2d4a62763d98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app_body']/div/div/div/div/div/div/ul/li/strong</value>
+      <webElementGuid>7321600d-f846-4ae4-9b5a-75ceaa9491a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help and Support'])[1]/following::strong[1]</value>
+      <webElementGuid>5c8715bf-98c4-4624-a9a6-9c8511371a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation Hours:'])[1]/preceding::strong[1]</value>
+      <webElementGuid>5c762a85-2cb6-40a8-b20b-d5a5a950525b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer Service Number:']/parent::*</value>
+      <webElementGuid>c5e026fa-6fde-4997-9906-8d6d0feab227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>be469e04-f1e4-4093-a8bb-b596abeb8956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Customer Service Number: ' or . = 'Customer Service Number: ')]</value>
+      <webElementGuid>3939a32b-f78d-453b-97ee-31e8dc084bd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

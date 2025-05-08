@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify user is not able to login when he is blocked from admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af5eb729-ba08-4cdb-a782-62e7c2794f3b</testCaseGuid>
+</TestCaseEntity>

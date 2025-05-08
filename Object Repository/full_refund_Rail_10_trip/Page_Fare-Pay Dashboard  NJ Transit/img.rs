@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>9c89e046-8cad-43cb-a1a5-2b8e1b33aaed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '/njt-web/static/media/sub_header_img.55097fd9c6148df0cc92.png' and @alt = 'Photo of the N J Transit tracks and one of its trains at the Newark International Airport']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Photo of the N J Transit tracks and one of its trains at the Newark International Airport&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Photo of the N J Transit tracks and one of its trains at the Newark International Airport&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1da54c0d-8a73-4f9c-ae37-a2d79ccb2b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>eb9115ec-a519-471f-a6ae-ad56c89745ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>3d699452-9ad3-404b-b4b4-4defdd3edc6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/njt-web/static/media/sub_header_img.55097fd9c6148df0cc92.png</value>
+      <webElementGuid>daf96ad5-f5bf-4d3c-99bf-d88658ace79f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Photo of the N J Transit tracks and one of its trains at the Newark International Airport</value>
+      <webElementGuid>65d416c8-a757-4ad9-8bfa-16f1e4e60090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>f443dea8-1ac8-4b11-b72f-c0e9763d1a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/span[@class=&quot;lazy-load-image-background  lazy-load-image-loaded&quot;]/img[1]</value>
+      <webElementGuid>377c8ae8-a454-4110-9fc3-6e36a0d4884d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/njt-web/static/media/sub_header_img.55097fd9c6148df0cc92.png' and @alt = 'Photo of the N J Transit tracks and one of its trains at the Newark International Airport']</value>
+      <webElementGuid>59ee2170-7a5b-441c-80ca-02559e337b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/span/img</value>
+      <webElementGuid>8610bf42-726c-4910-a83a-4bdf1e798178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>49b01a70-ab5f-4268-9c94-4e517d3bcf74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Photo of the N J Transit tracks and one of its trains at the Newark International Airport']</value>
+      <webElementGuid>c3981995-6222-47f9-981a-2fcc1ad4863f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

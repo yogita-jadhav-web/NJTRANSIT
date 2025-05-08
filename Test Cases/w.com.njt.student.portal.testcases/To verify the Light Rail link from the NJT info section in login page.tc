@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the Light Rail link from the NJT info section in login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eea9ff7c-7196-4786-8536-976f0e3163c6</testCaseGuid>
+</TestCaseEntity>

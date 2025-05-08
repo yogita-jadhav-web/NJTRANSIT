@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_UserTransactionPhone NoGuest - Tap  Ri_e4dda2</name>
+   <tag></tag>
+   <elementGuidId>8b86f865-0ed1-40c9-9bbe-d204239b41f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main.css-oipzib</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[(text() = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchEmail Id​​User Id​​Phone Number​​Account StatusAll​rashmi.ks@maildrop.ccrashmi.ks@maildrop.cc1234567889Active' or . = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchEmail Id​​User Id​​Phone Number​​Account StatusAll​rashmi.ks@maildrop.ccrashmi.ks@maildrop.cc1234567889Active')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>7d8ddd8b-f0ec-493f-8136-74dc5f07235a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oipzib</value>
+      <webElementGuid>8cb7f602-b043-4bac-a7d6-62fe60507de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchEmail Id​​User Id​​Phone Number​​Account StatusAll​rashmi.ks@maildrop.ccrashmi.ks@maildrop.cc1234567889Active</value>
+      <webElementGuid>3303f50a-b0b2-4076-9c03-7579ca9b5512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-oipzib&quot;]</value>
+      <webElementGuid>4df84f7c-1d3c-44e3-b1ac-66920325d80e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchEmail Id​​User Id​​Phone Number​​Account StatusAll​rashmi.ks@maildrop.ccrashmi.ks@maildrop.cc1234567889Active' or . = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardUser Id / Email Id *​SearchEmail Id​​User Id​​Phone Number​​Account StatusAll​rashmi.ks@maildrop.ccrashmi.ks@maildrop.cc1234567889Active')]</value>
+      <webElementGuid>a6d27b9f-e140-44c6-8df5-da2b8151c8bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main</value>
+      <webElementGuid>ce91d251-c77d-43fe-aed6-e9680cf8271f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>90bbf325-967f-4a2e-bb9b-4ea8d8f6b1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::main[1]</value>
+      <webElementGuid>d4e1db68-136e-4dbb-ae79-a015d2878dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Management'])[1]/following::main[1]</value>
+      <webElementGuid>6b5d16f6-da89-431a-b8c6-f3d7b74fc110</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

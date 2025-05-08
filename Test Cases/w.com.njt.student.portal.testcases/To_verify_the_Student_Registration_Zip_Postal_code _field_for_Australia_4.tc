@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_Student_Registration_Zip_Postal_code _field_for_Australia_4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16c7ea09-7a89-45e0-8958-3d1b1b2802d9</testCaseGuid>
+</TestCaseEntity>

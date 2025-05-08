@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Hold Control key to select up to three files</name>
+   <tag></tag>
+   <elementGuidId>f9e68ea8-9649-46d1-89e5-6f8ad09abdd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/form/fieldset/div[5]/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hold Control key to select up to three files&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>b7cab5f6-85a2-4fe4-9164-89a8715fbc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hold Control key to select up to three files</value>
+      <webElementGuid>aa9a494a-5603-4d10-b385-1f5035de1ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-edit&quot;]/fieldset[1]/div[@class=&quot;form-group&quot;]/div[1]/small[1]</value>
+      <webElementGuid>15d663f0-a112-4e6e-8eb2-9b9b1644286c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/form/fieldset/div[5]/div/small</value>
+      <webElementGuid>1fd3ac79-6dc9-4fbc-b4c2-612347b027ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose files...'])[1]/following::small[1]</value>
+      <webElementGuid>0eaf5a60-8efe-472d-9ba9-786a5017a126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachment'])[1]/following::small[1]</value>
+      <webElementGuid>5ad90767-3bde-4104-91ad-6a311da1694d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incident Specifics'])[1]/preceding::small[1]</value>
+      <webElementGuid>3dd62790-3182-4a7e-ac5e-4dce42a70be5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hold']/parent::*</value>
+      <webElementGuid>d1024b8c-35b8-495a-a9d3-efd2c5925d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/small</value>
+      <webElementGuid>8bdb2484-1fa2-4ff1-871a-a3fb3dbcaa85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Hold Control key to select up to three files' or . = 'Hold Control key to select up to three files')]</value>
+      <webElementGuid>1c70228f-fdbc-48f3-8dbf-f00e5665af9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

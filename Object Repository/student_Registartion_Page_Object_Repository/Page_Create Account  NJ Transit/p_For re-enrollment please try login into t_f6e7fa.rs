@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_For re-enrollment please try login into t_f6e7fa</name>
+   <tag></tag>
+   <elementGuidId>8baa7f03-7ded-436c-a407-b3c2b178a58f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;For re-enrollment please try login into the application using MyTix Student Mont&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e49ed8e3-f1ae-4742-bddc-fd7d1326a6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit css-1vhohya</value>
+      <webElementGuid>a2eede43-b428-40b3-8109-bab427b2c2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>b6b23507-82da-4f49-81df-1ba75380efb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>For re-enrollment please try login into the application using MyTix Student Monthly Pass – Account Management option from your university portal.</value>
+      <webElementGuid>0341b1eb-ff5a-4680-b33e-5b4492ef7d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc&quot;)</value>
+      <webElementGuid>6ad7f300-88ad-49f3-8616-f60ed5540b0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc']</value>
+      <webElementGuid>4a8639f0-5d86-4dbf-9993-22b77257c629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/p[2]</value>
+      <webElementGuid>27561227-ff04-46c0-a87a-6447cc163a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Failed'])[1]/following::p[2]</value>
+      <webElementGuid>f1c25375-624c-4b14-8943-1b36fd8000f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::p[2]</value>
+      <webElementGuid>890b5d33-9814-4c4c-8f14-3e333463f43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::p[1]</value>
+      <webElementGuid>52dba5a5-e9d4-40d5-80a7-626061c2a591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::p[1]</value>
+      <webElementGuid>070bc378-5adb-4324-b1ca-80b1d6a0e95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='For re-enrollment please try login into the application using MyTix Student Monthly Pass – Account Management option from your university portal.']/parent::*</value>
+      <webElementGuid>81ad63fc-7f03-49dc-9215-b8576a4c797e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>69c68e22-ea61-498d-b121-f32c73aff4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc' and (text() = 'For re-enrollment please try login into the application using MyTix Student Monthly Pass – Account Management option from your university portal.' or . = 'For re-enrollment please try login into the application using MyTix Student Monthly Pass – Account Management option from your university portal.')]</value>
+      <webElementGuid>d13f68ae-436b-48f4-83b3-91668e995ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

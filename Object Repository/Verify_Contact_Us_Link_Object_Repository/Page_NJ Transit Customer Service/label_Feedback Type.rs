@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Feedback Type</name>
+   <tag></tag>
+   <elementGuidId>e8682cd6-8881-4ab8-9476-c3b0e76d537e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/form/fieldset/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.label-required</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Feedback Type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e2f01016-fdf3-487a-8a08-0d33e6ff9b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-required</value>
+      <webElementGuid>d3b092e5-c9c1-40e8-a0fe-fd12b37b6be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Feedback Type</value>
+      <webElementGuid>e88a56df-7c7b-40f7-8b43-ea331b169cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-edit&quot;]/fieldset[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-sm form-group&quot;]/label[@class=&quot;label-required&quot;]</value>
+      <webElementGuid>dd3d63ae-b7dc-4250-9868-3a6be6a3e367</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/form/fieldset/div/div/label</value>
+      <webElementGuid>909d0777-5de5-46ae-b084-457dededaefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback'])[1]/following::label[1]</value>
+      <webElementGuid>39bc954e-3a7e-4052-8fb8-e770488be6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[1]</value>
+      <webElementGuid>71d28d22-0f70-459b-82d5-f0a7714dc746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode / Service'])[1]/preceding::label[1]</value>
+      <webElementGuid>11e45d09-2934-41ee-9e92-b31880b2d531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incident Date'])[1]/preceding::label[2]</value>
+      <webElementGuid>47fb0661-68db-4485-b32c-dd8fae31de1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Feedback Type']/parent::*</value>
+      <webElementGuid>e8281a3e-51ac-4ed7-9ae6-1de4028aad0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>625d39a4-bcd8-4f4e-9231-45365f7d9525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Feedback Type' or . = 'Feedback Type')]</value>
+      <webElementGuid>be55c717-bf88-42c9-bcc8-fd223ce91b47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

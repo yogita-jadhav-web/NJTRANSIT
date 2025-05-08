@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify whether only Student with valid university email ID with different Domain cannot is not able to register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55442987-47e6-4a0a-b999-d355f06a2c3b</testCaseGuid>
+</TestCaseEntity>

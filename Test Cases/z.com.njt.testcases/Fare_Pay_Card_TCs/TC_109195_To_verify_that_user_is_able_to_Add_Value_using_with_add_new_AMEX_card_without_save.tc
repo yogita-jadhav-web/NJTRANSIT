@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109195_To_verify_that_user_is_able_to_Add_Value_using_with_add_new_AMEX_card_without_save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f5c8647-dd9e-49b8-9034-0ab161d2151b</testCaseGuid>
+</TestCaseEntity>

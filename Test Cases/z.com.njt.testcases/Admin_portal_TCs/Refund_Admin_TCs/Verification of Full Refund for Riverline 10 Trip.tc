@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for Riverline 10 Trip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>434af13f-c43c-44d1-9d91-88d1c50cdcef</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify Email template - Student account registration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c0014d6-299a-43e9-8b73-e93732426a75</testCaseGuid>
+</TestCaseEntity>

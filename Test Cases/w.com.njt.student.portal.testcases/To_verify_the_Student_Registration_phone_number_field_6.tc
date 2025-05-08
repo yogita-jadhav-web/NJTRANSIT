@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_Student_Registration_phone_number_field_6</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfbfd204-2162-4abb-8d8d-2dd8e0156cb2</testCaseGuid>
+</TestCaseEntity>

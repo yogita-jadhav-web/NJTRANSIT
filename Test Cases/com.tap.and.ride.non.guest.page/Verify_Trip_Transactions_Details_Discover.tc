@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Trip_Transactions_Details_Discover</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51388419-32c6-4baa-9e60-84e32b740095</testCaseGuid>
+</TestCaseEntity>

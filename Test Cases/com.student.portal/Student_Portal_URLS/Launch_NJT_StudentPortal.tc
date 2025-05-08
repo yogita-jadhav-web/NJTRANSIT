@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_NJT_StudentPortal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12954a9d-a1da-4ce2-8385-5b5d7575486b</testCaseGuid>
+</TestCaseEntity>

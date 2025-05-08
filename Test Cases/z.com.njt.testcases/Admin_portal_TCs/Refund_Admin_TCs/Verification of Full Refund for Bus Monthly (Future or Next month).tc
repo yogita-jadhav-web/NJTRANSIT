@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for Bus Monthly (Future or Next month)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91688769-50f7-4651-b93d-35659d45c43f</testCaseGuid>
+</TestCaseEntity>

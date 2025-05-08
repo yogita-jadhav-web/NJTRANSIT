@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Verification link has been sent to SpCpRA_bdcbc5</name>
+   <tag></tag>
+   <elementGuidId>84c5202b-7175-403e-9d06-4e3288060da2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Verification link has been sent to SpCpRA@maildrop.cc Please allow up to 5 minut&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3c79ddf8-e644-4f7e-9371-6e6a15e1a689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit css-14jw1cy</value>
+      <webElementGuid>1f86244b-51b0-4e80-8194-cd60ff82e166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>25c31446-85eb-45f1-9dd6-8e0e36608ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verification link has been sent to SpCpRA@maildrop.cc Please allow up to 5 minutes for the verification email to arrive.</value>
+      <webElementGuid>4490a083-1288-4ae6-8d5c-b208bd455517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc&quot;)</value>
+      <webElementGuid>0a1b764a-aa14-4e9a-8f20-1dd888e08c36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc']</value>
+      <webElementGuid>5328e06f-6f91-4020-8942-7fae6bd901e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/p</value>
+      <webElementGuid>d24a77b3-8645-4090-86f3-16f12e6b3d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Successful'])[1]/following::p[1]</value>
+      <webElementGuid>6ac3e764-564d-4981-ad76-96f88ef2953d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::p[1]</value>
+      <webElementGuid>f0446099-6967-41b0-95f0-5f7a7a19eb11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regenerate'])[1]/preceding::p[2]</value>
+      <webElementGuid>51babf46-e21a-400e-9772-6c9b736eb103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::p[2]</value>
+      <webElementGuid>df7cb337-25aa-454d-848d-931bf266f36f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verification link has been sent to']/parent::*</value>
+      <webElementGuid>d59c4a57-4e01-4203-98a9-625718a9cb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>00e25f2c-7f42-48cb-a324-1a40094af063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc' and (text() = 'Verification link has been sent to SpCpRA@maildrop.cc Please allow up to 5 minutes for the verification email to arrive.' or . = 'Verification link has been sent to SpCpRA@maildrop.cc Please allow up to 5 minutes for the verification email to arrive.')]</value>
+      <webElementGuid>446299b7-f2ff-4d4b-9f3e-9da408e0c124</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

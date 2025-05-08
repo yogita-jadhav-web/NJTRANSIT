@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_Student_Registration_Zip_Postal_code _field_5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cfd3c50-c756-4a2a-b8c7-83a5f46fd0e0</testCaseGuid>
+</TestCaseEntity>

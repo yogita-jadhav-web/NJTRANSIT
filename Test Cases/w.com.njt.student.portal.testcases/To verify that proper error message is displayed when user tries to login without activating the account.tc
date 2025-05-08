@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify that proper error message is displayed when user tries to login without activating the account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>956751dd-8d91-44b9-abbf-76420c3dda64</testCaseGuid>
+</TestCaseEntity>

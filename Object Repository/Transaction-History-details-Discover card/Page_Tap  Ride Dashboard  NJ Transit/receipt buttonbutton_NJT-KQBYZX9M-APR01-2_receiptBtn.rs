@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>receipt buttonbutton_NJT-KQBYZX9M-APR01-2_receiptBtn</name>
+   <tag></tag>
+   <elementGuidId>d4f3e755-dced-44be-a2f4-0acfaec27c03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#receiptBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='receiptBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;04/01/2025 18:47:57 128538 Trip $38.80 Approved NJT-KQBYZX9M-APR01-2 print receipt&quot;i] >> internal:label=&quot;print receipt&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>13803053-8757-465a-bc90-09a88163cf3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1cabc0</value>
+      <webElementGuid>c435e9e7-f62c-4772-a718-ad3d0ee7f005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f2a9bb35-ba20-4743-9f7f-a23309c3b558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0b1e5017-81e4-4ce1-87cf-e82bbd71558e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>receiptBtn</value>
+      <webElementGuid>f4d88039-db92-4241-bef8-62ada8e87cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>print receipt</value>
+      <webElementGuid>6ad2c294-3182-425c-bf61-0d3ce4d7bc6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>print receipt</value>
+      <webElementGuid>3bd302f8-a753-423b-a204-688ea240cb4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-cwpu7v&quot;]/div[@class=&quot;MuiDialogContent-root css-104qf4r&quot;]/div[@class=&quot;MuiTableContainer-root css-kge0eu&quot;]/table[@class=&quot;MuiTable-root css-1owb465&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@id=&quot;transactionRow&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeSmall css-37qz6k&quot;]/button[@id=&quot;receiptBtn&quot;]</value>
+      <webElementGuid>b3e95ec5-159d-4269-8f99-66082fc20130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='receiptBtn']</value>
+      <webElementGuid>b6320668-a88d-4dad-b7f7-c1c81b5770e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'receiptBtn' and @title = 'print receipt']</value>
+      <webElementGuid>5f25863d-5628-49ba-8174-4589393c9a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='transactionRow']/td[6]/button</value>
+      <webElementGuid>27a1fb77-18f8-443c-811e-64056af9ba21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button</value>
+      <webElementGuid>bd9fd97a-7ed4-4296-b8c0-fa55657921cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NJT-KQBYZX9M-APR01-2'])[1]/following::button[1]</value>
+      <webElementGuid>5df76620-5bd8-4a3c-8397-d6955f30340c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[1]/following::button[1]</value>
+      <webElementGuid>ca00a6c4-fa2a-4a30-816b-e14a91657370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trip'])[4]/preceding::button[2]</value>
+      <webElementGuid>043343f6-40ec-4357-b5e2-6da817591412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$38.80'])[2]/preceding::button[2]</value>
+      <webElementGuid>eeae6d6e-799b-4586-9f3a-614ed84f325f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

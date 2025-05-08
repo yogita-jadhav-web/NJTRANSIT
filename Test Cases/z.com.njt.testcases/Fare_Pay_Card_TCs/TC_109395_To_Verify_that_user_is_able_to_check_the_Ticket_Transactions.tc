@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109395_To_Verify_that_user_is_able_to_check_the_Ticket_Transactions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e84afdf-61a7-4081-a4bd-b81e73e9b265</testCaseGuid>
+</TestCaseEntity>

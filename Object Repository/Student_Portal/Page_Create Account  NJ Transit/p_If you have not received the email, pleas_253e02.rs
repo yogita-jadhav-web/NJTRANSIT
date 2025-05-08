@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_If you have not received the email, pleas_253e02</name>
+   <tag></tag>
+   <elementGuidId>63df6580-4277-49f6-a1fe-7df2b84fc61c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#desc1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;If you have not received the email, please check your spam or junk folder. To re&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f5615959-10d2-4595-82fa-0f88bd805c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit css-soxkgv</value>
+      <webElementGuid>84427f65-ea01-4330-855f-25e8f0506fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc1</value>
+      <webElementGuid>63590b35-0e4d-465a-99a2-a9dd9c5dc92f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If you have not received the email, please check your spam or junk folder. To resend click on regenerate button. </value>
+      <webElementGuid>72f0dae6-c272-467b-8724-99daa2cc4e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc1&quot;)</value>
+      <webElementGuid>f2a95330-19d2-4f74-9623-736dc4413af5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc1']</value>
+      <webElementGuid>cc183e89-1b35-4891-ae9e-950a01b9886c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div/p[2]</value>
+      <webElementGuid>7bcbd28e-ca99-4b1e-bee3-9dda05000b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Successful'])[1]/following::p[2]</value>
+      <webElementGuid>8f0eb94c-eab8-4be8-b572-dd38ee61320d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::p[2]</value>
+      <webElementGuid>d5bd1977-b65f-43c7-8f1f-91b1974c5bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regenerate'])[1]/preceding::p[1]</value>
+      <webElementGuid>f00c5d3d-4386-4098-a793-31d522e924d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::p[1]</value>
+      <webElementGuid>5c76dc8f-837a-4bb7-8f77-ee6d748dcb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='If you have not received the email, please check your spam or junk folder. To resend click on regenerate button.']/parent::*</value>
+      <webElementGuid>84676e4a-b141-451c-bc47-be25fefc5751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>741d9e9e-1f1d-4e6b-a475-50b5a9dd7758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc1' and (text() = 'If you have not received the email, please check your spam or junk folder. To resend click on regenerate button. ' or . = 'If you have not received the email, please check your spam or junk folder. To resend click on regenerate button. ')]</value>
+      <webElementGuid>4e0490aa-c92a-4cc3-a3ae-b793733cf932</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

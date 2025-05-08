@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Refresh Mailbox</name>
+   <tag></tag>
+   <elementGuidId>c5366db3-e928-4250-9354-55107b764d24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Refresh Mailbox&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c47c9fd2-4513-4210-829f-1931c3a20e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2</value>
+      <webElementGuid>550ee9c5-e4f5-46c3-a6fd-653336a233d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refresh Mailbox</value>
+      <webElementGuid>2a37f658-6403-487e-8151-98f249a730b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;overflow-x-hidden&quot;]/main[@class=&quot;relative z-0 dark:text-stone-50/75 md:min-h-[50vh] lg:min-h-screen&quot;]/div[1]/div[@class=&quot;pb-16 pt-16 md:container md:mx-auto md:min-h-[50vh] md:px-8 md:pb-0 lg:min-h-[calc(100vh-12rem)]&quot;]/div[@class=&quot;items-start justify-center md:flex&quot;]/div[@class=&quot;md:flex-0 px-8 md:flex md:basis-full md:items-start md:justify-center md:px-0&quot;]/div[@class=&quot;md:flex-1 md:basis-1/2 md:justify-center md:pt-8 lg:pt-16&quot;]/div[@class=&quot;flex flex-col items-center justify-center pb-8 text-center lg:flex-row&quot;]/button[@class=&quot;order-2 mt-4 inline-flex w-full flex-none transform cursor-pointer items-center justify-center rounded-md border-0 bg-rose-500 p-2 px-4 text-stone-50 transition duration-300 ease-in-out hover:bg-gradient-to-r hover:from-pink-400 hover:to-rose-400 focus-visible:bg-gradient-to-r focus-visible:from-pink-400 focus-visible:to-rose-400 focus-visible:outline-rose-600 active:from-pink-500 active:to-rose-500 dark:bg-rose-700 dark:hover:from-pink-600 dark:hover:to-rose-600 dark:focus-visible:from-pink-600 dark:focus-visible:to-rose-600 dark:active:from-pink-700 dark:active:to-rose-700 md:mt-0 md:w-auto lg:order-1&quot;]/span[@class=&quot;ml-2&quot;]</value>
+      <webElementGuid>b712e20b-fe82-4d6b-a133-1e7940ad01f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>a8f6bb20-7936-4590-a685-2ffcf5cebf10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::span[1]</value>
+      <webElementGuid>1e5d0dfd-89e5-45b9-9731-8be56483d2cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailbox Alias'])[1]/preceding::span[1]</value>
+      <webElementGuid>d4fbf28f-c246-4285-8440-723b40a8d152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refresh Mailbox']/parent::*</value>
+      <webElementGuid>66704087-9b84-45e9-9439-f941d06a175e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>bcccc8d2-ea42-4ed7-9cbc-12471f99b733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Refresh Mailbox' or . = 'Refresh Mailbox')]</value>
+      <webElementGuid>6d8ba1ac-6006-4292-9893-666ee4b77749</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_Student_ReEnrollment_with_empty_student_id_8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef068bac-95e1-41b5-923b-f17fcecaca95</testCaseGuid>
+</TestCaseEntity>

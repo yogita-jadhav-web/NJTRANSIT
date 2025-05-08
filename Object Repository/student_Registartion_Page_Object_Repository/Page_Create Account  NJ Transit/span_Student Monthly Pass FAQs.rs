@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Student Monthly Pass FAQs</name>
+   <tag></tag>
+   <elementGuidId>cdbb9850-aa38-45e6-8e1c-8146a444b249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#studentTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='studentTitle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Student Monthly Pass FAQs.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fbb99ae9-d3b1-4d96-addb-c6bc09c10b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-modalTitle MuiTypography-alignCenter css-1em741</value>
+      <webElementGuid>e86f1fdd-3d22-4ae8-8b4a-1cf8451f64e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>studentTitle</value>
+      <webElementGuid>ba8f8da9-e63a-40ae-90e5-83376a33576e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Student Monthly Pass FAQs.</value>
+      <webElementGuid>f8a3e379-8887-4ca2-83a1-970208ffe037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;studentTitle&quot;)</value>
+      <webElementGuid>d76609c4-34f2-44f7-b7c8-73b71bbc99aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='studentTitle']</value>
+      <webElementGuid>615765dd-c14e-4b27-a366-28dcd67b2a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerForm']/div/div[2]/div/button/span</value>
+      <webElementGuid>94b78205-0b82-411e-ab1d-5fbd2d970685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[10]/following::span[4]</value>
+      <webElementGuid>9878e333-e58d-425b-b175-4cab42860111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Of Birth (MM/DD)'])[1]/following::span[5]</value>
+      <webElementGuid>99b43a39-b27c-411e-8832-a407d0f5c540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/preceding::span[1]</value>
+      <webElementGuid>744e05a8-c3c1-49bb-a73a-8f906fca6cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Student Monthly Pass FAQs.']/parent::*</value>
+      <webElementGuid>d7e961b2-4f87-416a-8135-912d185d752c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span</value>
+      <webElementGuid>e6a32b39-ef9a-41c2-87ad-3bbac21e8c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'studentTitle' and (text() = 'Student Monthly Pass FAQs.' or . = 'Student Monthly Pass FAQs.')]</value>
+      <webElementGuid>50d4f6ea-72de-4314-8231-f961330654f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Verify Email Address</name>
+   <tag></tag>
+   <elementGuidId>449dac65-cff0-4744-b85f-2d1a0cc40a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Verify Email Address')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Verify Email Address&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75039135-1517-4f81-8ac4-3a80afe5e940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cmsqa.cmsservices.us/njt-web/activateUser?appTypeId=7&amp;&amp;verification_key=+ZcgWwm2mUo3lsHBrURT6%2FbhIzY9%2FCmiAzQrO+px5%2FHJu4l193TiSVcNoc2e691A</value>
+      <webElementGuid>8c01a8bf-5be6-4072-b79e-c39c170e9897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>cc49b9b8-ace9-4700-ae73-75aa0039a485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify Email Address</value>
+      <webElementGuid>f3ac3498-9fc1-4487-82aa-c66b2fae49fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/center[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;container&quot;]/table[@class=&quot;container&quot;]/tbody[1]/tr[2]/td[1]/table[@class=&quot;container&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/a[1]</value>
+      <webElementGuid>188240d0-316c-40e2-af22-cdd62da6d2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/student_Registartion_Page_Object_Repository/Page_Create Account  NJ Transit/iframe_Email Verification for NJ TRANSIT My_7df3e7</value>
+      <webElementGuid>a21e4cdc-1dcf-473d-90ee-f40649680d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Verify Email Address')]</value>
+      <webElementGuid>04f1b1ea-1be7-4df9-af65-fa69c7b190ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi RkzMfn,'])[1]/following::a[1]</value>
+      <webElementGuid>696fc20f-32c5-4d99-b39f-6ec2820ec5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The email verification link will expire in 1 hours.'])[1]/preceding::a[1]</value>
+      <webElementGuid>7e58281f-84c5-4427-95b0-dcc16b97df8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify Email Address']/parent::*</value>
+      <webElementGuid>090d5304-6961-4266-b5bb-95cbb2847f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cmsqa.cmsservices.us/njt-web/activateUser?appTypeId=7&amp;&amp;verification_key=+ZcgWwm2mUo3lsHBrURT6%2FbhIzY9%2FCmiAzQrO+px5%2FHJu4l193TiSVcNoc2e691A')]</value>
+      <webElementGuid>1837b321-b931-46d8-b7b0-bc42168855af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>0a0c1071-e949-47a5-9e10-34d9da5a227f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cmsqa.cmsservices.us/njt-web/activateUser?appTypeId=7&amp;&amp;verification_key=+ZcgWwm2mUo3lsHBrURT6%2FbhIzY9%2FCmiAzQrO+px5%2FHJu4l193TiSVcNoc2e691A' and (text() = 'Verify Email Address' or . = 'Verify Email Address')]</value>
+      <webElementGuid>96e6205a-e6df-4c3c-83ec-d5083b7e6000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

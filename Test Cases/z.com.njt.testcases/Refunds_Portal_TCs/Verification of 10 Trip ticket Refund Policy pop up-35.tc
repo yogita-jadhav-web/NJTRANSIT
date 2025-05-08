@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of 10 Trip ticket Refund Policy pop up-35</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cafc46b-7ec7-479c-ba65-679a55fd974f</testCaseGuid>
+</TestCaseEntity>

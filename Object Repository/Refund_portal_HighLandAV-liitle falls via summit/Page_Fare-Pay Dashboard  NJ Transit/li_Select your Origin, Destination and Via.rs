@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Select your Origin, Destination and Via</name>
+   <tag></tag>
+   <elementGuidId>39a7562b-00a4-4228-a3cd-c18360a6f5d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Select your Origin, Destination and Via&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>439d8148-41f8-47c9-b58e-638180cc99d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-co4xce</value>
+      <webElementGuid>ec089e2c-5a99-475f-b154-4cf256f5ea2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select your Origin, Destination and Via </value>
+      <webElementGuid>e2f2446e-8697-4a57-9ec2-cea4c4d50b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-cwpu7v&quot;]/div[@class=&quot;MuiDialogContent-root css-69br6q&quot;]/div[@class=&quot;MuiBox-root css-1r12575&quot;]/div[@class=&quot;MuiBox-root css-1ebnygn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-vvwp1e&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6 css-gp3oij&quot;]/ol[@class=&quot;MuiBox-root css-o2cfmk&quot;]/li[@class=&quot;MuiBox-root css-co4xce&quot;]</value>
+      <webElementGuid>b069c6be-7afe-4cb5-a9e2-cfc5a4c94ac8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Select your Origin, Destination and Via ' or . = ' Select your Origin, Destination and Via ')]</value>
+      <webElementGuid>3d52c490-0c63-4287-8280-7b1511ff4f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='historyModal']/div[3]/div/div[2]/div[2]/div/div[2]/div/ol/li[2]</value>
+      <webElementGuid>a49636a1-7a1a-4939-b05a-f39c57de5568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[2]</value>
+      <webElementGuid>b01302e7-2ec9-4d3f-8433-f207e0e495bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::li[2]</value>
+      <webElementGuid>37b69367-afda-4d9b-b253-d4e98bf3b49c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

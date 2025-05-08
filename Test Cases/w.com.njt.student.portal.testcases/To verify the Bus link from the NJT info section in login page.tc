@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the Bus link from the NJT info section in login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d4d7e57-c601-4762-b0ef-c6929358e751</testCaseGuid>
+</TestCaseEntity>

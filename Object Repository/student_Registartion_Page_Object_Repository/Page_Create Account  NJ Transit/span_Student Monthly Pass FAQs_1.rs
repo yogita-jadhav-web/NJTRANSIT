@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Student Monthly Pass FAQs_1</name>
+   <tag></tag>
+   <elementGuidId>d064cd1d-f7e5-48ac-b4ba-10d97c9504b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='title'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Student Monthly Pass FAQs&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8ce69a2-9366-4500-a4b0-ff06200ebcb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-modalText css-11wdyqy</value>
+      <webElementGuid>a70972a0-d507-4ab0-922b-d79ef6133f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>bfa35621-ee35-48a9-b8ee-81c5ac287cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Student Monthly Pass FAQs</value>
+      <webElementGuid>62ec9e39-09b9-4fee-9688-fb0b01820635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:rb:&quot;)/span[@id=&quot;title&quot;]</value>
+      <webElementGuid>bc5d511a-43e9-47c7-87dd-8fb29049c820</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='title'])[2]</value>
+      <webElementGuid>c8edcdc8-3b54-40ef-82bc-af61ee7b3766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h2[@id=':rb:']/span</value>
+      <webElementGuid>7557c907-2053-49cb-a9cb-6334fa77e59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback will be used to help improve Google Translate'])[1]/following::span[5]</value>
+      <webElementGuid>4e0ebaf1-aa21-4cd2-96ac-06a87e46fec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which mobile devices can run the app?'])[1]/preceding::span[2]</value>
+      <webElementGuid>d06b4a0f-adfb-4ae4-87d7-8ecbb0bed305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can I use MyTix on multiple devices?'])[1]/preceding::span[2]</value>
+      <webElementGuid>31246527-ea71-47e7-870b-7d1bf4f00e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Student Monthly Pass FAQs']/parent::*</value>
+      <webElementGuid>078d2e7a-d07a-47d6-a64e-a2a4b59372a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>f4e61d95-319a-4ee4-8afe-8f7dc342779c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'title' and (text() = 'Student Monthly Pass FAQs' or . = 'Student Monthly Pass FAQs')]</value>
+      <webElementGuid>cd4dcd99-567f-4f9f-aabf-b05ade837054</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

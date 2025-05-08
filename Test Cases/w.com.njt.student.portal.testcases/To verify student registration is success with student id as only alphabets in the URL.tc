@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify student registration is success with student id as only alphabets in the URL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9987b29-e6fe-4590-a703-2e65feef6dd4</testCaseGuid>
+</TestCaseEntity>

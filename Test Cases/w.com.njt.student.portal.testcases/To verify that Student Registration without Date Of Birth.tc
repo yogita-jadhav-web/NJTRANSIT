@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify that Student Registration without Date Of Birth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f60e91f-cccb-4ef3-85e5-cbadc0e13ba3</testCaseGuid>
+</TestCaseEntity>

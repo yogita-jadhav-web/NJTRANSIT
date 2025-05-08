@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the Student Monthly Pass FAQs link in login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d183160-3579-4762-b889-d36e51cb0551</testCaseGuid>
+</TestCaseEntity>

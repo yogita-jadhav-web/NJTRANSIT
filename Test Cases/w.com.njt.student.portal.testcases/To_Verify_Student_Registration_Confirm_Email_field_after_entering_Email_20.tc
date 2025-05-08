@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_Verify_Student_Registration_Confirm_Email_field_after_entering_Email_20</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fc436d5-e933-4f96-88b7-d7705fcbf05e</testCaseGuid>
+</TestCaseEntity>

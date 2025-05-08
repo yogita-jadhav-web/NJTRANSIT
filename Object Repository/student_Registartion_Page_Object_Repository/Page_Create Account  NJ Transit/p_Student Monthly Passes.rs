@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Student Monthly Passes</name>
+   <tag></tag>
+   <elementGuidId>11cf1fc7-f758-46ed-a15d-535294caa40d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mainTitle4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='mainTitle4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Student Monthly Passes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>84f20b03-981c-4d72-ac36-9f9c9ddc4e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-qq5wwu</value>
+      <webElementGuid>e09c4e12-26a6-4c43-9bb8-7a8ecdb2f716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mainTitle4</value>
+      <webElementGuid>0786ba10-4fd8-498d-a769-541f216da03a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Student Monthly Passes</value>
+      <webElementGuid>52245176-1b0f-4504-bb4b-6ec3af8e6519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainTitle4&quot;)</value>
+      <webElementGuid>4bbacb5a-7cf0-4eb1-a0ab-ebbf741453b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='mainTitle4']</value>
+      <webElementGuid>9f651fea-ddbf-4b78-a850-a80e1779dce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/p[2]</value>
+      <webElementGuid>e6125279-cbc2-46ca-ab79-5985f41ac194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What forms of payment can I use?'])[1]/following::p[2]</value>
+      <webElementGuid>cab10443-b1a7-4804-accb-6fae146924eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can I use MyTix on multiple devices?'])[1]/following::p[3]</value>
+      <webElementGuid>7d8ef72d-c99b-4467-9219-15ec72bcc0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where can I use a Student Monthly Pass?'])[1]/preceding::p[1]</value>
+      <webElementGuid>02fbe0eb-3b05-488d-a88b-05d86d94dc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I purchase my first mobile Student Monthly Pass?'])[1]/preceding::p[2]</value>
+      <webElementGuid>8d33df55-61de-4a95-8f30-af5eaebc183a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Student Monthly Passes']/parent::*</value>
+      <webElementGuid>ebc7bb36-ab4d-4c31-9964-e40d9f9980de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>0f8a7ab3-c393-461c-933f-9d9862fc27c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'mainTitle4' and (text() = 'Student Monthly Passes' or . = 'Student Monthly Passes')]</value>
+      <webElementGuid>eaae0bac-58f2-4856-9687-4bf0cdec725c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

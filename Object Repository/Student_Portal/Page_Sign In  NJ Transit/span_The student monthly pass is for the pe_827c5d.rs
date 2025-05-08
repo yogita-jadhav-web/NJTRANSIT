@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_The student monthly pass is for the pe_827c5d</name>
+   <tag></tag>
+   <elementGuidId>68455c19-8c41-467a-933b-6d91d1cfac58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#studentDesc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='studentDesc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The student monthly pass is for the personal use of the student who purchased it&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2b22305-ea44-426e-96ba-c971bf65fb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subText css-j9sgnv</value>
+      <webElementGuid>60d9df88-a893-4e19-81c0-87a07634c8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>studentDesc</value>
+      <webElementGuid>dd2c22b9-e643-4962-a52b-c79ee7cbe66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The student monthly pass is for the personal use of the student who purchased it and is restricted for use traveling to/from stations indicated on the pass for the sole purpose of attending school. Student passes are not honored to or from any other rail station except those printed on the pass. But they may be used on certain buses and light rail vehicles as permitted under NJ TRANSIT cross-honoring policies. Details are available in the ‘Travel Flexibility’ section of the  train, bus  or light rail ticket webpages. NJ TRANSIT reserves the right to review the applications for student passes. To ensure compliance with NJ TRANSIT policies, Students must present their student identification card upon request by train crew personnel or any NJ TRANSIT representative.</value>
+      <webElementGuid>b0880435-25fc-4c7e-944f-53d49b9a2924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;studentDesc&quot;)</value>
+      <webElementGuid>1edca20d-acd3-4ab1-ba63-f313c707dbf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='studentDesc']</value>
+      <webElementGuid>04154b41-74a1-4e13-a260-da648039c4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginCard']/div/div/div[3]/div/div/span</value>
+      <webElementGuid>36e7c2bf-2bfb-4a4f-8cb4-71509896bc86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/following::span[1]</value>
+      <webElementGuid>4d1a89dd-536b-42dc-bb4f-83ba5062e474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Monthly Pass FAQs.'])[1]/following::span[1]</value>
+      <webElementGuid>1b677d45-4069-4899-8ecc-c91246fddee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The student monthly pass is for the personal use of the student who purchased it and is restricted for use traveling to/from stations indicated on the pass for the sole purpose of attending school. Student passes are not honored to or from any other rail station except those printed on the pass. But they may be used on certain buses and light rail vehicles as permitted under NJ TRANSIT cross-honoring policies. Details are available in the ‘Travel Flexibility’ section of the']/parent::*</value>
+      <webElementGuid>2e39f7c1-eba5-41c9-9678-c0e41ebc379e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>43c5da69-904c-4b3f-8128-e05793c8f8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'studentDesc' and (text() = 'The student monthly pass is for the personal use of the student who purchased it and is restricted for use traveling to/from stations indicated on the pass for the sole purpose of attending school. Student passes are not honored to or from any other rail station except those printed on the pass. But they may be used on certain buses and light rail vehicles as permitted under NJ TRANSIT cross-honoring policies. Details are available in the ‘Travel Flexibility’ section of the  train, bus  or light rail ticket webpages. NJ TRANSIT reserves the right to review the applications for student passes. To ensure compliance with NJ TRANSIT policies, Students must present their student identification card upon request by train crew personnel or any NJ TRANSIT representative.' or . = 'The student monthly pass is for the personal use of the student who purchased it and is restricted for use traveling to/from stations indicated on the pass for the sole purpose of attending school. Student passes are not honored to or from any other rail station except those printed on the pass. But they may be used on certain buses and light rail vehicles as permitted under NJ TRANSIT cross-honoring policies. Details are available in the ‘Travel Flexibility’ section of the  train, bus  or light rail ticket webpages. NJ TRANSIT reserves the right to review the applications for student passes. To ensure compliance with NJ TRANSIT policies, Students must present their student identification card upon request by train crew personnel or any NJ TRANSIT representative.')]</value>
+      <webElementGuid>fe7eb7eb-54f7-4f07-ab10-4e99e2be3b8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for a Secaucus-NWK Via Rail ticket-4</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d47bf9f7-9357-4c5e-9ba9-ab5e6c9370f8</testCaseGuid>
+</TestCaseEntity>

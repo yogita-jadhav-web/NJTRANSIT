@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_that_Student_Registration_with_Mixed_Case_Email_Id_15</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21f9fede-3b19-4326-9d4f-507c6560787a</testCaseGuid>
+</TestCaseEntity>

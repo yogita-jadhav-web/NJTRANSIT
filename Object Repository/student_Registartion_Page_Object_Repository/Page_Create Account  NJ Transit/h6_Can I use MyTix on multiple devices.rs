@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Can I use MyTix on multiple devices</name>
+   <tag></tag>
+   <elementGuidId>3932ba40-4b0d-4cdb-a271-b7a238527277</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#title2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@id='title2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Can I use MyTix on multiple devices?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>d0ff5840-6acd-46a8-ba9d-f82c0cd91b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subtitle1 css-1c5co21</value>
+      <webElementGuid>f79f7b58-0d64-4d4b-bc50-e93d89e324c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title2</value>
+      <webElementGuid>aed94ef3-c23b-4d9e-89bf-8fbeef0181e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Can I use MyTix on multiple devices?</value>
+      <webElementGuid>440b25d0-d23c-4f43-aec9-da4ebf5c6e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title2&quot;)</value>
+      <webElementGuid>657e6a91-e1e0-4bfc-85e6-6afe7f775bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h6[@id='title2']</value>
+      <webElementGuid>1aa277d6-d97b-417e-b258-2a2e1a633583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[2]/h6</value>
+      <webElementGuid>6271e845-9b09-475d-bbff-7eb27c66f98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which mobile devices can run the app?'])[1]/following::h6[1]</value>
+      <webElementGuid>13c3220b-3650-4f7f-a49f-244b78def5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Monthly Pass FAQs'])[1]/following::h6[2]</value>
+      <webElementGuid>2f00b6cc-f926-41c6-8260-c544c6729c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What forms of payment can I use?'])[1]/preceding::h6[1]</value>
+      <webElementGuid>3ea7b4dd-f59e-4000-b766-973ccba6a784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where can I use a Student Monthly Pass?'])[1]/preceding::h6[2]</value>
+      <webElementGuid>d8b3a258-72f7-4c75-a5ed-dc9f79f586cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Can I use MyTix on multiple devices?']/parent::*</value>
+      <webElementGuid>1e480001-5ebb-4c22-8f9a-77a91e0e5780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h6</value>
+      <webElementGuid>3a4bfbba-5019-4230-b477-4cd426c6b5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[@id = 'title2' and (text() = 'Can I use MyTix on multiple devices?' or . = 'Can I use MyTix on multiple devices?')]</value>
+      <webElementGuid>3772c297-4975-42cc-9eec-be917d295622</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

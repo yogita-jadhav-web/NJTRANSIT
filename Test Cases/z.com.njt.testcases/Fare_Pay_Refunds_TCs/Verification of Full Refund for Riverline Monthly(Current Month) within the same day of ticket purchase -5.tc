@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for Riverline Monthly(Current Month) within the same day of ticket purchase -5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37922de8-a226-45ea-b3ef-33832eb1e37d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_that_Student_Registration_with_Upper_Case_Email_Id_14</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4388bfe8-a664-4caa-adec-c080c11b1e78</testCaseGuid>
+</TestCaseEntity>

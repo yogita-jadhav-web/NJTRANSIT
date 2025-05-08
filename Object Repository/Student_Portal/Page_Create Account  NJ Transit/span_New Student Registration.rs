@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New Student Registration</name>
+   <tag></tag>
+   <elementGuidId>51418092-1916-4d25-b371-e5c7b0dd82bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#registerTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='registerTitle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;New Student Registration&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>691d80ff-a5e3-4b93-8021-29b2cd6440df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-modalTitle MuiTypography-alignCenter css-1vhd80f</value>
+      <webElementGuid>c96c3d23-4c5a-4787-88f9-f7fbc5fcda41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>registerTitle</value>
+      <webElementGuid>69f1e570-a702-4b89-9f2d-10333bab4940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Student Registration</value>
+      <webElementGuid>83ef439d-14db-4e71-91b3-f62f33e87674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerTitle&quot;)</value>
+      <webElementGuid>e95af52c-8cc3-4fe8-bd3f-129e3e4783f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='registerTitle']</value>
+      <webElementGuid>9c8d1588-73bf-4938-ab72-baf764f55f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='registerCard']/div/div/div/h1/span</value>
+      <webElementGuid>6bc7749c-bedd-4db1-b9ac-49fe87c85898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::span[1]</value>
+      <webElementGuid>ef6fbc13-be3b-4ded-92a9-27822c92f63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::span[1]</value>
+      <webElementGuid>af2decbd-bcb4-4dac-9ec7-e90f86315308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your Mobile MyTix Student Monthly Pass account with these simple steps.'])[1]/preceding::span[1]</value>
+      <webElementGuid>00f5b0c4-8b1e-452e-b5c5-5b3321e3b4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Student Registration']/parent::*</value>
+      <webElementGuid>4b16c75d-dab0-4412-83ee-72523f9cd6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>8f792719-0edc-40d0-b275-c181fb239078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'registerTitle' and (text() = 'New Student Registration' or . = 'New Student Registration')]</value>
+      <webElementGuid>fa217410-331f-4cd2-8185-642cae7366d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Weekly ticket Refund Policy pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b5bb048-4f00-4f2f-a18e-baaa9e47dbf1</testCaseGuid>
+</TestCaseEntity>

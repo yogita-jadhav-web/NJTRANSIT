@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of seocnd 10 Trip purchase when current 10 Trip refund is in pending state-51</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80188364-2f0f-4ab6-9fee-801761c37d13</testCaseGuid>
+</TestCaseEntity>

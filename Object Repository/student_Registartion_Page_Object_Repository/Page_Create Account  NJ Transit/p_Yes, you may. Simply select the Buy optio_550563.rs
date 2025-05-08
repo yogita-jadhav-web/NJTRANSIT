@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Yes, you may. Simply select the Buy optio_550563</name>
+   <tag></tag>
+   <elementGuidId>e4edf340-bea7-4ada-80b3-a04924fa580a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#desc10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc10']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Yes, you may. Simply select the Buy option in the navigation menu to purchase an&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>34cf03fe-0624-4a7a-90f5-d6a1a52ae2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1iv26rg</value>
+      <webElementGuid>82d5ada1-4963-4a3c-8db3-3ba365096b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc10</value>
+      <webElementGuid>a693837b-1f73-452d-beda-dc8a43788944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, you may. Simply select the Buy option in the navigation menu to purchase any additional tickets.</value>
+      <webElementGuid>deecea7d-c989-47e7-a991-8e4b8305dd11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc10&quot;)</value>
+      <webElementGuid>00f519fb-b1a2-487a-8555-36f5595e2c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc10']</value>
+      <webElementGuid>ea446689-e674-412a-9721-7b8e7eba2370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[9]/p</value>
+      <webElementGuid>72c25043-d2b1-467f-8ec0-3257a9832b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When can I purchase my student monthly pass?'])[1]/following::p[2]</value>
+      <webElementGuid>097ad7c1-c8a6-4d19-9930-b1f6a1f428f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I have to renew my Student Pass account at any time?'])[1]/following::p[3]</value>
+      <webElementGuid>341b7d61-af85-4517-b732-cdf33fbe19bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I use my Student Monthly Pass?'])[1]/preceding::p[1]</value>
+      <webElementGuid>c005f45e-9cd9-405c-a621-cab5c06e0b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='train'])[1]/preceding::p[1]</value>
+      <webElementGuid>ea32aaa0-61e0-4cfd-9727-8e7b513bdb97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes, you may. Simply select the Buy option in the navigation menu to purchase any additional tickets.']/parent::*</value>
+      <webElementGuid>b30852c4-ac86-4c8d-9af7-ecc53f16c92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/p</value>
+      <webElementGuid>459fd13e-3e98-4609-bc23-abece83fa08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc10' and (text() = 'Yes, you may. Simply select the Buy option in the navigation menu to purchase any additional tickets.' or . = 'Yes, you may. Simply select the Buy option in the navigation menu to purchase any additional tickets.')]</value>
+      <webElementGuid>4c031529-bf70-449f-8c08-8e1ecde468bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_that _Student_Registration_with_lower_Case_Email_Id_16</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76482191-3d63-4c49-8c55-fc89bc01dcef</testCaseGuid>
+</TestCaseEntity>

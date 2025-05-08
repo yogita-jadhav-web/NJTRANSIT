@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify Contact Us link for Student Portal Registration page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa06f1d0-88f8-43e6-b5a8-e3e46e00f691</testCaseGuid>
+</TestCaseEntity>

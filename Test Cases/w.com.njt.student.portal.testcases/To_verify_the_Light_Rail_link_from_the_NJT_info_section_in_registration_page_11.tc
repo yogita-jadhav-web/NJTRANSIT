@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_Light_Rail_link_from_the_NJT_info_section_in_registration_page_11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c203377-0e91-455a-8720-558f05faaf8e</testCaseGuid>
+</TestCaseEntity>

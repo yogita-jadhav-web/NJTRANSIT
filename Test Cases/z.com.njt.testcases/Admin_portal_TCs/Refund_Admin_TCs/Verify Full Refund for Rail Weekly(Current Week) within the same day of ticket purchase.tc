@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Full Refund for Rail Weekly(Current Week) within the same day of ticket purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77b7607b-64c5-4710-bc9e-022f787713a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the Student Registration- Date of birth field validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb6dc811-2bad-4b01-b984-210b344d2522</testCaseGuid>
+</TestCaseEntity>

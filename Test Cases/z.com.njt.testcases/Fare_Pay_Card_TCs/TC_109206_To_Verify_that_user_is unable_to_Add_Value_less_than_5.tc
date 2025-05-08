@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_109206_To_Verify_that_user_is unable_to_Add_Value_less_than_5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b2eab8c-316a-4b39-be04-5e972505cbcc</testCaseGuid>
+</TestCaseEntity>

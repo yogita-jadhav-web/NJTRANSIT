@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T0_Verify_Student_Registration_Error_message_for_Empty_University_Codec</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8498ec52-1058-4e3b-a43f-606b6d75e037</testCaseGuid>
+</TestCaseEntity>

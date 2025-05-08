@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Student passes are available for travel o_952788</name>
+   <tag></tag>
+   <elementGuidId>50a07228-a0c3-4c6b-b6c5-bb4617b9b22e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#desc5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='desc5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Student passes are available for travel on all NJ TRANSIT rail lines, bus routes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f017f516-8faa-4a0b-9646-d124d0daf04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1iv26rg</value>
+      <webElementGuid>ee6ee685-01d2-467d-930e-d2a622a83ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desc5</value>
+      <webElementGuid>f7a61081-a10b-4ab6-b8af-a4739da6984c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Student passes are available for travel on all NJ TRANSIT rail lines, bus routes and light rail lines.</value>
+      <webElementGuid>0aaabcf2-67af-48ce-b6a7-98889c7abc8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc5&quot;)</value>
+      <webElementGuid>747c0bd4-1377-4d9b-b089-bd80ae950980</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='desc5']</value>
+      <webElementGuid>4e56d19a-4dd8-4fd1-a331-0d170cb845d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[4]/p</value>
+      <webElementGuid>95b8c5f4-20af-475a-b8da-46ea4fad8142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where can I use a Student Monthly Pass?'])[1]/following::p[1]</value>
+      <webElementGuid>2b39fb2a-ee11-40ec-a36c-8e3fb13f1466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What forms of payment can I use?'])[1]/following::p[3]</value>
+      <webElementGuid>05e8fc7d-cdc1-43b4-be49-579d52b7347a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I purchase my first mobile Student Monthly Pass?'])[1]/preceding::p[1]</value>
+      <webElementGuid>dc5c3eae-c636-4f83-82cd-5e7410168f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I have to renew my Student Pass account at any time?'])[1]/preceding::p[3]</value>
+      <webElementGuid>2784b339-d5f8-4d91-b560-c56606f3fd9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Student passes are available for travel on all NJ TRANSIT rail lines, bus routes and light rail lines.']/parent::*</value>
+      <webElementGuid>b1be013e-f9a0-4252-a369-131a38960ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p</value>
+      <webElementGuid>c20ed284-a205-4cef-a031-04a62b23f276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'desc5' and (text() = 'Student passes are available for travel on all NJ TRANSIT rail lines, bus routes and light rail lines.' or . = 'Student passes are available for travel on all NJ TRANSIT rail lines, bus routes and light rail lines.')]</value>
+      <webElementGuid>99ca3d7d-59c5-4cc2-a8dd-30de0c8f1428</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for a Secaucus via Rail ticket-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54d7e1d1-d2a7-4073-b9b3-f9e07ae1f09a</testCaseGuid>
+</TestCaseEntity>

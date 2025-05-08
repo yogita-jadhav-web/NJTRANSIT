@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Ticket Refund Pop Up for cancel refund-54</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab5a5067-6253-409e-98b6-06868973f13f</testCaseGuid>
+</TestCaseEntity>

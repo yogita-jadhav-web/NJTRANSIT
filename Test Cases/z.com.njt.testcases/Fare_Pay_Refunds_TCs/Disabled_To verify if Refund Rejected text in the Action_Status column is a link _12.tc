@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Disabled_To verify if Refund Rejected text in the Action_Status column is a link _12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb7a297f-18f4-4a5b-93d6-433318b76b09</testCaseGuid>
+</TestCaseEntity>

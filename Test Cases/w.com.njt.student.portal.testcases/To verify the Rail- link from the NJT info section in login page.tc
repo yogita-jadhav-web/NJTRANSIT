@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the Rail- link from the NJT info section in login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f28b4e94-01cd-4789-976b-cd4c71fe2152</testCaseGuid>
+</TestCaseEntity>

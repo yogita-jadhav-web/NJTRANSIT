@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for NLR Monthly (Future or Next month) _11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d961b013-6c56-4582-9cf5-361dcb8a3d9b</testCaseGuid>
+</TestCaseEntity>

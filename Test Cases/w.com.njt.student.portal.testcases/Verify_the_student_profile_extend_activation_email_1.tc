@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_the_student_profile_extend_activation_email_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10aaa93c-cd95-466e-9cb4-d3982e337606</testCaseGuid>
+</TestCaseEntity>

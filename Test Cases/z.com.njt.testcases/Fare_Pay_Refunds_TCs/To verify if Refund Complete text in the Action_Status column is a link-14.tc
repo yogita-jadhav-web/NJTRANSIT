@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify if Refund Complete text in the Action_Status column is a link-14</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3dedb105-ef3e-4c43-8180-a963c1f19040</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_Mailinator_domain_login_URL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>258e3c53-c5a7-4bac-ba9f-0c37f43708af</testCaseGuid>
+</TestCaseEntity>

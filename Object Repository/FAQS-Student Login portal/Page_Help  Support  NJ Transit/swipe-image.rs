@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>swipe-image</name>
+   <tag></tag>
+   <elementGuidId>91b12aca-4fd8-4541-a966-6c7bed179478</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tap']/div/div/div/div[10]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Contactless Symbol: A hand holding a card against a wifi symbol within an oval&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Contactless Symbol: A hand holding a card against a wifi symbol within an oval&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>69112a68-969d-4d67-97ca-bf3c4ba6978d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>border</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e5b23b09-c2a7-4d25-8567-75b4e4a5a77d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./contactless.png</value>
+      <webElementGuid>41726a24-4da3-4f9e-a8de-17742895d8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Contactless Symbol: A hand holding a card against a wifi symbol within an oval</value>
+      <webElementGuid>03b72b89-f462-4f98-9755-0bc40a3be8d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tap&quot;)/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-md-12 reg&quot;]/div[@class=&quot;content&quot;]/div[10]/div[1]/img[1]</value>
+      <webElementGuid>c8c19d70-4fe3-450b-8924-3466665dbd2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tap']/div/div/div/div[10]/div/img</value>
+      <webElementGuid>bf682494-cd9e-407a-a9dc-d74e9304b1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Contactless Symbol: A hand holding a card against a wifi symbol within an oval']</value>
+      <webElementGuid>5a717f41-319c-4110-9765-862da863eca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/img</value>
+      <webElementGuid>4ee8b64c-9a9f-4848-9342-91185f7809ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './contactless.png' and @alt = 'Contactless Symbol: A hand holding a card against a wifi symbol within an oval']</value>
+      <webElementGuid>b388fd66-bdde-4f7a-b362-2d44cb8ea0e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

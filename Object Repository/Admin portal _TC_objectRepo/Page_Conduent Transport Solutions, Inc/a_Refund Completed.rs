@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Refund Completed</name>
+   <tag></tag>
+   <elementGuidId>e51644a6-d722-4b1d-bd40-bdd33e4d5f99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#refundDetailsLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='refundDetailsLink']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;04/17/2025 | 09:02:14 13826 10 Trip Discount Adult Bus Route - 122 | Zones - 2 05/06/2025 | 23:59:59 $33.90 Visa-1111 Refund Completed&quot;i] >> internal:attr=[title=&quot;Click to view Refund details.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a4b5a2b-a322-4975-81bd-eeafb9876f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-cy7di1</value>
+      <webElementGuid>e91db8f8-d3a4-4f39-8005-ca821e63bcbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>refundDetailsLink</value>
+      <webElementGuid>d21e99fa-8e4f-458f-b7fc-07cfaebbb0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Click to view Refund details.</value>
+      <webElementGuid>e08cd5e8-e821-4174-bc38-0b079faf73e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refund Completed</value>
+      <webElementGuid>fc41d6ba-8d38-4bcf-a05f-618f8483141b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-oipzib&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-133i0ul&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-13xy2my&quot;]/table[@class=&quot;MuiTable-root css-6xuflz&quot;]/tbody[@class=&quot;MuiTableBody-root css-aojvaj&quot;]/tr[@class=&quot;MuiTableRow-root css-1wmm2ba&quot;]/th[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-agxex&quot;]/div[@class=&quot;MuiBox-root css-1n2mv2k&quot;]/a[@id=&quot;refundDetailsLink&quot;]</value>
+      <webElementGuid>6fc3672b-beda-4499-81f6-536ed6e60ecc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='refundDetailsLink']</value>
+      <webElementGuid>d94fce64-4eaa-4dff-b7d6-7da02932e0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'refundDetailsLink' and @title = 'Click to view Refund details.' and (text() = 'Refund Completed' or . = 'Refund Completed')]</value>
+      <webElementGuid>5e62e631-cb85-43b5-b26e-a20d2d5989f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div[2]/div[2]/div[4]/div/table/tbody/tr/th[9]/div/a</value>
+      <webElementGuid>c3ba0536-5f0b-45a2-a2a0-b805aebc1f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[9]/div/a</value>
+      <webElementGuid>e6bf9324-3ee5-44e3-8be2-0ca9be2e246a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Refund Completed')]</value>
+      <webElementGuid>6ddc0385-bc3e-4af8-9940-1a3a15423c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Route - 122 | Zones - 2'])[1]/following::a[1]</value>
+      <webElementGuid>6210138e-a3ad-4e59-9d14-ba5b6fcea0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus'])[1]/following::a[1]</value>
+      <webElementGuid>74dbd0be-4057-4ac6-a4bf-9fded5954719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Adult'])[1]/preceding::a[1]</value>
+      <webElementGuid>3973dddb-e713-4124-b2ca-92bc346622af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus'])[2]/preceding::a[1]</value>
+      <webElementGuid>8b0f5b62-9762-4289-a4b7-ad16c0a6e92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refund Completed']/parent::*</value>
+      <webElementGuid>3fd4f4e4-9cbf-45a2-a6a7-9a6a4b4fd2f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

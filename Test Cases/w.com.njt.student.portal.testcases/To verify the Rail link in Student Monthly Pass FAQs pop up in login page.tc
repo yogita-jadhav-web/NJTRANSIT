@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the Rail link in Student Monthly Pass FAQs pop up in login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b87abde9-e92a-4097-9077-da4ef14d1327</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for a Summit Via Rail ticket-23</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b6dca05-1def-4723-a0c2-1fd5ae8cc3c8</testCaseGuid>
+</TestCaseEntity>

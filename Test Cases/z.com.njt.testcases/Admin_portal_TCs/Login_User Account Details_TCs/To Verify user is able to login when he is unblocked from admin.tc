@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify user is able to login when he is unblocked from admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10dac580-738b-4974-b61c-22bd6157558b</testCaseGuid>
+</TestCaseEntity>

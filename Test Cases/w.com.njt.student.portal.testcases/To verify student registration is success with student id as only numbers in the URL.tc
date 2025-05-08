@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify student registration is success with student id as only numbers in the URL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c46d2568-bd91-4a5e-a71f-4b2cff9c69a6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Operation Hours</name>
+   <tag></tag>
+   <elementGuidId>adef7fab-9ee9-46bc-be56-a302f72a48e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app_body']/div/div/div/div/div/div/ul/li[2]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Operation Hours:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>9c6abc7e-581e-4a98-817b-74cf0f282ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operation Hours: </value>
+      <webElementGuid>79fdd325-a57f-4513-be6b-82ddc2e48371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_body&quot;)/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;content--grid&quot;]/div[@class=&quot;content__block&quot;]/div[@class=&quot;content__section&quot;]/ul[@class=&quot;list--icon&quot;]/li[@class=&quot;text-dark&quot;]/strong[1]</value>
+      <webElementGuid>79d3e668-4fa7-4fc9-9cf6-318ceb1affd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app_body']/div/div/div/div/div/div/ul/li[2]/strong</value>
+      <webElementGuid>19aa48b7-e0d7-49be-8f24-5aac9d35d173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service Number:'])[1]/following::strong[1]</value>
+      <webElementGuid>150d97c7-770b-47ca-ab60-e5c4f3a58f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help and Support'])[1]/following::strong[2]</value>
+      <webElementGuid>27081077-0d84-4cdd-b22b-54d500c36de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fare-Card'])[1]/preceding::strong[1]</value>
+      <webElementGuid>8dd1b577-8a1a-466e-8d0a-6c1a56e5f5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operation Hours:']/parent::*</value>
+      <webElementGuid>af569362-746f-42b8-88e2-ac9ffd12af3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/strong</value>
+      <webElementGuid>09282e6d-141c-41ad-b6a4-77136b9da76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Operation Hours: ' or . = 'Operation Hours: ')]</value>
+      <webElementGuid>34965e82-e0a5-4a48-8712-83b8819e9f28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

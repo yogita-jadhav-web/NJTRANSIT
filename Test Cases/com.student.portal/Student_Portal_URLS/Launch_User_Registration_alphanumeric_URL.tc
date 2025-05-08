@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_User_Registration_alphanumeric_URL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>317477a5-76fa-4e28-a950-089c17f077c6</testCaseGuid>
+</TestCaseEntity>

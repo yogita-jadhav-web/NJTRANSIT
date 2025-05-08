@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Blocked</name>
+   <tag></tag>
+   <elementGuidId>1118b3b2-4fbb-4afe-a572-c1ff6fee4121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-ql10bx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = ' Blocked  ' or . = ' Blocked  ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Blocked&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>474701d7-bfc9-4e52-a794-67f3605b1d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-ql10bx</value>
+      <webElementGuid>b71e0e10-4bfd-43ff-b2f9-a88e31dfe56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Blocked  </value>
+      <webElementGuid>559707f6-4fd1-464f-9043-712f18398459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-oipzib&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-eos6ug&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-rrm59m&quot;]/div[@class=&quot;MuiBox-root css-15y8k4q&quot;]/div[@class=&quot;MuiBox-root css-gg4vpm&quot;]/div[@class=&quot;MuiBox-root css-wpwytb&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-ql10bx&quot;]</value>
+      <webElementGuid>c66372e8-0dc6-4230-88db-11f6fc2c9be7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Blocked  ' or . = ' Blocked  ')]</value>
+      <webElementGuid>e7739fde-d934-4023-bc9d-52ccc9c83b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div[2]/div[2]/div/div/div/div[2]/p[2]</value>
+      <webElementGuid>5a65a61f-c714-4479-b7ab-f11e209e8de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>4b54a4f8-de50-43fd-a720-3b46852806d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email History'])[1]/following::p[3]</value>
+      <webElementGuid>4379832d-879e-458b-932e-cb4a5aa4354b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Subscriptions'])[1]/following::p[3]</value>
+      <webElementGuid>75d2a860-a013-403f-bc19-9654ec617d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life Time of Account'])[1]/preceding::p[52]</value>
+      <webElementGuid>fcf89eef-78f4-4a1f-9bc7-7990a2910634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unblock User'])[1]/preceding::p[58]</value>
+      <webElementGuid>1b517f17-75fc-4435-9413-349ce35fb525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blocked']/parent::*</value>
+      <webElementGuid>19ed9711-e8e0-462b-98f9-c315636d4373</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

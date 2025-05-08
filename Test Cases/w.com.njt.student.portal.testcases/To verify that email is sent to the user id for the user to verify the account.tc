@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify that email is sent to the user id for the user to verify the account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>176960e1-603d-4e77-b2a6-d177ec0a4985</testCaseGuid>
+</TestCaseEntity>

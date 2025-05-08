@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Note Password is case sensitive and mu_d934e5</name>
+   <tag></tag>
+   <elementGuidId>47c9f874-2a3e-497b-9678-12188e6738c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#passwordDesc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='passwordDesc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Note: Password is case sensitive and must be at least 8 characters and contain a&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ef03dc4-e072-47cb-b5db-944a4afd6a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-desc css-1lhdxhr</value>
+      <webElementGuid>33a5a945-3f45-4eed-8931-79080010130a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passwordDesc</value>
+      <webElementGuid>5a41082f-9327-4e16-970c-c359c884eb97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Note: Password is case sensitive and must be at least 8 characters and contain at least one lowercase letter, one uppercase letter, one number, and one symbol from the following ~`!@#$%^&amp;*()_-+={[}]|\:&quot;&lt;,>.?/</value>
+      <webElementGuid>ff9fd501-4801-4d3b-bbee-c3bc870d2b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passwordDesc&quot;)</value>
+      <webElementGuid>dc26db0a-f7cc-4b1c-b22a-a3039b736b01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='passwordDesc']</value>
+      <webElementGuid>100e3126-ca04-462f-bd75-8fb9c17a09d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerForm']/div[2]/span</value>
+      <webElementGuid>357dc8df-1e4d-4dfb-86e7-8cab070263b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[1]/preceding::span[1]</value>
+      <webElementGuid>f29c1b0e-91ba-4878-9290-005f7130bb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::span[2]</value>
+      <webElementGuid>698e577d-a408-4f8e-9c07-067fb9d7f49e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Note: Password is case sensitive and must be at least 8 characters and contain at least one lowercase letter, one uppercase letter, one number, and one symbol from the following ~`!@#$%^&amp;*()_-+={[}]|\:&quot;&lt;,>.?/']/parent::*</value>
+      <webElementGuid>ea160128-2522-464e-829a-6a4311c7cb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/span</value>
+      <webElementGuid>3ad9e36b-adc6-4980-b882-a8f5e12177c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'passwordDesc' and (text() = 'Note: Password is case sensitive and must be at least 8 characters and contain at least one lowercase letter, one uppercase letter, one number, and one symbol from the following ~`!@#$%^&amp;*()_-+={[}]|\:&quot;&lt;,>.?/' or . = 'Note: Password is case sensitive and must be at least 8 characters and contain at least one lowercase letter, one uppercase letter, one number, and one symbol from the following ~`!@#$%^&amp;*()_-+={[}]|\:&quot;&lt;,>.?/')]</value>
+      <webElementGuid>20dc2f83-d77c-441c-a55b-f754bc5edc55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

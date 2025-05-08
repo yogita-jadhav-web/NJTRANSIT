@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify if Refund Pending text in the Action_Status column is a link-17</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40393185-367e-4e7c-a90d-3ad081f6fcac</testCaseGuid>
+</TestCaseEntity>

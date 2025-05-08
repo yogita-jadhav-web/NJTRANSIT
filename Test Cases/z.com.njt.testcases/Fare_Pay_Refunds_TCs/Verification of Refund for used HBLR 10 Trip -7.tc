@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for used HBLR 10 Trip -7</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6c6ef15-6d29-4aa4-9a70-bec24004453a</testCaseGuid>
+</TestCaseEntity>

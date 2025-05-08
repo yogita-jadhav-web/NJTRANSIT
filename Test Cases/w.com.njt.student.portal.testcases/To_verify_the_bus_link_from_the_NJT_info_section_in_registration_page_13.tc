@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To_verify_the_bus_link_from_the_NJT_info_section_in_registration_page_13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7dd8a46f-0f1e-4fde-a7cc-9a5277e806f4</testCaseGuid>
+</TestCaseEntity>

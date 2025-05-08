@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Full Refund for Rail Monthly(Current month) within the same day of ticket purchase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a452771e-1ef0-41ea-8fe8-5261dc1a31eb</testCaseGuid>
+</TestCaseEntity>

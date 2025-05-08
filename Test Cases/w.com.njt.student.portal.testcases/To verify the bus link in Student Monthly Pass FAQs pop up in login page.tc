@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify the bus link in Student Monthly Pass FAQs pop up in login page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5be63464-b92d-4516-8093-38f86359d553</testCaseGuid>
+</TestCaseEntity>

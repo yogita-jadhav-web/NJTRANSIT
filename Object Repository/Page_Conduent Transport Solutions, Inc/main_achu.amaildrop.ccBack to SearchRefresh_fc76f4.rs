@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_achu.amaildrop.ccBack to SearchRefresh_fc76f4</name>
+   <tag></tag>
+   <elementGuidId>62bc3940-4ebd-4d47-acaf-259a1f5cbe06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>main.css-oipzib</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[(text() = 'achu.a@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Blocked  Name: Achhu ASD  Current Email Id: achu.a@maildrop.cc Original Email Id: achu.a@maildrop.cc Account Created: 03/28/2025 | 10:17:08 Phone Number: 2789199199 DOB: N/A Zip Code: 12345Country Code: US User Type: Web UserRider Classification: AdultTravel Preference: NoNo. of Notes: 3 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Unblock UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details' or . = 'achu.a@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Blocked  Name: Achhu ASD  Current Email Id: achu.a@maildrop.cc Original Email Id: achu.a@maildrop.cc Account Created: 03/28/2025 | 10:17:08 Phone Number: 2789199199 DOB: N/A Zip Code: 12345Country Code: US User Type: Web UserRider Classification: AdultTravel Preference: NoNo. of Notes: 3 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Unblock UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>0cb27fdd-19c8-43fc-86dc-3b1892a1bebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oipzib</value>
+      <webElementGuid>73d80553-d3b2-4ccb-816a-369ed12fd528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>achu.a@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Blocked  Name: Achhu ASD  Current Email Id: achu.a@maildrop.cc Original Email Id: achu.a@maildrop.cc Account Created: 03/28/2025 | 10:17:08 Phone Number: 2789199199 DOB: N/A Zip Code: 12345Country Code: US User Type: Web UserRider Classification: AdultTravel Preference: NoNo. of Notes: 3 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Unblock UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details</value>
+      <webElementGuid>b24c6a40-e704-4875-9bad-bf05b3d1c783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-oipzib&quot;]</value>
+      <webElementGuid>870423ef-3c0a-4e31-9ebe-7675d13dedbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'achu.a@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Blocked  Name: Achhu ASD  Current Email Id: achu.a@maildrop.cc Original Email Id: achu.a@maildrop.cc Account Created: 03/28/2025 | 10:17:08 Phone Number: 2789199199 DOB: N/A Zip Code: 12345Country Code: US User Type: Web UserRider Classification: AdultTravel Preference: NoNo. of Notes: 3 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Unblock UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details' or . = 'achu.a@maildrop.ccBack to Search|RefreshAccount InformationNotesFARE-PAY CardTap &amp; RideMobile WalletCurrent DeviceDevice HistoryRefund RequestsDevice SubscriptionsEmail HistoryUser InformationAccount Status: Blocked  Name: Achhu ASD  Current Email Id: achu.a@maildrop.cc Original Email Id: achu.a@maildrop.cc Account Created: 03/28/2025 | 10:17:08 Phone Number: 2789199199 DOB: N/A Zip Code: 12345Country Code: US User Type: Web UserRider Classification: AdultTravel Preference: NoNo. of Notes: 3 Trx. Retention Policy-User Level (1 Year)No. of CC:No. of Transactions:No. of Tickets:No of Non Active Tickets:No. of Used/Expired Tickets:  0     0   0    0    0/0   Trx. Retention Policy-Admin Level (1 Year)No. of Deactivated Tickets:No. of Removed Tickets:No. of Courtesy Tickets:No of Approved Refunds:Total Refunds:Admin Refund Count: 0   0 0  0   0    0 Import Retention Policy (180 Days)Completed Imports:Admin Import Status:Life Time of AccountNo. of Approved Imports: 0    0     0 Unblock UserChange PasswordAdd NoteApprove ImportResend Verification CodeSend Reset Password LinkUnlock UserGet Transaction Details')]</value>
+      <webElementGuid>7f1cccc2-e1a6-4fe1-86ae-1025011a38a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main</value>
+      <webElementGuid>fc6f1a92-e143-4635-a6dd-6a5cb41df3b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>994b1c18-2713-4286-bac2-dd3c80f70a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::main[1]</value>
+      <webElementGuid>cee55568-a994-485f-9819-3adbe32c5ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Management'])[1]/following::main[1]</value>
+      <webElementGuid>75549c65-38cb-4c5e-9507-9102d083cf39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

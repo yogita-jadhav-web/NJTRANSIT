@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify if the student is trying to enrol for Student Fare outside the enrolment window, he cannot enrol</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74e9ee2d-5c75-4f4b-99e7-b89b86b7c4c2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Refund for a Direct via Rail ticket-18</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2ba8b4f-c53b-48fc-aecb-e2c58ccada08</testCaseGuid>
+</TestCaseEntity>

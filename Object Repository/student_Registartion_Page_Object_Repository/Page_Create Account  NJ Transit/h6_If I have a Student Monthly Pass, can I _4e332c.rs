@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_If I have a Student Monthly Pass, can I _4e332c</name>
+   <tag></tag>
+   <elementGuidId>c3a5eb10-c5e1-4e41-9506-7b359fedf64a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#title10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@id='title10']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;If I have a Student Monthly Pass, can I purchase round trip and one-way rail tickets for friends &amp; family traveling with me?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>46b44e68-36df-449f-aca1-fc7901e627d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subtitle1 css-1c5co21</value>
+      <webElementGuid>e8dd95ed-b6ae-4d80-ab7a-3a9e4a9fc87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title10</value>
+      <webElementGuid>bddb3e23-fb5d-497c-b914-ade71962df63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If I have a Student Monthly Pass, can I purchase round trip and one-way rail tickets for friends &amp; family traveling with me?</value>
+      <webElementGuid>8f639c38-0a96-4499-a13e-4e502064f888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title10&quot;)</value>
+      <webElementGuid>6e4c55c6-9d1d-429e-833e-4e4db64fd81a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h6[@id='title10']</value>
+      <webElementGuid>3622dc6f-61bb-4c1d-8ca3-09af1a05db32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faqModal']/div[3]/div/div[2]/div/div[9]/h6</value>
+      <webElementGuid>1e768e4a-57ec-461c-b492-9f7c0bc40306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When can I purchase my student monthly pass?'])[1]/following::h6[1]</value>
+      <webElementGuid>3c65da5e-93be-40e5-b270-320bca942c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I have to renew my Student Pass account at any time?'])[1]/following::h6[2]</value>
+      <webElementGuid>0f9ffb63-c6df-47c8-a38b-8c707d5357b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I use my Student Monthly Pass?'])[1]/preceding::h6[1]</value>
+      <webElementGuid>7ca1f841-7b02-4116-b0d6-2bcc94784180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='train'])[1]/preceding::h6[2]</value>
+      <webElementGuid>7b8f5a87-e2cf-4173-b792-757847abc6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='If I have a Student Monthly Pass, can I purchase round trip and one-way rail tickets for friends &amp; family traveling with me?']/parent::*</value>
+      <webElementGuid>b497b41f-2bd1-45cb-9bf2-600a27298360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/h6</value>
+      <webElementGuid>6b523631-c0e6-469a-8561-59eb38765c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[@id = 'title10' and (text() = 'If I have a Student Monthly Pass, can I purchase round trip and one-way rail tickets for friends &amp; family traveling with me?' or . = 'If I have a Student Monthly Pass, can I purchase round trip and one-way rail tickets for friends &amp; family traveling with me?')]</value>
+      <webElementGuid>b69b244e-5efc-4b03-8c1a-5f7ecaab6922</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Trip_Details_Discover card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10fd8903-30a3-4fb9-ab0b-a75e66086d76</testCaseGuid>
+</TestCaseEntity>

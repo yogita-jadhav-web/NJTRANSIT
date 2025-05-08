@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transaction HistorySelect FARE-PAY Card_f6b4df</name>
+   <tag></tag>
+   <elementGuidId>a302537d-c13f-4e6d-bf90-3a81922d2a01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDialog-container.MuiDialog-scrollPaper.css-ekeie0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Transaction HistorySelect FARE-PAY Card: 6375-0041-0225-4139​.a{fill:#fb8e2c}Ticket TransactionsCard Value TransactionsTrip HistoryDate/TimeIDTicket TypeProductRouteTicket ExpAmountPayment TypeAction/Status03/24/2025 21:14:231322810 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Discover-1032Refund Completed03/24/2025 21:04:011322510 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00American Express-1003Refund Completed03/24/2025 20:54:101322110 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Master Card-8897Refund Completed03/24/2025 20:43:1513217Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Discover-7405Refund Completed03/24/2025 20:27:2613216Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:19:1913215Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:09:161321210 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-1032Refund Completed03/24/2025 19:59:311320910 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-7405Refund Completed03/24/2025 19:48:381320510 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Master Card-8897Refund Completed03/24/2025 19:37:4913201Monthly AdultHBLRRoute - 280 | Zones - 105/01/2025 00:00:00$80.00Discover-9593Refund CompletedShow10​Entries12345…18Close' or . = 'Transaction HistorySelect FARE-PAY Card: 6375-0041-0225-4139​.a{fill:#fb8e2c}Ticket TransactionsCard Value TransactionsTrip HistoryDate/TimeIDTicket TypeProductRouteTicket ExpAmountPayment TypeAction/Status03/24/2025 21:14:231322810 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Discover-1032Refund Completed03/24/2025 21:04:011322510 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00American Express-1003Refund Completed03/24/2025 20:54:101322110 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Master Card-8897Refund Completed03/24/2025 20:43:1513217Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Discover-7405Refund Completed03/24/2025 20:27:2613216Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:19:1913215Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:09:161321210 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-1032Refund Completed03/24/2025 19:59:311320910 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-7405Refund Completed03/24/2025 19:48:381320510 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Master Card-8897Refund Completed03/24/2025 19:37:4913201Monthly AdultHBLRRoute - 280 | Zones - 105/01/2025 00:00:00$80.00Discover-9593Refund CompletedShow10​Entries12345…18Close')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Transaction HistorySelect FARE-PAY Card: 6375-0041-0225-4139.a{fill:#fb8e2c}Tick&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>570a5bb9-b693-4d31-ad44-c66b738a4392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiDialog-container MuiDialog-scrollPaper css-ekeie0</value>
+      <webElementGuid>c9aa0ad9-b6b6-4aa2-9f81-ec6011bd19a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>5ea7ebde-457d-4e23-b585-ed09fcf5916e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a0fd0191-4e54-432c-9152-1f95a142a37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction HistorySelect FARE-PAY Card: 6375-0041-0225-4139​.a{fill:#fb8e2c}Ticket TransactionsCard Value TransactionsTrip HistoryDate/TimeIDTicket TypeProductRouteTicket ExpAmountPayment TypeAction/Status03/24/2025 21:14:231322810 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Discover-1032Refund Completed03/24/2025 21:04:011322510 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00American Express-1003Refund Completed03/24/2025 20:54:101322110 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Master Card-8897Refund Completed03/24/2025 20:43:1513217Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Discover-7405Refund Completed03/24/2025 20:27:2613216Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:19:1913215Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:09:161321210 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-1032Refund Completed03/24/2025 19:59:311320910 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-7405Refund Completed03/24/2025 19:48:381320510 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Master Card-8897Refund Completed03/24/2025 19:37:4913201Monthly AdultHBLRRoute - 280 | Zones - 105/01/2025 00:00:00$80.00Discover-9593Refund CompletedShow10​Entries12345…18Close</value>
+      <webElementGuid>121e85f7-652c-400d-8234-6dc4e7ca1c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]</value>
+      <webElementGuid>68dd2c3b-225b-431f-91e7-30963eab62f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transaction HistorySelect FARE-PAY Card: 6375-0041-0225-4139​.a{fill:#fb8e2c}Ticket TransactionsCard Value TransactionsTrip HistoryDate/TimeIDTicket TypeProductRouteTicket ExpAmountPayment TypeAction/Status03/24/2025 21:14:231322810 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Discover-1032Refund Completed03/24/2025 21:04:011322510 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00American Express-1003Refund Completed03/24/2025 20:54:101322110 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Master Card-8897Refund Completed03/24/2025 20:43:1513217Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Discover-7405Refund Completed03/24/2025 20:27:2613216Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:19:1913215Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:09:161321210 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-1032Refund Completed03/24/2025 19:59:311320910 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-7405Refund Completed03/24/2025 19:48:381320510 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Master Card-8897Refund Completed03/24/2025 19:37:4913201Monthly AdultHBLRRoute - 280 | Zones - 105/01/2025 00:00:00$80.00Discover-9593Refund CompletedShow10​Entries12345…18Close' or . = 'Transaction HistorySelect FARE-PAY Card: 6375-0041-0225-4139​.a{fill:#fb8e2c}Ticket TransactionsCard Value TransactionsTrip HistoryDate/TimeIDTicket TypeProductRouteTicket ExpAmountPayment TypeAction/Status03/24/2025 21:14:231322810 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Discover-1032Refund Completed03/24/2025 21:04:011322510 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00American Express-1003Refund Completed03/24/2025 20:54:101322110 Trip AdultRiverlineRoute - 343 | Zones - 104/22/2025 23:59:59$18.00Master Card-8897Refund Completed03/24/2025 20:43:1513217Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Discover-7405Refund Completed03/24/2025 20:27:2613216Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:19:1913215Monthly AdultRiverlineRoute - 343 | Zones - 105/01/2025 00:00:00$62.00Visa-0286Refund Completed03/24/2025 20:09:161321210 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-1032Refund Completed03/24/2025 19:59:311320910 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Discover-7405Refund Completed03/24/2025 19:48:381320510 Trip AdultHBLRRoute - 280 | Zones - 104/22/2025 23:59:59$25.50Master Card-8897Refund Completed03/24/2025 19:37:4913201Monthly AdultHBLRRoute - 280 | Zones - 105/01/2025 00:00:00$80.00Discover-9593Refund CompletedShow10​Entries12345…18Close')]</value>
+      <webElementGuid>08cdc1e6-8b39-46ca-a2ff-a73582e69a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='historyModal']/div[3]</value>
+      <webElementGuid>5858cbe3-9736-4888-9173-d3e41ab905ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]</value>
+      <webElementGuid>8432acaa-e549-47eb-b235-7efe4bdb130e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your feedback will be used to help improve Google Translate'])[1]/following::div[8]</value>
+      <webElementGuid>42fbcd3c-86e0-43ee-969e-8b8f85f194e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate this translation'])[1]/following::div[9]</value>
+      <webElementGuid>79568a4c-d776-4426-a49f-fd3099df9231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

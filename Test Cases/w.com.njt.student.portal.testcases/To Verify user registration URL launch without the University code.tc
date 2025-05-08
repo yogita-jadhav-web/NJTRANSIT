@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To Verify user registration URL launch without the University code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cdc531f-728d-447e-b5bd-3db8670b66dc</testCaseGuid>
+</TestCaseEntity>

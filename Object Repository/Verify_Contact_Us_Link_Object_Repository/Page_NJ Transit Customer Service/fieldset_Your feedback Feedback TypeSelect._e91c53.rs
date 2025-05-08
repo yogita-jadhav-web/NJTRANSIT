@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldset_Your feedback Feedback TypeSelect._e91c53</name>
+   <tag></tag>
+   <elementGuidId>e1166b5f-3c61-4953-b142-2b309fb6b366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/form/fieldset</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Your feedback&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fieldset</value>
+      <webElementGuid>67ff896e-2e24-4931-aead-07de2afc555a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your feedback Feedback TypeSelect...CommendationComplaintRequest for InformationSuggestion Mode / ServiceSelect...Access LinkMobile AppBusRailHudson Bergen Light RailRiverLINE Light RailNewark Light RailNJTRewards - CustomerNJTRewards - PartnerNot a tripWebsiteWeb Tickets Incident Date   Incident Time  Subject DescriptionRemaining count 2000 AttachmentChoose files...Hold Control key to select up to three files</value>
+      <webElementGuid>c4084882-5e33-45c1-8511-f634d074eb4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-edit&quot;]/fieldset[1]</value>
+      <webElementGuid>7f352fab-d1f0-45c4-8fe8-20a1ce6e307d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/form/fieldset</value>
+      <webElementGuid>ccb5db26-fbcf-4d13-9df5-e0038feaa559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::fieldset[1]</value>
+      <webElementGuid>8c5d3e06-8500-41e8-859a-c6822cb57dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DO NOT INCLUDE FULL CREDIT CARD INFORMATION'])[1]/following::fieldset[1]</value>
+      <webElementGuid>a3d89b0c-a37d-4795-86ee-a27ac65b1044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset</value>
+      <webElementGuid>2d6b84e9-971f-4ee3-95d6-4339fd19e3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fieldset[(text() = 'Your feedback Feedback TypeSelect...CommendationComplaintRequest for InformationSuggestion Mode / ServiceSelect...Access LinkMobile AppBusRailHudson Bergen Light RailRiverLINE Light RailNewark Light RailNJTRewards - CustomerNJTRewards - PartnerNot a tripWebsiteWeb Tickets Incident Date   Incident Time  Subject DescriptionRemaining count 2000 AttachmentChoose files...Hold Control key to select up to three files' or . = 'Your feedback Feedback TypeSelect...CommendationComplaintRequest for InformationSuggestion Mode / ServiceSelect...Access LinkMobile AppBusRailHudson Bergen Light RailRiverLINE Light RailNewark Light RailNJTRewards - CustomerNJTRewards - PartnerNot a tripWebsiteWeb Tickets Incident Date   Incident Time  Subject DescriptionRemaining count 2000 AttachmentChoose files...Hold Control key to select up to three files')]</value>
+      <webElementGuid>ae832cf4-5375-44b6-8533-8ac95a307d93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
