@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search User with Email Id_pwd_change</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6635139-6848-496c-86f7-7fccecd3de2c</testCaseGuid>
+</TestCaseEntity>

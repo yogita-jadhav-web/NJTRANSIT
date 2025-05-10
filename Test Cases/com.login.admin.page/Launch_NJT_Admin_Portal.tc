@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_NJT_Admin_Portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66ad6ff8-da3b-4fa0-bf7d-ab68dea2e863</testCaseGuid>
+</TestCaseEntity>

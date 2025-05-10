@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy_Tickets_Bus_Interstate_Route_193</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b395f0f8-aec1-40de-b7c6-00e6a6e78315</testCaseGuid>
+</TestCaseEntity>

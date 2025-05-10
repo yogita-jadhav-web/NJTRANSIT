@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_create_note_popup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>453a00d4-c68f-43ce-94a2-a0bb2edcdc2c</testCaseGuid>
+</TestCaseEntity>

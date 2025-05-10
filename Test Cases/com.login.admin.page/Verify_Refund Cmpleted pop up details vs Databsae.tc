@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Refund Cmpleted pop up details vs Databsae</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>432f5903-9aa9-455b-9d96-5021dc9cf125</testCaseGuid>
+</TestCaseEntity>

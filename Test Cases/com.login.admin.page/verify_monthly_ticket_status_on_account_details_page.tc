@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_monthly_ticket_status_on_account_details_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>914d7638-0384-4fee-9f2d-be2127825739</testCaseGuid>
+</TestCaseEntity>

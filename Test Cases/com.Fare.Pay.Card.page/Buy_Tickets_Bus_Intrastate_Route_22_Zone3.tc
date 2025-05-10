@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy_Tickets_Bus_Intrastate_Route_22_Zone3</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b86d3246-cb7d-4e50-ad74-a27ffa2eb3a6</testCaseGuid>
+</TestCaseEntity>

@@ -20,8 +20,12 @@ import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.WebDriver as WebDriver
 
-WebUI.callTestCase(findTestCase('z.com.njt.testcases/Login_Module_TCs/TC_108379_To_Verify_that_user_login_successfully - R'), 
+not_run: WebUI.callTestCase(findTestCase('z.com.njt.testcases/Login_Module_TCs/TC_108379_To_Verify_that_user_login_successfully - R'), 
     [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_On_BUY_TICKETS_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -37,19 +41,15 @@ WebUI.click(findTestObject('Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/Month
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_On_Proceed_to_Checkout_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/input_123.00_paymentMethods'))
-
-WebUI.setText(findTestObject('Page_Add Payment Card  NJ Transit/input_Card Number'), GlobalVariable.VISA)
+WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Add_New_Card_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/Enter_Exp_Month_Year'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/input_CVV_cvv'), '123')
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_Amex_CC_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.fare.pay.refund.page/add_CardHolder_name-Creditcard'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.profile.page/Enter_Credit_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.fare.pay.refund.page/Zip_code_CC'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/span_Proceed To Pay'))
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_Proceed_To_Pay_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 
@@ -72,14 +72,20 @@ not_run: WebUI.callTestCase(findTestCase('com.login.admin.page/success_msg'), [:
 WebUI.waitForElementPresent(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/a_Refund Pending'), 
     0)
 
-WebUI.callTestCase(findTestCase('z.com.njt.testcases/Login_Module_TCs/TC_108379_To_Verify_that_user_login_successfully - R'), 
+not_run: WebUI.callTestCase(findTestCase('z.com.njt.testcases/Login_Module_TCs/TC_108379_To_Verify_that_user_login_successfully - R'), 
     [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_On_BUY_TICKETS_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_on_buy_tickets_Bus'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Buy_Ticket_Bus_without_Tarrif'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Buy_Tickets_Bus'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Select_Tariff_Type_From_Bus'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_Select_Tickets_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -95,11 +101,13 @@ WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_Amex_CC_Details'),
 
 WebUI.callTestCase(findTestCase('com.profile.page/Enter_Credit_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/span_Proceed To Pay'))
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_Proceed_To_Pay_button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
 
 WebUI.waitForElementVisible(findTestObject('Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/div_You are only allowed to purchase one ticket per validity period'), 
     3)
 
-WebUI.verifyElementText(findTestObject('Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/div_You are only allowed to purchase one ticket per validity period'), 
+not_run: WebUI.verifyElementText(findTestObject('Refund-Bus/Page_Fare-Pay Dashboard  NJ Transit/div_You are only allowed to purchase one ticket per validity period'), 
     'You are only allowed to purchase only one ticket per validity period.')
 

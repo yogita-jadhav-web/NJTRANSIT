@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_Credit_Card_Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cb8f4c7-0242-4fe2-9a28-4dbf3677eed0</testCaseGuid>
+</TestCaseEntity>

@@ -1,4 +1,3 @@
-
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -26,8 +25,12 @@ import org.openqa.selenium.WebDriver as WebDriver
 import custom.JSUtils as JSUtils
 import org.openqa.selenium.By as By
 
-WebUI.callTestCase(findTestCase('z.com.njt.testcases/Login_Module_TCs/TC_108379_To_Verify_that_user_login_successfully - R'),
-	[:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('z.com.njt.testcases/Login_Module_TCs/TC_108379_To_Verify_that_user_login_successfully - R'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Unregistered_fare_pay_card'), [:], FailureHandling.OPTIONAL)
 
@@ -91,8 +94,8 @@ WebUI.callTestCase(findTestCase('com.login.admin.page/verify_create_note_popup')
 
 WebUI.callTestCase(findTestCase('com.login.admin.page/Save_button_Create note popup'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/a_Refund Pending'),
-	0)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/a_Refund Pending'), 
+    0)
 
 WebUI.click(findTestObject('Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/a_Refund Pending'))
 
@@ -100,8 +103,8 @@ actualRefnumberPart = WebUI.getText(findTestObject('Admin portal _TC_objectRepo/
 
 println(actualRefnumberPart)
 
-dbconnection = CustomKeywords.'com.web.db.NJT_Reload_Database.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url,
-	GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
+dbconnection = CustomKeywords.'com.web.db.NJT_Reload_Database.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url, 
+    GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
 
 String query = ('select * from p_web_trx_refunds where ID = \'' + actualRefnumberPart) + '\' order by ID desc;'
 
@@ -143,10 +146,10 @@ SimpleDateFormat dbDateFormat = new SimpleDateFormat('yyyy-MM-dd HH:mm:ss')
 
 // Parse both the UI and DB date strings into Date objects
 Date uiRefundDate = uiDateFormat.parse(refundDate // actual value from the UI
-	)
+    )
 
 Date dbRefundDate = dbDateFormat.parse(dbRefundDateandTime // expected value from the DB
-	)
+    )
 
 // Compare the dates
 WebUI.verifyEqual(uiRefundDate, dbRefundDate)
@@ -171,8 +174,8 @@ WebUI.callTestCase(findTestCase('com.login.admin.page/Verify_10_trip_status_onac
 
 WebUI.callTestCase(findTestCase('com.login.admin.page/Transaction history-Refund completed'), [:], FailureHandling.STOP_ON_FAILURE)
 
-dbconnection = CustomKeywords.'com.web.db.NJT_Reload_Database.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url,
-	GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
+dbconnection = CustomKeywords.'com.web.db.NJT_Reload_Database.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url, 
+    GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
 
 dbrefundstatus = CustomKeywords.'com.web.db.NJT_Reload_Database.getRefundStatus'(dbconnection, query)
 

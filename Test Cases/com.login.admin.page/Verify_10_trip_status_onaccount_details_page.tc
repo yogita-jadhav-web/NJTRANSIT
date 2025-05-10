@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_10_trip_status_onaccount_details_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8250d51-26bc-4bc4-8dad-80c051e169f5</testCaseGuid>
+</TestCaseEntity>

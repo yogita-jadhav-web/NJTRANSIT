@@ -16,7 +16,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>yogitajadhav@maildrop.cc</description>
-      <initValue>'chinna.n@maildrop.cc'</initValue>
+      <initValue>'rashmi.k@maildrop.cc'</initValue>
       <name>Email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -368,5 +368,10 @@
       <description></description>
       <initValue>'Test@123'</initValue>
       <name>Admin_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rashmi.k@maildrop.cc'</initValue>
+      <name>email_username_for_Admin_portal</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

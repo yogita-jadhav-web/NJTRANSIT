@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search User with Email Id_Block_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8099154c-00a2-469b-af5e-b2a9d031870e</testCaseGuid>
+</TestCaseEntity>

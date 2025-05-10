@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy_Tickets_Bus_IntraCommuter_Route_319_zone_13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2e25a83-25ac-46ce-9f7c-fdaf41d51416</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account_Search_with_Email_Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>327c5b7e-c053-4cfe-bb7b-9cdc7365f09e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_into_NJT_Admin_Login_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d36eead1-4cff-4bd2-bcd3-e833b6546cdc</testCaseGuid>
+</TestCaseEntity>
