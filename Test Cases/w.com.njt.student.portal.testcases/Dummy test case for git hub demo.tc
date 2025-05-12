@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dummy test case for git hub demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d919d1d3-2a9b-474f-bbb4-fe147b74c7bf</testCaseGuid>
+</TestCaseEntity>
