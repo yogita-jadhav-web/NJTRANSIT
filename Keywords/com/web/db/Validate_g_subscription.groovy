@@ -65,6 +65,50 @@ public class Validate_g_subscription {
 			return con;
 		}
 	}
+	//rashmi
+	@Keyword
+	public String getUserIdDetails(Connection con_obj,String query) {
+		String User_Id = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			User_Id = rs.getString("USER_ID");//need to give coulumn name
+			println(User_Id)
+		}
+		return User_Id;
+	}
+	@Keyword
+	public String getCardNumDetails(Connection con_obj,String query) {
+		String cardnum = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			cardnum = rs.getString("CARD_NO");//need to give coulumn name
+			println(cardnum)
+		}
+		return cardnum;
+	}
+
 
 
 	@Keyword

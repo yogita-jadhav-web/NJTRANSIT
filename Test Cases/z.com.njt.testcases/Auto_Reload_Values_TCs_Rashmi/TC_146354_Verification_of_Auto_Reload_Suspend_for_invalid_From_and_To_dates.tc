@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146354_Verification_of_Auto_Reload_Suspend_for_invalid_From_and_To_dates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ceccd9ac-9ad8-4684-9d3c-be6297aefea8</testCaseGuid>
+</TestCaseEntity>

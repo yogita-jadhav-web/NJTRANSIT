@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Full Refund for Rail 10 Trip which is subscribed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ae1b422-a76c-49e9-aa24-6c9e47811eb6</testCaseGuid>
+</TestCaseEntity>
