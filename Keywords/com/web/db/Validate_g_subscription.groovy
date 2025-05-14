@@ -148,4 +148,238 @@ public class Validate_g_subscription {
 
 		return g_subscription_Data
 	}
+	
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_USER_ID_from_p_sub_Table(Connection con_obj,String query) {
+		String user_Id = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			user_Id = rs.getString("USER_ID");
+			println(user_Id)
+		}
+		return user_Id;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_FareCardNumber(Connection con_obj,String query) {
+		String fareCard = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			fareCard = rs.getString("FARECARD");
+			println(fareCard)
+		}
+		return fareCard;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Amount(Connection con_obj,String query) {
+		String amount = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			amount = rs.getString("AMOUNT");
+			println(amount)
+		}
+		return amount;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Status(Connection con_obj,String query) {
+		String status = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			status = rs.getString("STATUS");
+			println(status)
+		}
+		return status;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_BOSID(Connection con_obj,String query) {
+		String bosID = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			bosID = rs.getString("BOS_ID");
+			println(bosID)
+		}
+		return bosID;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_TT_ID(Connection con_obj,String query) {
+		String ttID = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			ttID = rs.getString("TT_ID");
+			println(ttID)
+		}
+		return ttID;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Paymethod_ID(Connection con_obj,String query) {
+		String paymethodID = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			paymethodID = rs.getString("PAYMETHOD_ID");
+			println(paymethodID)
+		}
+		return paymethodID;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_CreatedDate(Connection con_obj,String query) {
+		String createdDate = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			createdDate = rs.getString("CREATED_DATE");
+			println(createdDate)
+		}
+		return createdDate;
+	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_PaymentCardNumber(Connection con_obj,String query) {
+		String paymentCardNumber = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			paymentCardNumber = rs.getString("CARD_NO");
+			println(paymentCardNumber)
+		}
+		return paymentCardNumber;
+	}
 }
