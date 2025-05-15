@@ -21,13 +21,17 @@ WebUI.callTestCase(findTestCase('com.login.page/Launch_NJT_Portal'), [:], Failur
 
 WebUI.callTestCase(findTestCase('com.create.and.update.account.page/Click_on_create_account_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.create.account.db.page/UserRegistration'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.create.and.update.account.page/Enter_Mandatory_Fields'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.create.and.update.account.page/Click_on_submit_button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Verify_User_Created_successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.back()
 
 WebUI.back()
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.callTestCase(findTestCase('com.create.account.db.page/Login_With_InactiveUser'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -43,15 +47,47 @@ WebUI.callTestCase(findTestCase('com.login.page/Click_On_Send_Code_Button'), [:]
 
 WebUI.callTestCase(findTestCase('com.login.page/Verify_Resend_Code_Message'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(300)
+WebUI.executeJavaScript(('window.open(\'' + GlobalVariable.ADMIN_PORTAL_URL) + '\', \'_blank\')', [])
 
-WebUI.callTestCase(findTestCase('com.login.page/Click_Resend_Code_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.switchToWindowIndex(1)
+
+WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/Admin_UserName_Filed'), GlobalVariable.ADMIN_USERNAME)
+
+WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/Admin_Password'), GlobalVariable.ADMIN_PASSWORD)
+
+WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/Admin_SignInBTN'))
+
+WebUI.delay(2)
+
+WebUI.callTestCase(findTestCase('com.login.admin.page/Search_inactive user'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.admin.page/Tap _on_Resend_Verification_code'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.admin.page/Verification code sent successfully'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.admin.page/Switch to mail drop'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.admin.page/Search email via mail box_inactive user'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.admin.page/verify mail body_resend verification code'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.switchToWindowIndex(0)
 
 WebUI.callTestCase(findTestCase('com.create.account.db.page/Enter_OTP_Using_Random_User'), [:], FailureHandling.STOP_ON_FAILURE)
+
+not_run: WebUI.click(findTestObject('UserRegistration_object_Repository/Page_Verify Email  NJ Transit/input_securityCode'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+not_run: WebUI.setText(findTestObject('UserRegistration_object_Repository/Page_Verify Email  NJ Transit/input_securityCode'), 
+    Verification_code)
 
 WebUI.callTestCase(findTestCase('com.login.page/Click_Verify_Verification_Code_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.login.page/Verify_User_Activated_Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.closeBrowser()
+WebUI.callTestCase(findTestCase('com.create.account.db.page/Login_With_InactiveUser'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Enter_Valid_Password'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 

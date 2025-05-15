@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>To verify inactive user login aftre resend verification code from admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8807dde1-0eea-44eb-ae3e-76e538cf9cba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MuiBackdrop-root css-xuaqpw</name>
+   <tag></tag>
+   <elementGuidId>6e7cb5af-7006-403a-8789-b87efa3be882</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb8cbec0-ea9b-48d6-ab4d-3920914e15af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0b5adf3d-4305-4c58-af03-4fb8cad9833c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBackdrop-root css-xuaqpw</value>
+      <webElementGuid>b5c59008-a09a-4302-aa4d-55817fb4ae80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;MuiBox-root css-zjte4g&quot;]/div[1]/div[@class=&quot;MuiBackdrop-root css-xuaqpw&quot;]</value>
+      <webElementGuid>de8e7d15-00fd-4714-8b43-c10341aaa888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Admin portal _TC_objectRepo/Page_jgibaz Mailbox  Maildrop/iframe_NJ TRANSIT WEB - Account Password Reset_w-full overflow-scroll</value>
+      <webElementGuid>ee3fc24f-ed91-43ba-8fe6-8ee6fe9816ef</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

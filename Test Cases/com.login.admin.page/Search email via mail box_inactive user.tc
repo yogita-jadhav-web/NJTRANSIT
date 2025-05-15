@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search email via mail box_inactive user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f04fb33-5366-4a4e-b52f-d5b29e27a115</testCaseGuid>
+</TestCaseEntity>

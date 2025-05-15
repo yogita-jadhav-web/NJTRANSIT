@@ -17,21 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.admin.page/Login_into_NJT_Admin_Login_page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Page_Maildrop_Email template - Student account registration/View this email box'))
 
-WebUI.callTestCase(findTestCase('com.login.admin.page/Search User with Email Id_pwd_change'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/Page_Maildrop_Email template - Student account registration/View this email box'), 
+    GlobalVariable.randomEmail)
 
-WebUI.navigateToUrl('https://cmsqa.cmsservices.us/njt-web/')
+WebUI.click(findTestObject('Object Repository/Page_unequal.wallaby3730 Mailbox  Maildrop/button_View MailboxGo'))
 
-WebUI.setText(findTestObject('LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Email'), GlobalVariable.email_username_for_Admin_portal)
+WebUI.delay(120)
 
-WebUI.setText(findTestObject('LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Password'), actualPassword)
+WebUI.click(findTestObject('Object Repository/Page_unequal.wallaby3730 Mailbox  Maildrop/button_Refresh Mailbox'))
 
-WebUI.click(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Sign In  NJ Transit/button_Sign In'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Add Fare-Pay Card  NJ Transit/h1_Manage FARE-PAY Card'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Admin portal _TC_objectRepo/Page_Add Fare-Pay Card  NJ Transit/h2-Enter Farepay card info'), 
-    0)
+WebUI.delay(3)
 

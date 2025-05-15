@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reset                  Password</name>
+   <tag></tag>
+   <elementGuidId>216f0e55-7e2a-4bd8-abf8-fe2889038641</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@class,'button')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Reset Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dbd505a1-3b42-4ad7-8571-bab4cbfff7bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cmsqa.cmsservices.us/njt-web/forgotPassword?resetcode=DUbFx+ltWng9X5SSM+93o1bvtZDaVfwe4OwZJwdqLNMZWLdI210Kls8fiD6KFXMj</value>
+      <webElementGuid>6bebaa0a-1888-49ae-b26f-830430ab6376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02c539be-396c-488d-b6c1-720c769662ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset
+                  Password</value>
+      <webElementGuid>3aaafec8-3bcf-4c57-b37c-ae67d616a085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/table[2]/tbody[1]/tr[1]/td[1]/a[@class=&quot;button&quot;]</value>
+      <webElementGuid>6efd4657-ea4f-4b0e-ada1-17434e950ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Admin portal _TC_objectRepo/Page_ilnccc Mailbox  Maildrop/iframe_NJ TRANSIT WEB - Account Verificatio_85451f</value>
+      <webElementGuid>0ded6504-fe20-406f-96f8-cddc30508a35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cmsqa.cmsservices.us/njt-web/forgotPassword?resetcode=DUbFx+ltWng9X5SSM+93o1bvtZDaVfwe4OwZJwdqLNMZWLdI210Kls8fiD6KFXMj' and (text() = 'Reset
+                  Password' or . = 'Reset
+                  Password')]</value>
+      <webElementGuid>4ddd05af-c0d3-4acf-ba70-324202a6b3fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>746d98d7-33fe-446c-850e-6876f432c82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reset
+                  Password')]</value>
+      <webElementGuid>e2d0c2b9-e514-4166-a1e5-d2ebfa5d3e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NJ TRANSIT'])[1]/following::a[1]</value>
+      <webElementGuid>2afea6b5-ce61-4bc0-86f1-aa1653eb880b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NJ TRANSIT'])[2]/preceding::a[1]</value>
+      <webElementGuid>79edfbe0-b90d-4217-9d6b-74858d2af72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cmsqa.cmsservices.us/njt-web/forgotPassword?resetcode=DUbFx+ltWng9X5SSM+93o1bvtZDaVfwe4OwZJwdqLNMZWLdI210Kls8fiD6KFXMj')]</value>
+      <webElementGuid>9fe4063b-b0a6-4b03-badd-b1cff5ba1c84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
