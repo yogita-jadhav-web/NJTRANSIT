@@ -148,7 +148,7 @@ public class Validate_g_subscription {
 
 		return g_subscription_Data
 	}
-	
+
 	/*
 	 *  DB Validation method Created by @Chinna
 	 */

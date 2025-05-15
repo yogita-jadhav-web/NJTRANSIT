@@ -27,5 +27,5 @@ WebUI.comment('FP_msg:' + msg)
 
 not_run: WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
 
-WebUI.delay(10)
+WebUI.delay(5)
 

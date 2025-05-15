@@ -102,4 +102,161 @@ public class Validate_p_subscription_trx {
 
 		return p_subscription_trx
 	}
+
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_USER_ID_from_p_subscription_TRNX_Table(Connection con_obj,String query) {
+		String user_Id = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			user_Id = rs.getString("USER_ID");
+			println(user_Id)
+		}
+		return user_Id;
+	}
+	
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Amount_from_p_subscription_TRNX_Table(Connection con_obj,String query) {
+		String amount = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			amount = rs.getString("AMOUNT");
+			println(amount)
+		}
+		return amount;
+	}
+	
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_PAY_REF_ID_from_p_subscription_TRNX_Table(Connection con_obj,String query) {
+		String referenceID = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			referenceID = rs.getString("PAY_REF_ID");
+			println(referenceID)
+		}
+		return referenceID;
+	}
+	
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Credit_Card_Number_from_p_subscription_TRNX_Table(Connection con_obj,String query) {
+		String creditCardNumber = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			creditCardNumber = rs.getString("CREDIT_CARD_NO");
+			println(creditCardNumber)
+		}
+		return creditCardNumber;
+	}
+	
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Retry_Count_from_p_subscription_TRNX_Table(Connection con_obj,String query) {
+		String retryCount = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			retryCount = rs.getString("RETRY_COUNT");
+			println(retryCount)
+		}
+		return retryCount;
+	}
+	
+	/*
+	 *  DB Validation method Created by @Chinna
+	 */
+
+	@Keyword
+	public String get_Retry_Comment_from_p_subscription_TRNX_Table(Connection con_obj,String query) {
+		String retryComment = null;
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			retryComment = rs.getString("RETRY_COMMENT");
+			println(retryComment)
+		}
+		return retryComment;
+	}
+	
 }
