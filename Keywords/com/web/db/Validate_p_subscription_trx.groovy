@@ -128,7 +128,7 @@ public class Validate_p_subscription_trx {
 		}
 		return user_Id;
 	}
-	
+
 	/*
 	 *  DB Validation method Created by @Chinna
 	 */
@@ -154,7 +154,7 @@ public class Validate_p_subscription_trx {
 		}
 		return amount;
 	}
-	
+
 	/*
 	 *  DB Validation method Created by @Chinna
 	 */
@@ -180,7 +180,7 @@ public class Validate_p_subscription_trx {
 		}
 		return referenceID;
 	}
-	
+
 	/*
 	 *  DB Validation method Created by @Chinna
 	 */
@@ -206,7 +206,7 @@ public class Validate_p_subscription_trx {
 		}
 		return creditCardNumber;
 	}
-	
+
 	/*
 	 *  DB Validation method Created by @Chinna
 	 */
@@ -232,7 +232,7 @@ public class Validate_p_subscription_trx {
 		}
 		return retryCount;
 	}
-	
+
 	/*
 	 *  DB Validation method Created by @Chinna
 	 */
@@ -258,5 +258,4 @@ public class Validate_p_subscription_trx {
 		}
 		return retryComment;
 	}
-	
 }

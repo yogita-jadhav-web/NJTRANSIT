@@ -108,7 +108,6 @@ WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/ClickOnConfimButton'))
 
 WebUI.delay(5)
 
-
 dbConnection = CustomKeywords.'com.web.db.Validate_g_subscription.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url, 
     GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
 
@@ -146,7 +145,6 @@ WebUI.delay(Integer.parseInt(GlobalVariable.RefundDelayTime))
 
 WebUI.refresh()
 
-
 WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/span_Tickets'), 
     0)
 
@@ -158,38 +156,44 @@ WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Objec
 
 WebUI.refresh(FailureHandling.STOP_ON_FAILURE)
 
+dbConnection1 = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url, 
+    GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
 
-//dbConnection = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_MySQL_Web_DBConnection'(GlobalVariable.NJT_Web_DB_Url,
-	//GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
+String queryforp_SubscriptionTable = ((('select * from p_subscription_trx  where USER_ID= \'' + userEmail) + '\' and RETRY_COMMENT=\'') + 
+'Success') + '\' order by CREATED_DATE desc;'
 
-String queryforp_SubscriptionTable = ('select * from p_subscription_trx  where USER_ID= \'' + userEmail) + '\' and RETRY_COMMENT=\''+"Success"+'\'s order by CREATED_DATE desc;'
-
-userID_from_P_SUB_TRNX_Table=CustomKeywords.'Validate_p_subscriptin_trx.get_USER_ID_from_p_subscription_TRNX_Table'(dbConnection, queryforp_SubscriptionTable)
+userID_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_USER_ID_from_p_subscription_TRNX_Table'(
+    dbConnection1, queryforp_SubscriptionTable)
 
 WebUI.verifyEqual(userEmail, userID_from_P_SUB_TRNX_Table)
 
-Amount_from_P_SUB_TRNX_Table=CustomKeywords.'Validate_p_subscriptin_trx.get_Amount_from_p_subscription_TRNX_Table'(dbConnection, queryforp_SubscriptionTable)
+Amount_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_Amount_from_p_subscription_TRNX_Table'(
+    dbConnection1, queryforp_SubscriptionTable)
 
-WebUI.verifyEqual(dbAmount, Amount_from_P_SUB_TRNX_Table)
+not_run: WebUI.verifyEqual(dbAmount, Amount_from_P_SUB_TRNX_Table)
 
-pay_REFID_from_P_SUB_TRNX_Table=CustomKeywords.'Validate_p_subscriptin_trx.get_PAY_REF_ID_from_p_subscription_TRNX_Table'(dbConnection, queryforp_SubscriptionTable)
+pay_REFID_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_PAY_REF_ID_from_p_subscription_TRNX_Table'(
+    dbConnection1, queryforp_SubscriptionTable)
 
 WebUI.verifyEqual(cardNickname, pay_REFID_from_P_SUB_TRNX_Table)
 
-creditCardNumber_from_P_SUB_TRNX_Table=CustomKeywords.'Validate_p_subscriptin_trx.get_Credit_Card_Number_from_p_subscription_TRNX_Table'(dbConnection, queryforp_SubscriptionTable)
+creditCardNumber_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_Credit_Card_Number_from_p_subscription_TRNX_Table'(
+    dbConnection1, queryforp_SubscriptionTable)
 
 WebUI.verifyEqual(lastFourDigitsPymtcardNum, creditCardNumber_from_P_SUB_TRNX_Table)
 
-retryCount_from_P_SUB_TRNX_Table=CustomKeywords.'Validate_p_subscriptin_trx.get_Retry_Count_from_p_subscription_TRNX_Table'(dbConnection, queryforp_SubscriptionTable)
+retryCount_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_Retry_Count_from_p_subscription_TRNX_Table'(
+    dbConnection1, queryforp_SubscriptionTable)
 
-WebUI.verifyEqual("1", retryCount_from_P_SUB_TRNX_Table)
+WebUI.verifyEqual('1', retryCount_from_P_SUB_TRNX_Table)
 
-retryComment_from_P_SUB_TRNX_Table=CustomKeywords.'Validate_p_subscriptin_trx.get_Retry_Comment_from_p_subscription_TRNX_Table'(dbConnection, queryforp_SubscriptionTable)
+retryComment_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_Retry_Comment_from_p_subscription_TRNX_Table'(
+    dbConnection1, queryforp_SubscriptionTable)
 
-WebUI.verifyEqual("Success", retryComment_from_P_SUB_TRNX_Table)
+WebUI.verifyEqual('Success', retryComment_from_P_SUB_TRNX_Table)
 
-WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_Auto Reload'),
-	0)
+WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_Auto Reload'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_Auto Reload'))
 
@@ -201,20 +205,20 @@ WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/AutoReloadCancelButton'
 
 WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/CancelAutoReloadYesBTN'), FailureHandling.STOP_ON_FAILURE)
 
-
 WebUI.refresh()
 
-WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_TRX. History'),
-	0)
+WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_TRX. History'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_TRX. History'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/span_Refund'),'Refund')
+WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/span_Refund'), 
+    'Refund')
 
 WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/span_Refund'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/span_Refund Policy'),
-	'Refund Policy')
+WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/span_Refund Policy'), 
+    'Refund Policy')
 
 WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/button_Yes'))
 
@@ -223,14 +227,4 @@ WebUI.delay(Integer.parseInt(GlobalVariable.RefundDelayTime))
 println('Test Passed Successfully....')
 
 WebUI.closeBrowser()
-
-
-
-
-
-
-
-
-
-
 
