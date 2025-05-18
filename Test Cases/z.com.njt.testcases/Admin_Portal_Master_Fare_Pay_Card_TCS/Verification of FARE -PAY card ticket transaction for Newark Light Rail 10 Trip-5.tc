@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of FARE -PAY card ticket transaction for Newark Light Rail 10 Trip-5</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49a4b12a-4a2d-4ee7-9caf-2e835f6243cd</testCaseGuid>
+</TestCaseEntity>
