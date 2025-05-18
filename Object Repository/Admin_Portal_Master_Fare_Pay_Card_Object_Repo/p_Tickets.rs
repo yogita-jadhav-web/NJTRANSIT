@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Tickets</name>
+   <tag></tag>
+   <elementGuidId>878428b7-4d1d-41ee-92c5-d71954646d03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Tickets' or . = 'Tickets')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tickets&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0b5d7ac4-4224-4578-bfaa-768f8cc3a3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-rhpr0w</value>
+      <webElementGuid>1745ca14-4dd2-4baa-b536-b35fedd697d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tickets</value>
+      <webElementGuid>12ec2be1-b867-4c5e-b777-084956a1881d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-chg5zm&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-5.5 css-8e9m7x&quot;]/div[@class=&quot;MuiBox-root css-gg4vpm&quot;]/div[@class=&quot;MuiBox-root css-1i27l4i&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-rhpr0w&quot;]</value>
+      <webElementGuid>7b5ec215-dc15-4d9f-9c2f-14d635e04f52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Tickets' or . = 'Tickets')]</value>
+      <webElementGuid>48c61385-4ff4-4f4c-8c8b-e5fa84082ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[2]/div[2]/div/div[3]/div/p[2]</value>
+      <webElementGuid>5dde4480-4226-47ce-8037-e3dd053bf4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[3]/div/p[2]</value>
+      <webElementGuid>2f298e01-49bc-45c8-9b40-2bedba8e1ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::p[1]</value>
+      <webElementGuid>f8464ef1-4d8d-4562-ac22-ff350477f633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[2]/preceding::p[1]</value>
+      <webElementGuid>e9fbe842-a0b5-4b05-9c29-db1ca18a202e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotlist FARE-PAY Card'])[1]/preceding::p[5]</value>
+      <webElementGuid>934600b6-d3be-4031-a702-c9dd6456b43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tickets']/parent::*</value>
+      <webElementGuid>3ccbf997-cb46-4c76-aa15-2f7a080c1623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

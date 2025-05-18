@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Fare card tab UI-1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>261dafae-6c33-4088-b5fe-168bf320556a</testCaseGuid>
+</TestCaseEntity>
