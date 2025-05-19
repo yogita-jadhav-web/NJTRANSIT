@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147213 To verify that user is able to subscribe bus monthly AutoReload -Tickets using Add New JCB card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50bd53ef-25bf-4fe8-a5d5-db8399dab52f</testCaseGuid>
+</TestCaseEntity>
