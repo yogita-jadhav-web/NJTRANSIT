@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147214 To verify that user is able to subscribe bus monthly AutoReload -Tickets using Add New CUP card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf36d2f7-97df-4874-b96f-1f42c993e937</testCaseGuid>
+</TestCaseEntity>

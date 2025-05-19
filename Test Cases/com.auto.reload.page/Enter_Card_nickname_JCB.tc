@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>To verify that user is able to subscribe bus monthly AutoReload -Tickets using Existing VISA card-dB</name>
+   <name>Enter_Card_nickname_JCB</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>1d29a1aa-296d-478f-ad8f-c918f89e4d8e</testCaseGuid>
+   <testCaseGuid>d4d2ff9b-f9a5-4b03-998b-492ba24fb5fb</testCaseGuid>
 </TestCaseEntity>

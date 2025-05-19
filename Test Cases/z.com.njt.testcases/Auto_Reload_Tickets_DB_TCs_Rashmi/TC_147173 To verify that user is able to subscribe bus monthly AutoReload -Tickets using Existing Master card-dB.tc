@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147173 To verify that user is able to subscribe bus monthly AutoReload -Tickets using Existing Master card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60f5317d-53a9-42eb-bdeb-0ed10c20dbb3</testCaseGuid>
+</TestCaseEntity>

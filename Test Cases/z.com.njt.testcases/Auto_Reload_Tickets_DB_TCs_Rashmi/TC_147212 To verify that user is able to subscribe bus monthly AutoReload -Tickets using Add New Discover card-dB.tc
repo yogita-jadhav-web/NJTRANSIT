@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147212 To verify that user is able to subscribe bus monthly AutoReload -Tickets using Add New Discover card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf36886a-08b5-40b2-9a7e-c9ac0fded88c</testCaseGuid>
+</TestCaseEntity>

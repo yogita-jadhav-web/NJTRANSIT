@@ -37,17 +37,17 @@ String actualCardNumber = farePayCardNumber.replaceAll('-', '')
 
 println(actualCardNumber)
 
-WebUI.refresh()
+not_run: WebUI.refresh()
 
-WebUI.delay(5)
+not_run: WebUI.delay(5)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Delete_Credit_Card_From_Manage_Saved_Payments'), [:], FailureHandling.OPTIONAL)
+not_run: WebUI.callTestCase(findTestCase('com.profile.page/Delete_Credit_Card_From_Manage_Saved_Payments'), [:], FailureHandling.OPTIONAL)
 
-String script = 'window.scrollTo(0, -200);'
+not_run: String script = 'window.scrollTo(0, -200);'
 
-WebUI.executeJavaScript(script, null)
+not_run: WebUI.executeJavaScript(script, null)
 
-WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_on_fare_pay_card_tab'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_on_fare_pay_card_tab'), [:], FailureHandling.STOP_ON_FAILURE)
 
 String beforeRefundCartValue = WebUI.getText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/cardValue'))
 
@@ -73,15 +73,15 @@ WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_continue_button')
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/select_monthly_checkbox'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Add_New_Card_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.auto.reload.page/Click_Existing_credit_Card'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Enter_Credit_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Add_New_Card_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_JCB_CC_Details'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.profile.page/Enter_Credit_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.profile.page/Enter_random_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_MASTER_CC_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.auto.reload.page/Enter_Card_nickname_JCB'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_Card_nickname_Master'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/input_Card_Number'), FailureHandling.STOP_ON_FAILURE)
 
@@ -157,7 +157,7 @@ dbConnection1 = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_MySQL
     GlobalVariable.NJT_Web_DB_UserName, GlobalVariable.NJT_Web_DB_Password)
 
 String queryforp_SubscriptionTable = ((('select * from p_subscription_trx  where USER_ID= \'' + userEmail) + '\' and RETRY_COMMENT=\'') + 
-'Success') + '\' order by CREATED_DATE desc;'
+'Success') + '\' order by USER_ID desc;'
 
 userID_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_USER_ID_from_p_subscription_TRNX_Table'(
     dbConnection1, queryforp_SubscriptionTable)
@@ -172,12 +172,12 @@ not_run: WebUI.verifyEqual(dbAmount, Amount_from_P_SUB_TRNX_Table)
 pay_REFID_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_PAY_REF_ID_from_p_subscription_TRNX_Table'(
     dbConnection1, queryforp_SubscriptionTable)
 
-not_run: WebUI.verifyEqual(cardNickname, pay_REFID_from_P_SUB_TRNX_Table)
+WebUI.verifyEqual(cardNickname, pay_REFID_from_P_SUB_TRNX_Table)
 
 creditCardNumber_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_Credit_Card_Number_from_p_subscription_TRNX_Table'(
     dbConnection1, queryforp_SubscriptionTable)
 
-not_run: WebUI.verifyEqual(lastFourDigitsPymtcardNum, creditCardNumber_from_P_SUB_TRNX_Table)
+WebUI.verifyEqual(lastFourDigitsPymtcardNum, creditCardNumber_from_P_SUB_TRNX_Table)
 
 retryCount_from_P_SUB_TRNX_Table = CustomKeywords.'com.web.db.Validate_p_subscription_trx.get_Retry_Count_from_p_subscription_TRNX_Table'(
     dbConnection1, queryforp_SubscriptionTable)

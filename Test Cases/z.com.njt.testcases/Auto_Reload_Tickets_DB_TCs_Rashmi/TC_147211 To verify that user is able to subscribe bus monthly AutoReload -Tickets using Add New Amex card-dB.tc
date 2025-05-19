@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147211 To verify that user is able to subscribe bus monthly AutoReload -Tickets using Add New Amex card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a76eae8d-1abe-4559-a576-856afc9d00e6</testCaseGuid>
+</TestCaseEntity>
