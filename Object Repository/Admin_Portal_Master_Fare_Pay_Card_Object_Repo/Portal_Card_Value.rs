@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Card_Value</name>
    <tag></tag>
-   <elementGuidId>96d37b3a-1680-48ac-b2db-4dd2600cdca7</elementGuidId>
+   <elementGuidId>8a65f2e3-af9a-42f9-a3ca-bf5915ce1fe5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>((//span[text()='Card Value'])//following::td/span/div/span)[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Tranx_Time_and_and_Date</name>
    <tag></tag>
-   <elementGuidId>22daf7f8-3141-47c5-b21c-a9a5c234676b</elementGuidId>
+   <elementGuidId>7d0e6390-27da-4cd3-bdb1-7f9e7268e142</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

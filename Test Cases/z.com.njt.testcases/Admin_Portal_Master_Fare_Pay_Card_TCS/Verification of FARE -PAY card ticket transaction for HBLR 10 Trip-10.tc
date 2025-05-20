@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of FARE -PAY card ticket transaction for HBLR 10 Trip-10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9c16c73-e3c0-4eeb-907d-978c839f75e6</testCaseGuid>
+</TestCaseEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>FarePayCardNumberXpath</name>
    <tag></tag>
-   <elementGuidId>823dbbec-c8b9-4c2e-8fe2-0f52a73be9fd</elementGuidId>
+   <elementGuidId>f315eca9-17c1-4922-9d2f-0108c68e35f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,11 +3,10 @@
    <description></description>
    <name>path</name>
    <tag></tag>
-   <elementGuidId>6a1d4ce8-3030-4b5f-8025-2008111990fe</elementGuidId>
+   <elementGuidId>76f910bd-31fb-4bc2-a380-f7b805f4b3da</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>69e28092-f31e-4148-91f4-bddaf7c4a49e</webElementGuid>
+      <webElementGuid>5050c09b-2097-46c6-8084-3bf90066b1a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M7 10l5 5 5-5z</value>
-      <webElementGuid>57ca77cf-b9ea-4ce8-a6eb-a79f03186ca5</webElementGuid>
+      <webElementGuid>1354a262-3ecb-4972-849c-58b30bf5e2fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,6 +44,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-cwpu7v&quot;]/div[@class=&quot;MuiDialogContent-root css-69br6q&quot;]/div[@class=&quot;MuiBox-root css-1r12575&quot;]/div[@class=&quot;MuiBox-root css-1ebnygn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-4fp4i5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6 css-iol86l&quot;]/div[@class=&quot;MuiBox-root css-7822g1&quot;]/div[@class=&quot;MuiBox-root css-9whsf3&quot;]/div[@class=&quot;MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon css-iqb6p7&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-pe2e5v&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-7whueq&quot;]/div[@class=&quot;MuiAutocomplete-endAdornment css-mxlkbn&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator css-uge3vf&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv&quot;]/path[1]</value>
-      <webElementGuid>13cfa6b4-67b4-4ed4-8dea-cadcac7987a5</webElementGuid>
+      <webElementGuid>dd086a8d-a903-4998-ae98-29c3e3e39563</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

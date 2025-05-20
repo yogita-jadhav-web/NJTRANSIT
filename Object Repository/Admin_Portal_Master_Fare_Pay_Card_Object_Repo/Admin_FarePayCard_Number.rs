@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_FarePayCard_Number</name>
    <tag></tag>
-   <elementGuidId>178ca86d-487d-42f6-ae8f-c4f697b524fe</elementGuidId>
+   <elementGuidId>b82da52f-434c-48f7-bb86-f725f97c855a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[text()='Card Number:']//following-sibling::p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Fare_rj</name>
    <tag></tag>
-   <elementGuidId>928b3b9f-3f02-42b2-9234-c8c47fc35206</elementGuidId>
+   <elementGuidId>03e6b4d3-d815-41b9-b9ec-c1a42eb0dadc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c4358cc7-79b3-4f10-a851-dbf8e4dd7cc6</webElementGuid>
+      <webElementGuid>b073851e-c338-49d0-b2d6-18ffb730f53a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>PrivateSwitchBase-input css-1m9pwf3</value>
-      <webElementGuid>e403a778-f54f-4363-af45-c8f9eb3b3d41</webElementGuid>
+      <webElementGuid>b2a56743-5202-4683-93d6-71357f36d865</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>:rj:</value>
-      <webElementGuid>99a41d54-5fac-4f5a-b56a-cc799fbc3c64</webElementGuid>
+      <webElementGuid>91fdb134-0a45-4a82-822f-066d95ad348a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>1a78c38e-e4d2-4ea7-9fe6-c6241afc569e</webElementGuid>
+      <webElementGuid>a2b95e56-2df2-4e3b-b9cb-c1cce2bfb977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>24701</value>
-      <webElementGuid>33dd28fa-43f1-40e3-b53b-3bdbe579cde0</webElementGuid>
+      <webElementGuid>c37a0410-7ae4-4d1d-b645-65f3a94bd30e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;transactionRow-0&quot;)/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeSmall css-1on1dw0&quot;]/fieldset[@class=&quot;MuiFormControl-root css-4k3xrn&quot;]/div[@class=&quot;MuiFormGroup-root MuiRadioGroup-root css-1h7anqn&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-rkz6qa&quot;]/span[@class=&quot;MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary MuiRadio-sizeSmall PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary MuiRadio-sizeSmall MuiRadio-root MuiRadio-colorPrimary MuiRadio-sizeSmall css-1avcfge&quot;]/input[@class=&quot;PrivateSwitchBase-input css-1m9pwf3&quot;]</value>
-      <webElementGuid>34f7afef-968a-4033-80b6-497e9a8e8638</webElementGuid>
+      <webElementGuid>7a60e532-7e79-4f7d-9851-3939ac21a453</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name=':rj:']</value>
-      <webElementGuid>97ee351e-ab21-472c-a32e-3ec06a7253bf</webElementGuid>
+      <webElementGuid>00b2cc5e-37f0-479e-b288-8add9948ed06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = ':rj:' and @type = 'radio']</value>
-      <webElementGuid>68372cd2-f6e9-4dba-83b6-b390db1e5abc</webElementGuid>
+      <webElementGuid>676e3ad0-7894-4ef8-bfea-52fbfe102d1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='transactionRow-0']/td/fieldset/div/label/span/input</value>
-      <webElementGuid>ba5297a1-4293-4c21-9c32-1ffab5dad2e1</webElementGuid>
+      <webElementGuid>b0c53884-7d53-44d6-a7a0-a878c2714ae3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>daf06935-e8da-4f0b-99be-bb4a22e41267</webElementGuid>
+      <webElementGuid>df40339e-d805-42f4-9076-2604f36ae77a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

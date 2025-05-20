@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Tranx_ID</name>
    <tag></tag>
-   <elementGuidId>a53bf494-5a2c-4dda-ad7f-eaaf5c9ee5fb</elementGuidId>
+   <elementGuidId>3c76ddb7-abc7-4c9a-b91d-b10d2bc3e73a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

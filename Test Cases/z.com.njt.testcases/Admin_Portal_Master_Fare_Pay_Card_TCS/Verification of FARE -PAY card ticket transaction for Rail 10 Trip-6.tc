@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of FARE -PAY card ticket transaction for Rail 10 Trip-6</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5e5100e-1893-4046-9385-fc74b9b9a74a</testCaseGuid>
+</TestCaseEntity>

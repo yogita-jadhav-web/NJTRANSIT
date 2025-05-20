@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Note creatd on Hotlisting a FARE-PAY card-19</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>196c2456-244f-447a-8705-e45da7ffea65</testCaseGuid>
+</TestCaseEntity>

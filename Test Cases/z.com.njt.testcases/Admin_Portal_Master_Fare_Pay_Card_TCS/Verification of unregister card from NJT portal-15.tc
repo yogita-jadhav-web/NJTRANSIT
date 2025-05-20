@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of unregister card from NJT portal-15</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aaa49afa-3292-4a9c-92df-a9691cafe5f6</testCaseGuid>
+</TestCaseEntity>

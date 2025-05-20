@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Active_Tickets</name>
    <tag></tag>
-   <elementGuidId>39ad2bba-8095-47bb-a7a6-b5bab30b5e7f</elementGuidId>
+   <elementGuidId>0807f1d0-816b-42d8-a6db-f60e87aa9a2f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//span[text()='Active Tickets']/following::td/span)[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Payment_Type</name>
    <tag></tag>
-   <elementGuidId>6cfbedf0-f602-4194-ac99-10dec8b295dd</elementGuidId>
+   <elementGuidId>63212b86-263a-4be4-a0ba-fbfb6337389a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(((//tbody)[2]/tr)[1]/td)[8]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

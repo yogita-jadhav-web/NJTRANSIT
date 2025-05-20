@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of FARE -PAY card ticket transaction for Bus 10 Trip-8</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d32dbf54-2be9-461a-af89-d3eb0d235618</testCaseGuid>
+</TestCaseEntity>

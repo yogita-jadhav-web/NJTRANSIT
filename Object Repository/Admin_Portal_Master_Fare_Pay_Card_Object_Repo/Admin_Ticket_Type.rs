@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Ticket_Type</name>
    <tag></tag>
-   <elementGuidId>eb735a62-76f6-443f-9b2f-797b00f0660b</elementGuidId>
+   <elementGuidId>1ddbadf1-1b77-45df-b48b-bbf8ccf32ea4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

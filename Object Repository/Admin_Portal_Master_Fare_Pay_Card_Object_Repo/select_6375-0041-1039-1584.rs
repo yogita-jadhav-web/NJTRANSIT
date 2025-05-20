@@ -3,15 +3,15 @@
    <description></description>
    <name>select_6375-0041-1039-1584</name>
    <tag></tag>
-   <elementGuidId>ff662fb5-c2ff-4963-b680-4f2065395d2e</elementGuidId>
+   <elementGuidId>73814d18-1ed3-4011-9635-faa3ccce868b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#cards</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='cards']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cards</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>4fae677e-6dbc-401f-9423-874f087f6142</webElementGuid>
+      <webElementGuid>0f8a46ea-360c-48d9-87c3-14b32f13056f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>selectBox lg-selectBox</value>
-      <webElementGuid>d9dacc93-faa5-4cd3-bdce-a4caab348a51</webElementGuid>
+      <webElementGuid>a27e86fd-5584-45c8-86f2-9595deade4c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>creditCards</value>
-      <webElementGuid>ef7aa27f-e421-4696-8846-745ee35fbb1c</webElementGuid>
+      <webElementGuid>425363bf-5713-4a9c-9f80-701f78876f01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>cards</value>
-      <webElementGuid>2cfb9712-f2ed-4cd3-b7cc-b3fbab355773</webElementGuid>
+      <webElementGuid>7094ecce-c6ee-4866-a81a-15d4b63fdb47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>6375-0041-1039-1584</value>
-      <webElementGuid>1aef0516-1e86-4f44-b35e-5a0ba74fd4f3</webElementGuid>
+      <webElementGuid>31d9d489-1ca4-4094-9dd9-24e24d719c0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cards&quot;)</value>
-      <webElementGuid>173a81e6-ad35-44fe-b50c-57a8215da810</webElementGuid>
+      <webElementGuid>dd4afa6b-8104-40eb-a3c8-6640847006d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='cards']</value>
-      <webElementGuid>9b3485c1-a171-48b9-bac8-e8061d8c3384</webElementGuid>
+      <webElementGuid>0486c989-0fd2-40b3-a90e-e65db9bf4fc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'creditCards' and @id = 'cards' and (text() = '6375-0041-1039-1584' or . = '6375-0041-1039-1584')]</value>
-      <webElementGuid>be892de3-3039-4457-94fa-eeb2e04ca9d4</webElementGuid>
+      <webElementGuid>ad9775af-d9a6-40a8-bcbf-756ad47277c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div/div/select</value>
-      <webElementGuid>c8476655-46e8-4de3-a17b-6477f124112e</webElementGuid>
+      <webElementGuid>433456d4-b1e3-4ec5-821c-14c0d76082d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>515351aa-18ca-4044-9f2e-c1d7191bd556</webElementGuid>
+      <webElementGuid>baa6def3-9c3e-42cb-b6e3-235d62b39cf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email History'])[1]/following::select[1]</value>
-      <webElementGuid>3a38f150-63ac-4b62-961f-d85c5346fb89</webElementGuid>
+      <webElementGuid>7ed67648-bf07-493d-b425-4a65ca63d86a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Subscriptions'])[1]/following::select[1]</value>
-      <webElementGuid>836e7a44-d485-478f-8293-70045262fec9</webElementGuid>
+      <webElementGuid>bef50d0a-16f6-4384-a3f0-dab56e82432d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::select[1]</value>
-      <webElementGuid>0ac480d8-aa56-4208-866b-d61ecb62ede5</webElementGuid>
+      <webElementGuid>60c6372e-3193-4c56-9504-0d3099c6c828</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

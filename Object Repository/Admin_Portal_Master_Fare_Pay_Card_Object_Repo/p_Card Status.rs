@@ -3,15 +3,15 @@
    <description></description>
    <name>p_Card Status</name>
    <tag></tag>
-   <elementGuidId>6c9a0edc-2be6-432b-a513-5443cf94e454</elementGuidId>
+   <elementGuidId>32897da6-c390-4310-a91f-0f480fd428b4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p.MuiTypography-root.MuiTypography-body1.css-19skxwk</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[(text() = 'Card Status:' or . = 'Card Status:')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-19skxwk</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>7b2debd7-1ed9-4622-9ead-b2f2343daf22</webElementGuid>
+      <webElementGuid>23ec21eb-72ef-49ed-898a-eca9a3bbc0c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-19skxwk</value>
-      <webElementGuid>eba5f753-40e6-4e3a-a3cc-cf577bd968f5</webElementGuid>
+      <webElementGuid>ca36bdbf-2eae-48f2-ae74-81520bad5d9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Card Status:</value>
-      <webElementGuid>edd686e2-fda3-4329-bdc9-4453dc498166</webElementGuid>
+      <webElementGuid>36f03a78-4b8a-44be-a4d7-ff2e50cbdc06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-chg5zm&quot;]/div[@class=&quot;MuiBox-root css-acqjgf&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-19skxwk&quot;]</value>
-      <webElementGuid>b0600d7e-5e50-4808-a1df-410c8b94f227</webElementGuid>
+      <webElementGuid>dd2adea7-11ba-4c63-8f75-c000e5a57097</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Card Status:' or . = 'Card Status:')]</value>
-      <webElementGuid>05a59335-79bc-4d19-b821-1f4e4974e621</webElementGuid>
+      <webElementGuid>a24bcd38-f8bd-4987-b2ef-15950a2f3804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[2]/div/p</value>
-      <webElementGuid>cbc6c5aa-60e0-418f-ad61-ffac12f25752</webElementGuid>
+      <webElementGuid>e62acdd9-9eb0-4583-ba63-e129b4e49042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/p</value>
-      <webElementGuid>1c1de09f-a721-4d26-b69d-14c039b36bd2</webElementGuid>
+      <webElementGuid>92d884bc-9a9f-438d-9b58-8cc82d3c214f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email History'])[1]/following::p[2]</value>
-      <webElementGuid>c4ce849b-5c1a-4aa5-bda6-84905e54d5c7</webElementGuid>
+      <webElementGuid>ca79696d-354e-4654-afb8-596463ec39c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Subscriptions'])[1]/following::p[2]</value>
-      <webElementGuid>3472cac7-8fa0-4b84-b2c8-be71eafe1b73</webElementGuid>
+      <webElementGuid>57e1e6a8-b9b9-4f51-a560-ecdd46ed35f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::p[8]</value>
-      <webElementGuid>a68125db-1b8d-4508-b8ab-04bc5c1435cf</webElementGuid>
+      <webElementGuid>f57a75ad-961f-4548-b5cf-1ac1b2dcd664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Card Status']/parent::*</value>
-      <webElementGuid>87dc75a1-d898-4ba1-ad31-3c89c2c48750</webElementGuid>
+      <webElementGuid>ed63a912-5c58-4e38-92df-94f24e8adfdc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_TicketExp_Time</name>
    <tag></tag>
-   <elementGuidId>4b51849d-60f5-4e4f-9388-02904db705ee</elementGuidId>
+   <elementGuidId>045f1c7c-57b6-4281-b578-10d0e94fae2b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(((//tbody)[2]/tr)[1]/td)[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

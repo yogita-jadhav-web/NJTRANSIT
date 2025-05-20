@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of report lost card from NJT portal-16</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7faca4d-9192-43e0-a714-cc0bca41784d</testCaseGuid>
+</TestCaseEntity>

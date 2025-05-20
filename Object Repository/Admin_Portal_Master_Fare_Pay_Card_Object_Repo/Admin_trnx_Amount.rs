@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_trnx_Amount</name>
    <tag></tag>
-   <elementGuidId>086a49c8-fd9c-4d7d-bd08-597f50935572</elementGuidId>
+   <elementGuidId>f6993923-b653-460c-b635-ebb9cd0fe712</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[7]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

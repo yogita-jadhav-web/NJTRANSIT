@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of FARE -PAY card ticket transaction for Rail Weekly-7</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>677b7d0b-eaf1-45a1-a664-aaadf5894249</testCaseGuid>
+</TestCaseEntity>

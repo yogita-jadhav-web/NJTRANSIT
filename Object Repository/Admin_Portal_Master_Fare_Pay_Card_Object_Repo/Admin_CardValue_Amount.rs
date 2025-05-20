@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_CardValue_Amount</name>
    <tag></tag>
-   <elementGuidId>3f794f43-155f-4148-8a50-9ed9a87b30dd</elementGuidId>
+   <elementGuidId>ce0402c2-e01f-4755-813a-82ffccd038a5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[text()='Card Value:']//following-sibling::p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

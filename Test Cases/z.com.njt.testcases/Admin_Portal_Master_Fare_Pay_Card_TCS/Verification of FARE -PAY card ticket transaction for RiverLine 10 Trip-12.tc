@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of FARE -PAY card ticket transaction for RiverLine 10 Trip-12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa23b540-dcc4-4c3e-abb9-a3f1a73a4444</testCaseGuid>
+</TestCaseEntity>

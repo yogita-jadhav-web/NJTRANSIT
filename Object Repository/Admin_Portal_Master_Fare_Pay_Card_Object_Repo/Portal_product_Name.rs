@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_product_Name</name>
    <tag></tag>
-   <elementGuidId>33f26c24-1d7c-4cd4-b61f-8f7e1884ac72</elementGuidId>
+   <elementGuidId>072e6e86-6e50-49fe-9275-308efa952358</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(((//tbody)[2]/tr)[1]/td)[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

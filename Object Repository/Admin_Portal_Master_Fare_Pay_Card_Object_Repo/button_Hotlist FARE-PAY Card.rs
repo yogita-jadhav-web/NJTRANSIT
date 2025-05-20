@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Hotlist FARE-PAY Card</name>
    <tag></tag>
-   <elementGuidId>48fcaa01-e83c-4619-97b1-7118ac4d090b</elementGuidId>
+   <elementGuidId>54ce2cfc-e3f0-411f-a20c-dcb484f4ae9d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#blockBtn</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='blockBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#blockBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>de3fe82d-41e3-4273-895c-d9522a0e3ca3</webElementGuid>
+      <webElementGuid>2ffd9763-7738-4f26-a2e5-68d8900865b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-1n7bkoc</value>
-      <webElementGuid>7224c4eb-26db-4cb8-9f4d-399ee355fac9</webElementGuid>
+      <webElementGuid>ad7ef408-2bad-4634-8ecb-77a95f8c8d91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d1c3450f-232a-4941-972e-dc32554aacf2</webElementGuid>
+      <webElementGuid>cf2510e6-2ffe-437f-9b12-46a5f202eca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>70fe5261-d7d2-448e-afc1-6cf4459058c0</webElementGuid>
+      <webElementGuid>29767595-dca9-4186-a5a1-8e66cb0baa19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>blockBtn</value>
-      <webElementGuid>41184992-a895-4fca-8885-7d94e3bd2331</webElementGuid>
+      <webElementGuid>c646ec40-1405-4b08-a6dc-e4a528c7c66d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>581d484c-896c-48c5-9a2d-44939ad51500</webElementGuid>
+      <webElementGuid>283357a4-3fc5-40f4-b881-191d9cad49c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hotlist FARE-PAY Card</value>
-      <webElementGuid>cc191974-004f-4a57-af59-1ce624326ca5</webElementGuid>
+      <webElementGuid>9d44ae95-b5a2-4470-9ea5-0c3f9869d7a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;blockBtn&quot;)</value>
-      <webElementGuid>7d05acd1-423e-4856-a904-964247d056b7</webElementGuid>
+      <webElementGuid>2df48502-65a9-44a9-bd2e-b1d51ea860bd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='blockBtn']</value>
-      <webElementGuid>80d4566f-7fe8-44d2-808f-efba86fe58c8</webElementGuid>
+      <webElementGuid>daa0aeb5-4836-455c-9bb8-f62176c93a0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,39 +101,39 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'blockBtn' and (text() = 'Hotlist FARE-PAY Card' or . = 'Hotlist FARE-PAY Card')]</value>
-      <webElementGuid>099810ef-2f27-4762-80df-9eefb07db0ea</webElementGuid>
+      <webElementGuid>18904138-30f4-435b-9c0b-c25673e8f575</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[4]/button</value>
-      <webElementGuid>9deaec73-bed6-4b3b-a12b-4ecddb55c0ae</webElementGuid>
+      <value>//div[@id='SearchFarecardInfo']/div/div[2]/button</value>
+      <webElementGuid>18020600-1010-4df0-828f-8a04358d07da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>932648d3-efc5-49ad-aa62-bd2df91caba1</webElementGuid>
+      <value>//div/div/div[2]/button</value>
+      <webElementGuid>2679e3e8-4f5c-4349-a551-bfca64182147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[2]/following::button[1]</value>
-      <webElementGuid>f0f162af-7817-4255-a5fb-1413d6fbb364</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::button[1]</value>
+      <webElementGuid>84e77c28-1892-4e92-9f9e-8e3a42c514d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::button[1]</value>
-      <webElementGuid>fa005704-1d95-44e2-a4bb-f0c4fe316e5e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::button[2]</value>
+      <webElementGuid>0098fc31-7172-47da-b799-ac2a9aa7a354</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Transactions History'])[1]/preceding::button[1]</value>
-      <webElementGuid>594aa440-9646-4c3c-9829-084cda37fe6b</webElementGuid>
+      <webElementGuid>4ee1b50f-4971-4270-9c70-c1c31c7408f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[2]</value>
-      <webElementGuid>163dd2c8-e3c0-4f51-9c45-a5352b653829</webElementGuid>
+      <webElementGuid>9fe879d5-59b8-4505-b2f8-d58508827b6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,38 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hotlist FARE-PAY Card']/parent::*</value>
-      <webElementGuid>19cce3e9-d02d-4120-a570-3972d4f22258</webElementGuid>
+      <webElementGuid>5ddc45c0-0383-4e4f-ad7f-939bdcb8bd18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[4]/button</value>
+      <webElementGuid>f86ad354-a844-4288-8d69-f909059183ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>978612cb-554b-4799-9fc8-0db83c4602d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[2]/following::button[1]</value>
+      <webElementGuid>a39527a8-699e-41c3-ade8-c5fca7ae0afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::button[1]</value>
+      <webElementGuid>bbd15a6d-610c-4855-8936-e33473dc97f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

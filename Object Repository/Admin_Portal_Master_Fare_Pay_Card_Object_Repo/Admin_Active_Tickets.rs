@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Active_Tickets</name>
    <tag></tag>
-   <elementGuidId>78558e42-8218-4c7b-b0ab-4f59f2d5f987</elementGuidId>
+   <elementGuidId>779cc0c5-3693-4c5f-8e91-2e6e7d0eb07d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[text()='Active Tickets:']//following-sibling::p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

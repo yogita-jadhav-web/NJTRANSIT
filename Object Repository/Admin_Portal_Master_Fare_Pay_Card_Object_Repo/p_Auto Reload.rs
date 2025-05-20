@@ -3,14 +3,14 @@
    <description></description>
    <name>p_Auto Reload</name>
    <tag></tag>
-   <elementGuidId>ea1d2f93-fa98-4407-aeb1-4e185ea86844</elementGuidId>
+   <elementGuidId>73700306-adae-41a2-8799-d974c6ce4399</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[(text() = 'Auto Reload:' or . = 'Auto Reload:')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>35db90e8-df56-44ec-bc24-09721d9bd954</webElementGuid>
+      <webElementGuid>40bc40c1-8ea4-4e6e-aa55-5c6b60b5b4aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-1h9abf5</value>
-      <webElementGuid>e41e5abf-43d9-4a33-8e54-bf316518aa64</webElementGuid>
+      <webElementGuid>e1b14bd3-b247-400a-bf63-625d37d80af1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Auto Reload:</value>
-      <webElementGuid>fd624644-17d8-4c89-ad1d-936d1a904e4d</webElementGuid>
+      <webElementGuid>25d0371c-bea7-4f66-aed0-1bafa0723c21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-chg5zm&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-5.5 css-8e9m7x&quot;]/div[@class=&quot;MuiBox-root css-gg4vpm&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1h9abf5&quot;]</value>
-      <webElementGuid>e6ab3414-d261-4bfc-af47-5489760f09fa</webElementGuid>
+      <webElementGuid>c0ee44f4-f49e-4548-ac55-3f098a2461e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Auto Reload:' or . = 'Auto Reload:')]</value>
-      <webElementGuid>b27a1868-c892-461c-ba8f-6d0e45385328</webElementGuid>
+      <webElementGuid>944804b3-a4ca-4342-bf13-06447c6aa37a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[2]/div[2]/div/div[3]/p</value>
-      <webElementGuid>0d96fbe6-f98d-4d31-8395-86e6e0d6a4ef</webElementGuid>
+      <webElementGuid>098ad24b-cc45-44d0-8044-f28b70383590</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/p</value>
-      <webElementGuid>95d11de9-e251-4b49-97bc-e44a284ebfdb</webElementGuid>
+      <webElementGuid>b633f35d-a73d-4e02-8b0d-099a5bd3c477</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email History'])[1]/following::p[8]</value>
-      <webElementGuid>9a5fb1f1-27fd-4fbe-894f-4e19169cc992</webElementGuid>
+      <webElementGuid>da0619d0-a6fe-49e3-8b28-64fca2b4f937</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Subscriptions'])[1]/following::p[8]</value>
-      <webElementGuid>c416a379-9012-4b62-ba0c-e5b44f8913b3</webElementGuid>
+      <webElementGuid>b3d9c91b-9050-434c-9b53-4c8d2b5ad1d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::p[2]</value>
-      <webElementGuid>861fe24b-b82f-4ccf-afa9-6420cad91b43</webElementGuid>
+      <webElementGuid>4094bb31-36b3-42a1-9869-d47b05b2200e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Auto Reload:']/parent::*</value>
-      <webElementGuid>62c8b2a3-232e-44b5-a701-e212ee65bac9</webElementGuid>
+      <webElementGuid>916c81af-e969-46ff-9a7b-422f53ec7c1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

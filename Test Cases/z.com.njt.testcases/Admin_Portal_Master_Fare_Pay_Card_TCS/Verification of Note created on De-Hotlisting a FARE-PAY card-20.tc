@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Note created on De-Hotlisting a FARE-PAY card-20</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>009e7c02-d470-449d-802a-11470dcc4453</testCaseGuid>
+</TestCaseEntity>

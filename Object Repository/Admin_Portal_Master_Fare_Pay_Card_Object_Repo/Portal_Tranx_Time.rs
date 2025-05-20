@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Tranx_Time</name>
    <tag></tag>
-   <elementGuidId>7218b2a2-8035-4a62-b6ce-88472cfe400d</elementGuidId>
+   <elementGuidId>8ec09861-a67b-4dc2-a78c-8b0f7df4ddf6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(((//tbody)[2]/tr)[1]/td)[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

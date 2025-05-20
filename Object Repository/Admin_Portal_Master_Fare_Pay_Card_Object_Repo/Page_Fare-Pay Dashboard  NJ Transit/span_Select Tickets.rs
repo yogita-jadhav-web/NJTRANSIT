@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Select Tickets</name>
    <tag></tag>
-   <elementGuidId>5ff9ab9f-1efc-4cf2-a663-187624e7eb5b</elementGuidId>
+   <elementGuidId>679f3ec4-1e10-4c0e-b657-c5480ca0f8f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7a7e0297-2376-4246-8479-d8f84b9dadfc</webElementGuid>
+      <webElementGuid>204e213b-7194-47cf-b41e-39b645f33362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Tickets</value>
-      <webElementGuid>f0d8b716-ea3a-468d-b380-1afb334cbbe5</webElementGuid>
+      <webElementGuid>5f5b65bb-121a-4a40-8d59-c3e6894e349f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;proceedBtn&quot;)/span[1]</value>
-      <webElementGuid>29e34b25-98d2-4d51-8944-25c6f6cc01ce</webElementGuid>
+      <webElementGuid>c8dca455-c8d8-4e29-84ad-87573ceda6bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Select Tickets' or . = 'Select Tickets')]</value>
-      <webElementGuid>5b4ba735-a287-491c-927f-be741d1f06ea</webElementGuid>
+      <webElementGuid>256cc477-8185-409c-b144-9fc4befba459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='proceedBtn']/span</value>
-      <webElementGuid>0d24931f-e822-4ddd-8c0b-d9f2b535d405</webElementGuid>
+      <webElementGuid>36c2126a-fe83-4f02-b177-19fe049d074a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/div/button/span</value>
-      <webElementGuid>481aacce-90f5-4d14-b5c3-680b96c7285a</webElementGuid>
+      <webElementGuid>342ef816-881e-4bfc-a54b-9d4dcc3891f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::span[1]</value>
-      <webElementGuid>34c84e45-d735-4514-bc06-3b50feedfe4e</webElementGuid>
+      <webElementGuid>d1624e08-dfb0-4326-ae4b-f11cbca8a0a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::span[2]</value>
-      <webElementGuid>edc80eef-21f1-4937-bd04-a4731913c5e1</webElementGuid>
+      <webElementGuid>080e7065-dce0-4f60-a8b1-27737d9d8a9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Select Tickets']/parent::*</value>
-      <webElementGuid>4734ce94-46f4-43ed-9c41-68f736401fe4</webElementGuid>
+      <webElementGuid>6820849e-bc2d-4121-82cf-282720b6e839</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

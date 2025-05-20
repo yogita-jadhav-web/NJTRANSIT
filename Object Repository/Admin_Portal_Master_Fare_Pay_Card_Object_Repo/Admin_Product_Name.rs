@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Product_Name</name>
    <tag></tag>
-   <elementGuidId>b2936edc-cc70-49a2-a431-3287e9c53a96</elementGuidId>
+   <elementGuidId>dfec3509-5b46-4c59-902e-55f2fed72e96</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

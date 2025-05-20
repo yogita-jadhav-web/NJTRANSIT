@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Get Transactions History</name>
    <tag></tag>
-   <elementGuidId>b39866af-479b-43c4-84ea-1c250cc713fe</elementGuidId>
+   <elementGuidId>1b3e76d2-742e-4d24-a0d7-09466f976cad</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#historyBtn</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='historyBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#historyBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e4fd4159-f10a-4140-86e2-a90172005296</webElementGuid>
+      <webElementGuid>d2df79ed-1418-4358-9684-ab9799330e47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-f4a5bw</value>
-      <webElementGuid>0e166d9b-139a-4a5e-85fd-7304974be1b5</webElementGuid>
+      <webElementGuid>447b4856-c75d-4a09-86b8-30a105e8b430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>8a3d0862-195c-4b58-afd0-363a2fbe4f86</webElementGuid>
+      <webElementGuid>dfb29c19-4049-43d5-97c0-1ddce865592e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a24ecf97-b426-4ac4-b469-8347ea890dd7</webElementGuid>
+      <webElementGuid>f6147f9f-fbb4-433f-a049-9588ac33b46d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>historyBtn</value>
-      <webElementGuid>ad33a309-e751-4786-9eff-2e252758153e</webElementGuid>
+      <webElementGuid>4fac7a35-db63-43c5-a1a7-69676549c992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f73a26aa-ca32-4ce3-86d9-bbd592952519</webElementGuid>
+      <webElementGuid>78d3debe-3f9d-480b-ae16-e250a8dfa02b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Get Transactions History</value>
-      <webElementGuid>efc8af43-5445-4389-80d4-c00ca039b21b</webElementGuid>
+      <webElementGuid>f861ddbd-01f3-4595-b2e2-3f7bd8711a69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;historyBtn&quot;)</value>
-      <webElementGuid>dd83d159-cdf6-47c3-a3bc-f1bd0dd819e5</webElementGuid>
+      <webElementGuid>6ea2af25-420c-49ac-9c62-3029888403b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='historyBtn']</value>
-      <webElementGuid>68443ba1-7b88-4dbe-a4db-1714977f7f46</webElementGuid>
+      <webElementGuid>918755ee-4ef0-4f74-8553-9b56e18c5b17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'historyBtn' and (text() = 'Get Transactions History' or . = 'Get Transactions History')]</value>
-      <webElementGuid>90fe1a50-781f-44f2-9e5b-ad15fabe655f</webElementGuid>
+      <webElementGuid>d6102d4f-affc-4df2-a0af-762d16ba3906</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[4]/button[2]</value>
-      <webElementGuid>29f0b1ae-4d54-4d31-a821-43ed85fe2b58</webElementGuid>
+      <webElementGuid>28cd132f-ecfa-41fa-a201-e47e1a8ce1d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button[2]</value>
-      <webElementGuid>7d9dcbf9-b414-4f32-94d0-12b357e8479d</webElementGuid>
+      <webElementGuid>a1e458ad-ecdd-4939-9e58-7b121382c2db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotlist FARE-PAY Card'])[1]/following::button[1]</value>
-      <webElementGuid>f1a4eee3-8eb3-4b1a-8604-833593067e34</webElementGuid>
+      <webElementGuid>9c2aba31-c114-44b9-b146-7d0668cdec43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[2]/following::button[2]</value>
-      <webElementGuid>2b4eba51-0eb2-4706-b347-97f3fd224eb9</webElementGuid>
+      <webElementGuid>879edf88-dfbd-468a-aac3-6244f456e3a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[1]</value>
-      <webElementGuid>6d7905a8-0a1e-4810-9f5b-b582eca3cf60</webElementGuid>
+      <webElementGuid>c648ee63-0580-40df-b0b8-c1c1d4ee87ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::button[1]</value>
-      <webElementGuid>f045d0fd-ea96-4af1-9fd1-4433f10bee69</webElementGuid>
+      <webElementGuid>53105b0a-99db-498a-9a3c-65cd2bdff01c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Get Transactions History']/parent::*</value>
-      <webElementGuid>7bdcfdfc-42b4-4935-8bfd-b526489d68f0</webElementGuid>
+      <webElementGuid>9b982963-06ca-4656-8782-6154b058ab4e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_ticket_Expiry</name>
    <tag></tag>
-   <elementGuidId>78189c90-04dc-4c1f-b9ea-ef56eb088963</elementGuidId>
+   <elementGuidId>79529624-dc50-4f80-941e-325da3cde0a9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

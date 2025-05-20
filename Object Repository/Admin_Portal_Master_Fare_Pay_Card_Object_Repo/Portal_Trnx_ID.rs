@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Trnx_ID</name>
    <tag></tag>
-   <elementGuidId>74c500b1-6026-4986-bb7c-8adc86801f88</elementGuidId>
+   <elementGuidId>a378154e-0126-495c-9630-afa312bed4b4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(((//tbody)[2]/tr)[1]/td)[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

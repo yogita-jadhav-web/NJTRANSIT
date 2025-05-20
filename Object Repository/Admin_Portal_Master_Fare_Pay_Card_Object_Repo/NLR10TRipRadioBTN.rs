@@ -3,16 +3,13 @@
    <description></description>
    <name>NLR10TRipRadioBTN</name>
    <tag></tag>
-   <elementGuidId>b64cfab0-3b26-486b-997c-6fd774254141</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>0bcdc096-4934-493c-a4fd-b3dadb89ed7c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>IMAGE</key>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>BASIC</key>
       </entry>
       <entry>
          <key>CSS</key>

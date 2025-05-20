@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification of Create note for De hotlist card from admin-18</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>849d08bc-1b3c-46d5-8fa0-cf4952a6a403</testCaseGuid>
+</TestCaseEntity>

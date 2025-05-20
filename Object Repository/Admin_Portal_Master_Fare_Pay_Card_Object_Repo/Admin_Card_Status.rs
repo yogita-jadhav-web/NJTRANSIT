@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Card_Status</name>
    <tag></tag>
-   <elementGuidId>36a8f3f6-7053-4351-9fbc-9f7ef1c77479</elementGuidId>
+   <elementGuidId>8274095b-8d15-4cbe-8a53-3232c153cb16</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//p[text()='Card Status']//following-sibling::p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

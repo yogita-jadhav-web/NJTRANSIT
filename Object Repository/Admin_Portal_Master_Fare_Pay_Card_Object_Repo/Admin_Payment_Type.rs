@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Payment_Type</name>
    <tag></tag>
-   <elementGuidId>658b7051-fe0c-41c2-8e43-f826787bdeef</elementGuidId>
+   <elementGuidId>bb4f073e-ba90-456e-8d4b-1cc7cd799deb</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[8]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

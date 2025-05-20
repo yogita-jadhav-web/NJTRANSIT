@@ -3,14 +3,14 @@
    <description></description>
    <name>Admin_Route</name>
    <tag></tag>
-   <elementGuidId>b712886b-2420-4267-ad35-def8a84f0f19</elementGuidId>
+   <elementGuidId>11789fda-5cd4-4d2d-b90c-23eb6ec7d3f0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//div[text()='Action/Status']//following::tbody//th)[5]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

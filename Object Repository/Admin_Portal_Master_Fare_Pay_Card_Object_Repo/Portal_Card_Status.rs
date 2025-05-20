@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Card_Status</name>
    <tag></tag>
-   <elementGuidId>d7371ef4-35fe-4a7a-8c05-6fedb33e58c1</elementGuidId>
+   <elementGuidId>5b5036b8-28cb-4668-9c10-c650c6d144df</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//span[text()='Card Status']/following::td/span/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

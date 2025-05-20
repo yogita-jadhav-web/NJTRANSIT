@@ -3,14 +3,14 @@
    <description></description>
    <name>Portal_Ticket_Type</name>
    <tag></tag>
-   <elementGuidId>84f9c0d2-e65a-4fef-a6da-a48731827c16</elementGuidId>
+   <elementGuidId>032930d3-87b7-42d8-a6b8-786bc32c3e0f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(((//tbody)[2]/tr)[1]/td)[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
