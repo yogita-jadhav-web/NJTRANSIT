@@ -82,8 +82,8 @@ public class NJT_Mas_Database_Student {
 			con = db_conn_obj;
 
 			stmt = con.createStatement();
-				String sql_query = "select * from masqa.p_email_message where RECIPIENTS = '"+email_id+"' order by CREATED_DATE desc";
-			
+			String sql_query = "select * from masqa.p_email_message where RECIPIENTS = '"+email_id+"' order by CREATED_DATE desc";
+
 			println('sql_query :'+sql_query)
 			rs = stmt.executeQuery(sql_query);
 		} catch (SQLException ex) {
@@ -236,11 +236,11 @@ public class NJT_Mas_Database_Student {
 
 
 		try {
-	
+
 
 			stmt = con.createStatement();
 			String sql_query = "select MESSAGE_BODY,SUBJECT from masqa.p_email_message where RECIPIENTS = '"+email_id+"' order by CREATED_DATE desc limit 1";
-		//	String sql_query = "select * from masqa.p_email_message where RECIPIENTS = 'wfw@maildrop.cc' order by CREATED_DATE desc";
+			//	String sql_query = "select * from masqa.p_email_message where RECIPIENTS = 'wfw@maildrop.cc' order by CREATED_DATE desc";
 			rs = stmt.executeQuery(sql_query);
 			println('sql_query :'+sql_query)
 		} catch (SQLException ex) {
@@ -249,11 +249,11 @@ public class NJT_Mas_Database_Student {
 		}
 		while(rs.next()) {
 			mesg_body = rs.getString('MESSAGE_BODY');
-			
+
 			// Regex to extract verification link
 			String regex = /(https:\/\/cmsqa\.cmsservices\.us\/njt-web\/activateUser\?appTypeId=\d+&&verification_key=[^"]+)/
 			def matcher = (mesg_body =~ regex)
-			
+
 			if (matcher.find()) {
 				verificationLink = matcher.group(1)
 				println('Extracted Verification Link: ' + verificationLink)

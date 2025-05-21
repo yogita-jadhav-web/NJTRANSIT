@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_123837 To verify that existing user enrolling as student-R1 Mytix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ff18e76-05a3-46eb-97a5-b567fec7f574</testCaseGuid>
+</TestCaseEntity>

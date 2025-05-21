@@ -312,6 +312,29 @@ public class NJT_Mas_Database {
 		return subject;
 	}
 
+	// created by Rashmi
+	@Keyword
+	public String get_web_email_from__g_users_table(Connection con_obj,String query) {
+		String Email_id = null;//for ref(4 places need to change)
+		try {
+
+			con=con_obj;
+			stmt = con.createStatement();
+			String sql_query = query;
+
+			rs = stmt.executeQuery(sql_query);
+		} catch (SQLException ex) {
+			println(" MYSQL NJT WEB Database Connection Failed !........")
+			ex.printStackTrace();
+		}
+		while(rs.next()) {
+
+			Email_id = rs.getString("ID");//column name
+			//println(Email_id)
+		}
+		return Email_id;
+	}
+	//Rashmi end
 	@Keyword
 	public String get_table_text_body_from_DB(Connection db_conn_obj, String email_id) {
 

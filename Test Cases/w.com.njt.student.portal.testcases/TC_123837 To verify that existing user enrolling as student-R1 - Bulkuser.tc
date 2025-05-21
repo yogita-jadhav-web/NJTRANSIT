@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_123837 To verify that existing user enrolling as student-R1 - Bulkuser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fea1ae8a-0955-4e73-9201-f3044f71613f</testCaseGuid>
+</TestCaseEntity>

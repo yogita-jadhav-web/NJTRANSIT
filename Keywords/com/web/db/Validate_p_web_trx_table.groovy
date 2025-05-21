@@ -85,7 +85,6 @@ public class Validate_p_web_trx_table {
 				p_trx_Data['TRX_DATE'] = rs.getString('TRX_DATE')
 				p_trx_Data['TRX_AMT'] = rs.getString('TRX_AMT')
 				p_trx_Data['FARE_CARD_ID'] = rs.getString('FARE_CARD_ID')
-			
 			}
 		} catch (SQLException ex) {
 			println("MYSQL Database Connection Failed!")
