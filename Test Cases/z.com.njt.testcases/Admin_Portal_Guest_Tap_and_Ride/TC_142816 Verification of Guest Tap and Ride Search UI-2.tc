@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142816 Verification of Guest Tap and Ride Search UI-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2211bc30-ef97-4953-b785-8de247e1681f</testCaseGuid>
+</TestCaseEntity>

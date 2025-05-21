@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142820 Verify Search By Credit Card option for DISCOVER credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20e79397-1bd3-4e3a-80d5-f0f2fea53860</testCaseGuid>
+</TestCaseEntity>

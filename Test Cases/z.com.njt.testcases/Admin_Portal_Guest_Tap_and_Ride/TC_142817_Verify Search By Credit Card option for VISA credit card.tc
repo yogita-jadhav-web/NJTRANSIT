@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142817_Verify Search By Credit Card option for VISA credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da40bc50-b153-4a87-bf78-25cccb0b875d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142818 Verify Search By Credit Card option for MASTER credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a89ca5d-5bf1-4503-81ea-9389011a3150</testCaseGuid>
+</TestCaseEntity>

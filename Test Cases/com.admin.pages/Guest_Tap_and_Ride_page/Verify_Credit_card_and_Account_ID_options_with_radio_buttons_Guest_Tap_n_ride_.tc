@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Credit_card_and_Account_ID_options_with_radio_buttons_Guest_Tap_n_ride_</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ffb551a-5c4c-448d-91cf-9d4916c22fb0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_and_Verify_account_id_radio_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97150532-4de0-4883-81a9-8a5d376c23de</testCaseGuid>
+</TestCaseEntity>

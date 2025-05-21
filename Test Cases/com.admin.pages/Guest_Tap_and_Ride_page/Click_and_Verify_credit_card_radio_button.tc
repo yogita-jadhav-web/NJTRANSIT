@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_and_Verify_credit_card_radio_button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3aeba11a-98b7-4c7e-9a4e-9ff2932f0469</testCaseGuid>
+</TestCaseEntity>

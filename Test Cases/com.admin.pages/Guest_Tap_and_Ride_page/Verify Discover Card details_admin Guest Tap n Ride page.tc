@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Discover Card details_admin Guest Tap n Ride page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97591537-b65a-4a05-9ab4-1a7802210b18</testCaseGuid>
+</TestCaseEntity>

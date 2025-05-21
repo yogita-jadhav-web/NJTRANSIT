@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>html_Conduent Transport Solutions, Inc.kata_c30377</name>
+   <tag></tag>
+   <elementGuidId>f57de5ba-6995-469d-8535-8951bb83da10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>html</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[(text() = 'Conduent Transport Solutions, Inc.#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}You need to enable JavaScript to run this app.Rail is coming soon!Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardPhone No *​SearchPrivacy|Terms of Use|Version: admin_1.0.c.2|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Map/html[1]' or . = 'Conduent Transport Solutions, Inc.#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}You need to enable JavaScript to run this app.Rail is coming soon!Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardPhone No *​SearchPrivacy|Terms of Use|Version: admin_1.0.c.2|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Map/html[1]')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>html</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>html</value>
+      <webElementGuid>b8e99c02-7432-4a81-8a61-eb45a9375702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lang</name>
+      <type>Main</type>
+      <value>en</value>
+      <webElementGuid>3f9f015b-98d3-4aee-8ef5-65d844e03d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Conduent Transport Solutions, Inc.#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}You need to enable JavaScript to run this app.Rail is coming soon!Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardPhone No *​SearchPrivacy|Terms of Use|Version: admin_1.0.c.2|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Map/html[1]</value>
+      <webElementGuid>162718dd-caa0-4a60-bed6-b6a779f94963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]</value>
+      <webElementGuid>9a78c6e3-53d1-4de4-8b5f-fca1d5a37f98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//html[(text() = 'Conduent Transport Solutions, Inc.#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}You need to enable JavaScript to run this app.Rail is coming soon!Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardPhone No *​SearchPrivacy|Terms of Use|Version: admin_1.0.c.2|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Map/html[1]' or . = 'Conduent Transport Solutions, Inc.#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon katalon-div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} katalon-div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} katalon-div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}You need to enable JavaScript to run this app.Rail is coming soon!Rashmi TesterFind AccountSearchFind AccountSearchGuest User SearchPending RefundsHotlist MediaNotification ManagementColor CalendarBulk ManagementPromotionsSystem ManagementToolsUserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY CardPhone No *​SearchPrivacy|Terms of Use|Version: admin_1.0.c.2|@ 2025 NJ TRANSIT. ALL RIGHTS RESERVED|Site Map/html[1]')]</value>
+      <webElementGuid>cd3f40e0-b691-40ac-b812-6851e5ba47a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//html</value>
+      <webElementGuid>90a477f7-73f0-43a5-b023-469736c4c741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

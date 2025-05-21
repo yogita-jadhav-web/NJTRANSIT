@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Amex Card details_admin Guest Tap n Ride page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2399140d-6bb7-4a0a-b7b3-f73a525dacdf</testCaseGuid>
+</TestCaseEntity>

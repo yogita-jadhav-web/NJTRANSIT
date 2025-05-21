@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_YES</name>
+   <tag></tag>
+   <elementGuidId>d635e0a0-2da2-4acc-805a-d6b428050a70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-ys00f7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = ' YES ' or . = ' YES ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;YES&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e2962cef-726d-4811-ad09-6ae092b8e1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-ys00f7</value>
+      <webElementGuid>e1949b16-5a71-4ebe-b195-dbd24839b98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> YES </value>
+      <webElementGuid>817b7c79-9d6c-40d2-876a-50374e38c961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchPaygoInfo&quot;)/div[@class=&quot;MuiBox-root css-eos6ug&quot;]/div[@class=&quot;MuiBox-root css-1cpm5w&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-sm-3 css-7l9x5j&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-ys00f7&quot;]</value>
+      <webElementGuid>8d30b825-6ed2-4952-9e5d-cdd742f6f395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' YES ' or . = ' YES ')]</value>
+      <webElementGuid>e28665a4-d6b7-47c5-a17b-1c203f80ffa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchPaygoInfo']/div/div/div[2]/div/div[4]/p[3]</value>
+      <webElementGuid>0e05d2be-87f6-4efa-8153-190f32a3b325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p[3]</value>
+      <webElementGuid>9dd27256-0085-4637-af04-4b305f3c3ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::p[18]</value>
+      <webElementGuid>b57785ff-d8a4-4d7b-91b3-cc2f0f812faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::p[18]</value>
+      <webElementGuid>0aebb08b-5ca1-478b-8494-bb1dcc57ddb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UnBlock Card'])[1]/preceding::p[2]</value>
+      <webElementGuid>d272c74f-cbec-40cf-b951-297dc4904ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Transactions History'])[1]/preceding::p[2]</value>
+      <webElementGuid>db613f02-c22e-4a39-9183-df7926a24ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='YES']/parent::*</value>
+      <webElementGuid>4e8fae15-a34e-4c2c-bb23-ce1585056f57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

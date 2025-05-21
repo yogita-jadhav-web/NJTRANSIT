@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142819 Verify Search By Credit Card option for AMEX credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>219d9136-0d66-4794-a9d8-ea3de1cce752</testCaseGuid>
+</TestCaseEntity>

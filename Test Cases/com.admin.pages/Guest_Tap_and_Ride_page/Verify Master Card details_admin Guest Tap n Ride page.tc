@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Master Card details_admin Guest Tap n Ride page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>411c2023-1b1d-4bfe-a1dd-7c9b7e8254cc</testCaseGuid>
+</TestCaseEntity>

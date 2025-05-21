@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_CC_Card_Logos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8dc42c8-f3b8-45ae-8d36-07b39ede1191</testCaseGuid>
+</TestCaseEntity>

@@ -80,6 +80,7 @@ GlobalVariable.Card_Number = cardNumber
 
 println('cardNumber :' + cardNumber)
 
+
 WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_confirm_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(5)

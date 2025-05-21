@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Credit card_radio_button_is_enabled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af003c3a-2d0f-4068-b262-4e4bbb0347d9</testCaseGuid>
+</TestCaseEntity>

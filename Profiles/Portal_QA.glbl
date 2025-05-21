@@ -374,4 +374,14 @@
       <initValue>'rashmi.k@maildrop.cc'</initValue>
       <name>email_username_for_Admin_portal</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6011008545230341'</initValue>
+      <name>Discover_card</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KQBYZX9M'</initValue>
+      <name>Discover_ID</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
