@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147182_To verify that user is able to subscribe NLR monthly AutoReload -Tickets using existing JCB card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78cd38a9-f00a-45c3-85ee-20ba6fdad79b</testCaseGuid>
+</TestCaseEntity>

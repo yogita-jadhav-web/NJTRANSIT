@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147189_To verify that user is able to subscribe HBLR monthly AutoReload -Tickets using existing CUP card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfc8a43b-f1e0-4784-b890-5246045eb2f1</testCaseGuid>
+</TestCaseEntity>

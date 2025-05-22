@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147187_To verify that user is able to subscribe HBLR monthly AutoReload -Tickets using existing Discover card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2b56c00-5e6b-49ba-a28b-b3baeeecd84d</testCaseGuid>
+</TestCaseEntity>

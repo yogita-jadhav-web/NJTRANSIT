@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147216_To verify that user is able to subscribe NLR monthly AutoReload -Tickets using Add New Master card-dB-1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9efa25b6-4974-4369-a8fd-736c8ea374c7</testCaseGuid>
+</TestCaseEntity>

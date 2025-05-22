@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147195_To verify that user is able to subscribe Riverline monthly AutoReload -Tickets using existing JCB card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a122d09d-08bf-422f-b9d3-b987dee1cc61</testCaseGuid>
+</TestCaseEntity>

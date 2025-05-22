@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147188_To verify that user is able to subscribe HBLR monthly AutoReload -Tickets using existing JCB card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7dc7813e-2fe4-4fde-93ef-cad1b977ffe1</testCaseGuid>
+</TestCaseEntity>

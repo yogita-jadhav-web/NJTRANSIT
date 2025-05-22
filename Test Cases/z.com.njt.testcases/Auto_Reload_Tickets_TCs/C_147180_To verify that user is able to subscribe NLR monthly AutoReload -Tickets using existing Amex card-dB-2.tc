@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147180_To verify that user is able to subscribe NLR monthly AutoReload -Tickets using existing Amex card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f33110c0-2489-42e6-b1a5-259899926eff</testCaseGuid>
+</TestCaseEntity>

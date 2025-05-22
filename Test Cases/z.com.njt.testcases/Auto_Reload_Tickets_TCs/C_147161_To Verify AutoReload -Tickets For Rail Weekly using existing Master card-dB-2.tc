@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147161_To Verify AutoReload -Tickets For Rail Weekly using existing Master card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d8fd6fa-b5ac-4986-af58-2c886b07e880</testCaseGuid>
+</TestCaseEntity>

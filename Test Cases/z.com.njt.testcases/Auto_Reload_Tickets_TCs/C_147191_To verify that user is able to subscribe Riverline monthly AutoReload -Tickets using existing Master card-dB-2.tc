@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147191_To verify that user is able to subscribe Riverline monthly AutoReload -Tickets using existing Master card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daa66fe8-e514-4b59-af08-103c7ec98ce7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147194_To verify that user is able to subscribe Riverline monthly AutoReload -Tickets using existing Discover card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aabe2345-ebf6-4ba6-84cb-6a9ffa8dc226</testCaseGuid>
+</TestCaseEntity>

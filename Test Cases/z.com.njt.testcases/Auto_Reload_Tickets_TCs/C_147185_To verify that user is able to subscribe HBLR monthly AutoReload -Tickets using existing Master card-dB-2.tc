@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147185_To verify that user is able to subscribe HBLR monthly AutoReload -Tickets using existing Master card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a301bd7-4e25-4139-9916-519580b626a8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147164_To Verify AutoReload -Tickets For Rail Weekly using existing JCB card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bafcbb1-a78b-4510-a461-3b4701670084</testCaseGuid>
+</TestCaseEntity>

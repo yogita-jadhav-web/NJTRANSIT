@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147163_To Verify AutoReload -Tickets For Rail Weekly using existing Discover card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da3b91e9-9b62-465e-86fb-df2de758c5fd</testCaseGuid>
+</TestCaseEntity>

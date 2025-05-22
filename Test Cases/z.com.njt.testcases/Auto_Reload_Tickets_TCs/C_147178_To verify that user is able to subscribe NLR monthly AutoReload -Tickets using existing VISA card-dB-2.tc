@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147178_To verify that user is able to subscribe NLR monthly AutoReload -Tickets using existing VISA card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0cfaeec0-e928-4316-81c0-d1c478e93c44</testCaseGuid>
+</TestCaseEntity>

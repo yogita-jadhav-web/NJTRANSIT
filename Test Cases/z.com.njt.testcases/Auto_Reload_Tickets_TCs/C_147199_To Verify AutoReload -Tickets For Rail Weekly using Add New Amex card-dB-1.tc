@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147199_To Verify AutoReload -Tickets For Rail Weekly using Add New Amex card-dB-1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0d5304b-3d25-4b0f-a5e7-ae99d8df42ca</testCaseGuid>
+</TestCaseEntity>

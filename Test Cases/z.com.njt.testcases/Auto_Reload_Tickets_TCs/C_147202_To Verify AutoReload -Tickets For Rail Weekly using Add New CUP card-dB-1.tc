@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147202_To Verify AutoReload -Tickets For Rail Weekly using Add New CUP card-dB-1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0734735c-bff2-40ab-ac22-12f0df90ef48</testCaseGuid>
+</TestCaseEntity>

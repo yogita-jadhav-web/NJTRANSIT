@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147183_To verify that user is able to subscribe NLR monthly AutoReload -Tickets using existing CUP card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7b4437d-8342-4f7a-8694-c7559c59ac5d</testCaseGuid>
+</TestCaseEntity>

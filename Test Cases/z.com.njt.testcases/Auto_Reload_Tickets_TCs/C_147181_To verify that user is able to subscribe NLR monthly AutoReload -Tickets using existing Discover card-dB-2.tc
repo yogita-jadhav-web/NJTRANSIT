@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147181_To verify that user is able to subscribe NLR monthly AutoReload -Tickets using existing Discover card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13578e89-f1b6-4779-90b1-de0554c23103</testCaseGuid>
+</TestCaseEntity>
