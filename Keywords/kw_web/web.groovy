@@ -302,10 +302,9 @@ class web {
 				} else {
 					KeywordUtil.markFailed("Unexpected pop-up message. Expected: '" + expectedMessage + "', but found: '" + actualMessage + "'")
 					println('actualMessage :'+expectedMessage)
-					}
+				}
 			} else {
 				KeywordUtil.markFailed("Pop-up not visible within the timeout period.")
-				
 			}
 		} catch (Exception e) {
 			KeywordUtil.markFailed("Error handling pop-up: " + e.getMessage())

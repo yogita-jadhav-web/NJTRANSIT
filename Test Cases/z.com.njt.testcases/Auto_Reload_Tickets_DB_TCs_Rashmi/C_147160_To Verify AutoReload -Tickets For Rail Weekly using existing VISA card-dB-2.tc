@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C_147160_To Verify AutoReload -Tickets For Rail Weekly using existing VISA card-dB-2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ead0db4e-486e-4e48-bb8e-e986d76ca5a5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147221 To verify that user is able to subscribe HBLR monthly AutoReload -Tickets using Add New VISA card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61da97a2-7e41-4eeb-ba5b-b6bc984dc996</testCaseGuid>
+</TestCaseEntity>

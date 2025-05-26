@@ -384,4 +384,9 @@
       <initValue>'KQBYZX9M'</initValue>
       <name>Discover_ID</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4487531144444443'</initValue>
+      <name>TransBenifitCard</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

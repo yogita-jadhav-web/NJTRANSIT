@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R_TC_147061 To verify when admin cancel AutoReload -Tickets, Ato Rld tkt in removed from Portal for the selected fare card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f29c032-7950-49f9-b780-a0ad5d32e0ab</testCaseGuid>
+</TestCaseEntity>

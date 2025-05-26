@@ -16,18 +16,4 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.testobject.ConditionType as ConditionType
 
-WebUI.click(findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/button_From Date'))
-
-tomarrow_date = CustomKeywords.'kw_web.ApplicationFunction.get_tomorrow_date_dd'()
-
-TestObject dateInput = findTestObject('Page_Fare-Pay Dashboard  NJ Transit/button_date_input')
-
-String dynamicXPath = ('//button[text()=\'' + tomarrow_date) + '\']'
-
-TestObject dateCell = new TestObject().addProperty('xpath', ConditionType.EQUALS, dynamicXPath)
-
-WebUI.click(dateCell)
-
-WebUI.delay(5)

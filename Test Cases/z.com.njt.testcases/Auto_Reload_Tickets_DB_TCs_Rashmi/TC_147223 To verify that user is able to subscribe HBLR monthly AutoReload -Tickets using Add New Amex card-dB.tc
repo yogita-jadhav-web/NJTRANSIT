@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147223 To verify that user is able to subscribe HBLR monthly AutoReload -Tickets using Add New Amex card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c22654e-d53f-45f3-af72-3057357b58bd</testCaseGuid>
+</TestCaseEntity>

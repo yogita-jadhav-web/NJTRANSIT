@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_rashmi.kmaildrop.cc</name>
+   <tag></tag>
+   <elementGuidId>770850ab-65d9-438d-9c5f-baad7285e45d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.MuiTableCell-root.MuiTableCell-body.MuiTableCell-sizeMedium.css-agxex</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[(text() = 'rashmi.k@maildrop.cc' or . = 'rashmi.k@maildrop.cc')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=rowheader[name=&quot;rashmi.k@maildrop.cc&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>3815bc77-169a-4bbb-81ff-bfeaf2907a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-agxex</value>
+      <webElementGuid>e0b29619-2a8a-4609-b461-87c2383059cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>ea09426d-f622-4ae2-b838-7b208586c894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>rashmi.k@maildrop.cc</value>
+      <webElementGuid>7c13635c-d739-4c02-b778-462e8608fcaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchEmailTabForm&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-13xy2my&quot;]/table[@class=&quot;MuiTable-root css-6xuflz&quot;]/tbody[@class=&quot;MuiTableBody-root css-aojvaj&quot;]/tr[@class=&quot;MuiTableRow-root css-1hn0nc0&quot;]/th[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-agxex&quot;]</value>
+      <webElementGuid>63f15be8-96c9-4561-be6a-7e75d821d695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'rashmi.k@maildrop.cc' or . = 'rashmi.k@maildrop.cc')]</value>
+      <webElementGuid>8b98228f-f8d8-4021-bd9d-25fbef3faf2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchEmailTabForm']/div/table/tbody/tr/th</value>
+      <webElementGuid>ab5b21a6-62f7-46b6-a7f5-6e8076eef8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th</value>
+      <webElementGuid>62751176-7891-4000-9ced-e12b8cb53725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/following::th[1]</value>
+      <webElementGuid>a36beb57-dcb6-481a-89b1-07543a7f9f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::th[1]</value>
+      <webElementGuid>2e21b889-990d-4b70-bafc-11605572ad29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rashmi.k@maildrop.cc'])[2]/preceding::th[1]</value>
+      <webElementGuid>053f7e68-0dc8-4745-93ec-973d5a066901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::th[4]</value>
+      <webElementGuid>5b63e230-8c2f-4fd5-a220-060116a23c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='rashmi.k@maildrop.cc']/parent::*</value>
+      <webElementGuid>bfa0037d-5cc4-4c9c-90c2-d585cf37d2a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

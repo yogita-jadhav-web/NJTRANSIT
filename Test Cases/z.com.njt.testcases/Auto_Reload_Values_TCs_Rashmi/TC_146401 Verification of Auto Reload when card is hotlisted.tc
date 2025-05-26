@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_146401 Verification of Auto Reload when card is hotlisted</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91ffe8e5-ce24-4aca-9f7c-26148b7b5b02</testCaseGuid>
+</TestCaseEntity>
