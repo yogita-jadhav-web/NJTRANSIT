@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Search</name>
+   <name>li_Bus</name>
    <tag></tag>
-   <elementGuidId>cbcb86a0-ce52-4a71-8d8f-16b3f8e56342</elementGuidId>
+   <elementGuidId>cfc065d5-b56e-45ec-8b8d-aa94c7b94992</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#primary</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='primary']</value>
+         <value>//li[(text() = 'Bus' or . = 'Bus')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#primary</value>
+         <value>internal:role=option[name=&quot;Bus&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,127 +28,127 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>92390006-cf6f-4718-a279-6638615a1b2b</webElementGuid>
+      <value>li</value>
+      <webElementGuid>445a173a-780a-4ad5-8ed5-bfe36c0d807a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-39sy8r</value>
-      <webElementGuid>476767ba-ca02-4603-90eb-2f2e07309924</webElementGuid>
+      <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-ebthvb</value>
+      <webElementGuid>b6103eb3-dd23-4005-bc31-ac87040af93f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>a330f2f0-20d6-45af-8ca3-527d939853ec</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>39015ef8-3c95-4509-9244-72d97352d69a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>primary</value>
-      <webElementGuid>bfc639e5-6ba9-4fd1-a693-740a3c96f1ee</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>9b8496b2-b1a1-4da8-a398-7c9230863b4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>c14cb719-fbf9-47f9-b827-5495dda9a837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9ab6173f-b3af-45c6-bae0-efdb26fc5274</webElementGuid>
+      <webElementGuid>c674cb6e-d532-4e12-aa45-93b5976e9d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>21234d7c-d3f0-4602-90b2-7a584cc99fc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>884f6a32-614d-4ae9-87c0-3ecb448e8531</webElementGuid>
+      <value>Bus</value>
+      <webElementGuid>19a07b1e-253c-4f1c-9ea7-769d0d34f745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primary&quot;)</value>
-      <webElementGuid>5f32ff38-73b6-4d32-a65c-a2b347240a47</webElementGuid>
+      <value>id(&quot;:r9:&quot;)/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-ebthvb&quot;]</value>
+      <webElementGuid>40614f2b-44e0-4951-a075-d51622b0e7e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='primary']</value>
-      <webElementGuid>645954e7-48b0-4cdd-9f84-5118c1a1772c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'primary' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>334be922-084b-402f-aad3-d500a6e4d553</webElementGuid>
+      <value>//li[(text() = 'Bus' or . = 'Bus')]</value>
+      <webElementGuid>11cd95e6-ba52-47a7-829e-2763c49a8fe2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='userSearchForm']/div/button</value>
-      <webElementGuid>18088a01-d6bd-425c-b3b0-148d21a9c8e9</webElementGuid>
+      <value>//ul[@id=':r9:']/li[3]</value>
+      <webElementGuid>72180634-87e6-4b8b-98cf-c241c9dc8d2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/button</value>
-      <webElementGuid>e729a311-75a0-4ff3-ba99-cbbc2c325462</webElementGuid>
+      <value>//div[3]/ul/li[3]</value>
+      <webElementGuid>3735706f-3672-4892-a8fc-e4be6b1989bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::button[1]</value>
-      <webElementGuid>3a8541bd-e735-45cc-8aa0-715c4dfd9586</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rail'])[1]/following::li[1]</value>
+      <webElementGuid>b6c69e19-1af4-4a6b-ab5b-f69764e489b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest - FARE-PAY Card'])[1]/following::button[1]</value>
-      <webElementGuid>4903d3b4-51a4-4c52-8799-ba1a3837ba9a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Ticket'])[2]/following::li[2]</value>
+      <webElementGuid>f79c5e86-9607-4178-8347-f7cc2e3edef4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[1]</value>
-      <webElementGuid>1a23225c-7518-4c23-b2b2-809068c73afc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newark Light Rail'])[1]/preceding::li[1]</value>
+      <webElementGuid>fcdf53a9-dda5-4f24-889f-68e0e20f0474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::button[1]</value>
-      <webElementGuid>916a22fd-f69c-4425-8570-9a62a182bc02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hudson Bergen Light Rail'])[1]/preceding::li[2]</value>
+      <webElementGuid>047bdb30-63a7-45f1-b105-e0a94598837b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bus']/parent::*</value>
+      <webElementGuid>3f5d5db7-b95e-4950-8b75-8146c8568160</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

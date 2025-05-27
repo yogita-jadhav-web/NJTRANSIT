@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-3l946f</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[(text() = 'Auto Reload:' or . = 'Auto Reload:')]</value>
+         <value>//p[(text() = 'Auto Reload' or . = 'Auto Reload')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Auto Reload:&quot;i</value>
+         <value>internal:text=&quot;Auto Reload&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,34 +29,98 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>091ab69d-9e9e-4eb2-ba0a-bf7bbc205ba6</webElementGuid>
+      <webElementGuid>5653911b-225c-4153-9179-14bb307ee626</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiTypography-root MuiTypography-body1 css-1h9abf5</value>
-      <webElementGuid>079ba0de-4b6e-4955-b601-761958bb55bc</webElementGuid>
+      <value>MuiTypography-root MuiTypography-body1 css-3l946f</value>
+      <webElementGuid>918b5c39-cab6-4f6e-9c11-d6da02564676</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Auto Reload:</value>
-      <webElementGuid>46dc6287-fe55-4b13-bbe6-2953bd4ab288</webElementGuid>
+      <value>Auto Reload</value>
+      <webElementGuid>c5d3aec6-5135-408a-a153-428132525db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-chg5zm&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-5.5 css-8e9m7x&quot;]/div[@class=&quot;MuiBox-root css-gg4vpm&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1h9abf5&quot;]</value>
-      <webElementGuid>33441456-9aa2-45ee-bfdc-9fd52c3c21be</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-gajhq5&quot;]/div[@class=&quot;MuiBox-root css-1jpm9pd&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-3l946f&quot;]</value>
+      <webElementGuid>2c71d191-9551-4fd7-a509-b85e14f00f6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Auto Reload' or . = 'Auto Reload')]</value>
+      <webElementGuid>144fe9dd-81e7-478e-87a9-0bf4196f814c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div/p</value>
+      <webElementGuid>7e668b6f-e6de-4410-8994-83dc244e6b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>b54f3e6f-54ae-4342-84af-79490b13515d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/following::p[5]</value>
+      <webElementGuid>e7aab831-1e09-41d1-b49f-9962abd8475f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::p[6]</value>
+      <webElementGuid>4ecb97fd-f171-4fcf-838d-8eb5d2bcb151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Ticket'])[1]/preceding::p[10]</value>
+      <webElementGuid>556cb076-bd15-4897-ac2b-ab9713a3e132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotlist FARE-PAY Card'])[1]/preceding::p[10]</value>
+      <webElementGuid>733518db-1f4c-4816-bbab-60b22bb8f7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Auto Reload']/parent::*</value>
+      <webElementGuid>723b6a66-d2a8-4e84-a64b-b356bb58ee11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>

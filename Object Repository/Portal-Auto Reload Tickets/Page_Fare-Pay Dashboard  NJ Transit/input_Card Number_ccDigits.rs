@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__userName</name>
+   <name>input_Card Number_ccDigits</name>
    <tag></tag>
-   <elementGuidId>bc8b94dd-02a9-474c-82e3-1d3ad949865e</elementGuidId>
+   <elementGuidId>63fb03a6-2861-44b5-a201-c5f5d8bb9d4c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.Mui-error.MuiInputBase-fullWidth.Mui-focused.MuiInputBase-formControl.MuiInputBase-sizeSmall.css-5l16s3 > #userName</value>
+         <value>#ccDigits</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='userName']</value>
+         <value>//input[@id='ccDigits']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;User Name&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Card Number&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,71 +29,79 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>188a28b8-fc62-45da-9e86-0eed899737bf</webElementGuid>
+      <webElementGuid>054ac356-5956-41dc-b305-c4420a07e4c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-invalid</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>7ebcf8c7-002f-4279-aa6c-1ae160b64b0b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
-      <type>Main</type>
-      <value>User Name is too short</value>
-      <webElementGuid>9e382726-2cb8-4256-9bb3-6242a6655ce1</webElementGuid>
+      <value>false</value>
+      <webElementGuid>35329164-9104-4cb2-89a7-a2d97c80c1fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>bf2d6ed9-ed47-48db-87b9-f53625e9be07</webElementGuid>
+      <value>cc-number</value>
+      <webElementGuid>86608c91-e75e-40dc-b397-630c7f8bf680</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>userName</value>
-      <webElementGuid>5e34fe96-4539-4537-b4bd-f6e04b459c32</webElementGuid>
+      <value>ccDigits</value>
+      <webElementGuid>4d53f07c-0f39-477e-ad47-53a48ff88949</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>userName</value>
-      <webElementGuid>fa359399-7a8a-4cc0-b642-23ef00a43ffb</webElementGuid>
+      <value>ccDigits</value>
+      <webElementGuid>adc2c9e3-4a76-44a2-9e5e-2e80125c1bf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>User Name</value>
-      <webElementGuid>250477b4-f695-4979-8c47-55b5ccdaef84</webElementGuid>
+      <value>Card Number</value>
+      <webElementGuid>74a58900-0528-47b6-b4fa-413f3dbb2174</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>94ca39af-600e-4da7-9042-753d40207a30</webElementGuid>
+      <value>password</value>
+      <webElementGuid>c33585c6-b3e3-4e1f-81ce-508a3027a50b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>minlength</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>ea79b393-aefc-4515-88fb-79395e63eef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>69e350b2-96e5-497d-9b1c-718a7c0602a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>User Name</value>
-      <webElementGuid>dd30baaa-6863-4cc2-ba7f-19ceff898491</webElementGuid>
+      <value>Card Number  *</value>
+      <webElementGuid>53533ae2-3cbb-40ad-b363-0f4ab2a19569</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,78 +109,62 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8355daf4-c285-44ac-b388-b9f16957b0a7</webElementGuid>
+      <webElementGuid>aebecc7c-fd38-4a16-8fbf-a92c5b57fad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5f459b99-4793-4f8f-91c0-04b5134bc0b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-5vfy5k</value>
-      <webElementGuid>d284eae5-5ac2-4806-a95e-1938a2f9ab60</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>r</value>
-      <webElementGuid>95e91255-9d51-4e9c-8a0e-f19abceac020</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>minlength</name>
-      <type>Main</type>
-      <value>8</value>
-      <webElementGuid>5ed58127-586f-4b2f-9f85-2cf72130258b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>50</value>
-      <webElementGuid>f835148a-ac13-4bcb-88e6-da276c8b315c</webElementGuid>
+      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-162ofju</value>
+      <webElementGuid>aebc83ba-575c-4b1d-8f76-4c7695bdde54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm&quot;)/div[@class=&quot;MuiBox-root css-170a2ks&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth Mui-focused MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;userName&quot;]</value>
-      <webElementGuid>6dc94b2d-2b5f-44d0-aee0-031a71f3cfa6</webElementGuid>
+      <value>id(&quot;ccDigits&quot;)</value>
+      <webElementGuid>b967343b-6a2c-4dc8-9a37-a6bdc1b00171</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='userName']</value>
-      <webElementGuid>3cc27394-3d71-46d9-b61c-bdca68806ba9</webElementGuid>
+      <value>//input[@id='ccDigits']</value>
+      <webElementGuid>9313e311-5264-49e3-96dc-004f477927c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'userName' and @name = 'userName' and @placeholder = 'User Name' and @type = 'email']</value>
-      <webElementGuid>55c75445-67a5-477a-9534-3d6b705008d7</webElementGuid>
+      <value>//input[@id = 'ccDigits' and @name = 'ccDigits' and @placeholder = 'Card Number' and @type = 'password']</value>
+      <webElementGuid>193600b6-4e7c-49f5-9265-47c2592e9b31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/div/div/div[2]/div/input</value>
-      <webElementGuid>8dbbcf9a-b716-446f-8192-e9b65ce6cda9</webElementGuid>
+      <value>//form[@id='patDebtForm']/div/div[2]/div/div/div[2]/div/input</value>
+      <webElementGuid>5012122e-0b85-4137-b008-9ae5cb2ec846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>25bf044d-8b04-41f5-bf26-b97ec78548a8</webElementGuid>
+      <value>//div[2]/div/div/div[2]/div/input</value>
+      <webElementGuid>39c584f0-94b5-4482-81eb-122b889d0043</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

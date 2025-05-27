@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R_TC_147062 To verify when AutoReload -Tickets is cancelled from portal, it is removed in admin portal also</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65019953-86e5-4728-bfb0-6b30423a95e2</testCaseGuid>
+</TestCaseEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Confirm</name>
+   <name>button_Continue</name>
    <tag></tag>
-   <elementGuidId>92ce5b66-a087-47fa-883f-02cb1decf759</elementGuidId>
+   <elementGuidId>cbb1a2aa-3969-4c2b-8362-1f005c7ba131</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#submitBtn</value>
+         <value>#cancelBtn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='submitBtn']</value>
+         <value>//button[@id='cancelBtn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Confirm&quot;i</value>
+         <value>internal:label=&quot;Continue&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>83602392-582f-4fa7-802c-109cf18a9913</webElementGuid>
+      <webElementGuid>038cd3a5-ed1c-4b37-a516-40972b86dd32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorSecondary MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorSecondary css-eoy7ye</value>
-      <webElementGuid>8ba58150-043d-4d42-9b2f-51c75f12dde6</webElementGuid>
+      <webElementGuid>c472a122-ac9c-49ea-abe8-ae59c81b1b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ace66123-6435-48c5-acd3-021e89f3478e</webElementGuid>
+      <webElementGuid>ff7f465c-b610-4cec-b796-c07850abd268</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,31 +53,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>feeb9566-803f-4554-a9a1-b5986ed83b5d</webElementGuid>
+      <webElementGuid>c73ac547-c2f3-4ae7-b181-538402d5eb46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>submitBtn</value>
-      <webElementGuid>abff32f7-d22c-4859-8b01-70ab1e4eaf07</webElementGuid>
+      <value>cancelBtn</value>
+      <webElementGuid>17594986-a6d9-4f78-8c73-e3a8f4623c3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
-      <value>Confirm</value>
-      <webElementGuid>a7e1a51b-976a-4272-8439-bec57394c16c</webElementGuid>
+      <value>Continue</value>
+      <webElementGuid>7890c8af-fa9d-4fbf-95be-c2154873fb39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Confirm</value>
-      <webElementGuid>5bd2af5e-5501-42ce-b739-4218bd0e69f8</webElementGuid>
+      <value>Continue</value>
+      <webElementGuid>b26774c9-746e-4219-899d-2000a2974d24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,110 +85,102 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>266aa604-bc76-4910-bacb-6a8c1d0f73a3</webElementGuid>
+      <webElementGuid>01376228-02c5-47d9-8962-8eb2d46d70d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-theme</name>
       <type>Main</type>
-      <value>main</value>
-      <webElementGuid>74853d36-8e70-4e47-b48e-88136e3f6fdb</webElementGuid>
+      <value>dark</value>
+      <webElementGuid>b22353aa-0c91-4fb6-96d1-cffea2fee886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Confirm</value>
-      <webElementGuid>d861c95e-dfbd-4ace-9a91-1c523c69f4db</webElementGuid>
+      <value>Continue</value>
+      <webElementGuid>873bdcbf-a78d-42f5-a4d9-7062fd336fa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;submitBtn&quot;)</value>
-      <webElementGuid>cd61b878-9f87-417a-bfc8-8cac8a53e36c</webElementGuid>
+      <value>id(&quot;addFundsModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-mbdu2s&quot;]/div[@class=&quot;MuiDialogContent-root css-1emnwlk&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1l4w6pd&quot;]/div[@class=&quot;MuiBox-root css-zdomv8&quot;]/div[@class=&quot;MuiBox-root css-1l4w6pd&quot;]/button[@id=&quot;cancelBtn&quot;]</value>
+      <webElementGuid>382b2c51-dc52-43fb-9322-a69454a2afc4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='submitBtn']</value>
-      <webElementGuid>bf375dd9-d19d-42de-9c27-47a444c8af9b</webElementGuid>
+      <value>//button[@id='cancelBtn']</value>
+      <webElementGuid>30bb433a-a6bd-40b5-a7a5-499cb79bac59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'submitBtn' and @title = 'Confirm' and (text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>260a1937-012f-4d41-9d2a-f8da40275401</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'cancelBtn' and @title = 'Continue' and (text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>acd5a6ac-0373-44e1-9d73-ea02dd6cb71c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='patDebtForm']/div[4]/div[2]/div[2]/button</value>
-      <webElementGuid>9ea81592-9186-4df1-84e2-c9af9ba4d2d3</webElementGuid>
+      <value>//div[@id='addFundsModal']/div[3]/div/div[2]/div[3]/div[3]/div/div/button</value>
+      <webElementGuid>5471737b-cafe-44d1-9d2c-da4e29504af1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/button</value>
-      <webElementGuid>aa5b8e59-0042-41bd-a9c6-dbf58597ccae</webElementGuid>
+      <value>//div[3]/div[3]/div/div/button</value>
+      <webElementGuid>f02900cc-1451-4495-8425-ed1203cdf6d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
-      <webElementGuid>43551237-f0fc-4bc7-9ee6-56729f34afdd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::button[1]</value>
+      <webElementGuid>ac5345e2-7dd0-42e8-b3b8-42912dd6e479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
-      <webElementGuid>4f63f362-b416-4486-b6f8-0df6e66d5474</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::button[1]</value>
+      <webElementGuid>bd59d3aa-e9db-46d8-a9df-a607b3e8710f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>1e0864bf-f60e-4820-abb2-1c5865540baf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>6d2cf055-5aaa-4eae-8484-90a55f427979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//button[@id='proceedBtn'])[2]</value>
-      <webElementGuid>b28f1be4-d147-4aeb-a1a4-8c7c3fa934b8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::button[2]</value>
+      <webElementGuid>96af1d55-eb64-4c09-ba46-a71f4d32335d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'proceedBtn' and @title = 'Confirm' and (text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>95ffd998-b55b-4d08-b923-56010fa35d50</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='addFundsModal']/div[3]/div/div[2]/div[5]/div/div[2]/div[2]/button</value>
-      <webElementGuid>52e45319-1b4f-4fea-a947-315207f955b2</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>3fb34781-61d8-454a-9d8a-f6bb62c9dd3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

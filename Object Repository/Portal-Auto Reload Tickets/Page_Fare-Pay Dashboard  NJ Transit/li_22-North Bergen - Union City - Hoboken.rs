@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Search</name>
+   <name>li_22-North Bergen - Union City - Hoboken</name>
    <tag></tag>
-   <elementGuidId>cbcb86a0-ce52-4a71-8d8f-16b3f8e56342</elementGuidId>
+   <elementGuidId>3f61a755-cdc3-4b7c-b672-528f8a2778b3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#primary</value>
+         <value>#route-option-0</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='primary']</value>
+         <value>//li[@id='route-option-0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#primary</value>
+         <value>internal:role=option[name=&quot;22-North Bergen - Union City - Hoboken&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,40 +28,40 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>92390006-cf6f-4718-a279-6638615a1b2b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-39sy8r</value>
-      <webElementGuid>476767ba-ca02-4603-90eb-2f2e07309924</webElementGuid>
+      <value>li</value>
+      <webElementGuid>d2c4e1af-32b6-4aee-a3de-b6b344ef9aa5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>a330f2f0-20d6-45af-8ca3-527d939853ec</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>d8a268d1-2335-40ab-bf30-a9e7cd92a96b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>39015ef8-3c95-4509-9244-72d97352d69a</webElementGuid>
+      <value>option</value>
+      <webElementGuid>15aa04ca-b996-4025-a7da-0fc1a08a44a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>primary</value>
-      <webElementGuid>bfc639e5-6ba9-4fd1-a693-740a3c96f1ee</webElementGuid>
+      <value>route-option-0</value>
+      <webElementGuid>9826be7b-35ea-4baa-8dae-b30c7ce57f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>07ddb4ef-e0cd-4f7b-9ac7-0d56aab9985e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,86 +69,94 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9ab6173f-b3af-45c6-bae0-efdb26fc5274</webElementGuid>
+      <webElementGuid>44487fa6-cc4f-4762-85ac-1c66e7e93265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6ffcc8d7-4756-40fb-929f-5480c60d415f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAutocomplete-option Mui-focused</value>
+      <webElementGuid>8cd441b2-4fee-4904-9242-97acf6e8b602</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>884f6a32-614d-4ae9-87c0-3ecb448e8531</webElementGuid>
+      <value>22-North Bergen - Union City - Hoboken</value>
+      <webElementGuid>40d803c5-3c2f-4507-a071-5c201271027d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;primary&quot;)</value>
-      <webElementGuid>5f32ff38-73b6-4d32-a65c-a2b347240a47</webElementGuid>
+      <value>id(&quot;route-option-0&quot;)</value>
+      <webElementGuid>3742229e-adb9-44ef-b1a3-f7ccc7d562e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='primary']</value>
-      <webElementGuid>645954e7-48b0-4cdd-9f84-5118c1a1772c</webElementGuid>
+      <value>//li[@id='route-option-0']</value>
+      <webElementGuid>477b35c3-cad0-4fe8-94a7-be9ca18b852c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @id = 'primary' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>334be922-084b-402f-aad3-d500a6e4d553</webElementGuid>
+      <value>//li[@id = 'route-option-0' and (text() = '22-North Bergen - Union City - Hoboken' or . = '22-North Bergen - Union City - Hoboken')]</value>
+      <webElementGuid>1ff9043c-5b6b-4765-a6e6-be03e932c4a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='userSearchForm']/div/button</value>
-      <webElementGuid>18088a01-d6bd-425c-b3b0-148d21a9c8e9</webElementGuid>
+      <value>//ul[@id='route-listbox']/li</value>
+      <webElementGuid>7272d467-8550-4cb3-be81-b2c4b0dfccf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/button</value>
-      <webElementGuid>e729a311-75a0-4ff3-ba99-cbbc2c325462</webElementGuid>
+      <value>//div[5]/div/ul/li</value>
+      <webElementGuid>3302e6c4-5727-406b-bd0e-1bb4378da7e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::button[1]</value>
-      <webElementGuid>3a8541bd-e735-45cc-8aa0-715c4dfd9586</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::li[1]</value>
+      <webElementGuid>bee3f6d0-547d-4ab6-bf15-ba3c3e61beae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest - FARE-PAY Card'])[1]/following::button[1]</value>
-      <webElementGuid>4903d3b4-51a4-4c52-8799-ba1a3837ba9a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::li[1]</value>
+      <webElementGuid>78a4b89d-7ec3-4b52-a2c1-2a3a8e738030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[1]</value>
-      <webElementGuid>1a23225c-7518-4c23-b2b2-809068c73afc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::button[1]</value>
-      <webElementGuid>916a22fd-f69c-4425-8570-9a62a182bc02</webElementGuid>
+      <value>//*/text()[normalize-space(.)='22-North Bergen - Union City - Hoboken']/parent::*</value>
+      <webElementGuid>311db139-b1e0-4846-8f51-1b1da262fd98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

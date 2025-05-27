@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__userName</name>
+   <name>input_Zip Code_zip</name>
    <tag></tag>
-   <elementGuidId>bc8b94dd-02a9-474c-82e3-1d3ad949865e</elementGuidId>
+   <elementGuidId>0578c29f-6d12-450e-b0e7-cd9505ce4f40</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-colorPrimary.Mui-error.MuiInputBase-fullWidth.Mui-focused.MuiInputBase-formControl.MuiInputBase-sizeSmall.css-5l16s3 > #userName</value>
+         <value>#zip</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='userName']</value>
+         <value>//input[@id='zip']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;User Name&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Zip Code&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,71 +29,79 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>188a28b8-fc62-45da-9e86-0eed899737bf</webElementGuid>
+      <webElementGuid>87cc1952-2d64-42c6-8b74-d10172178ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-invalid</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>7ebcf8c7-002f-4279-aa6c-1ae160b64b0b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
-      <type>Main</type>
-      <value>User Name is too short</value>
-      <webElementGuid>9e382726-2cb8-4256-9bb3-6242a6655ce1</webElementGuid>
+      <value>false</value>
+      <webElementGuid>e6515ebb-8c54-4a13-9bc7-81e2fd6d07d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocomplete</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>bf2d6ed9-ed47-48db-87b9-f53625e9be07</webElementGuid>
+      <value>postal-code</value>
+      <webElementGuid>1bff5d3e-cbf7-4cb0-abec-ecc25a21adfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>userName</value>
-      <webElementGuid>5e34fe96-4539-4537-b4bd-f6e04b459c32</webElementGuid>
+      <value>zip</value>
+      <webElementGuid>29b55de2-8bef-4d40-a549-a0a6047c22cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>userName</value>
-      <webElementGuid>fa359399-7a8a-4cc0-b642-23ef00a43ffb</webElementGuid>
+      <value>zip</value>
+      <webElementGuid>5b6324b8-3541-4837-9916-72ef2d240fa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>User Name</value>
-      <webElementGuid>250477b4-f695-4979-8c47-55b5ccdaef84</webElementGuid>
+      <value>Zip Code</value>
+      <webElementGuid>fd292c4e-c8d5-47b3-9976-79935fcfbdbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>94ca39af-600e-4da7-9042-753d40207a30</webElementGuid>
+      <value>text</value>
+      <webElementGuid>c6770e3d-d970-4ac0-84bc-2f06325ae748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>minlength</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>9520bf80-d483-4775-8a6a-7bf8a8bc2877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>26bf8bc1-bdbd-44e0-84c9-3fed97defac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>User Name</value>
-      <webElementGuid>dd30baaa-6863-4cc2-ba7f-19ceff898491</webElementGuid>
+      <value>Zip Code  *</value>
+      <webElementGuid>11d21095-2b64-42af-8350-107d51075354</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,78 +109,62 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8355daf4-c285-44ac-b388-b9f16957b0a7</webElementGuid>
+      <webElementGuid>48d11b66-31a3-47a3-ab14-a99ed7d72332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>edb12720-306d-454c-b2f8-5a66427b8a18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-5vfy5k</value>
-      <webElementGuid>d284eae5-5ac2-4806-a95e-1938a2f9ab60</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>r</value>
-      <webElementGuid>95e91255-9d51-4e9c-8a0e-f19abceac020</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>minlength</name>
-      <type>Main</type>
-      <value>8</value>
-      <webElementGuid>5ed58127-586f-4b2f-9f85-2cf72130258b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>50</value>
-      <webElementGuid>f835148a-ac13-4bcb-88e6-da276c8b315c</webElementGuid>
+      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-162ofju</value>
+      <webElementGuid>0d4e2133-3a14-44fa-8db1-dc1c0e37808c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm&quot;)/div[@class=&quot;MuiBox-root css-170a2ks&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1lwxnbf&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth Mui-focused MuiInputBase-formControl MuiInputBase-sizeSmall css-5l16s3&quot;]/input[@id=&quot;userName&quot;]</value>
-      <webElementGuid>6dc94b2d-2b5f-44d0-aee0-031a71f3cfa6</webElementGuid>
+      <value>id(&quot;zip&quot;)</value>
+      <webElementGuid>3ff38e2d-f7c8-4dae-ba3c-ebdf478f6e16</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='userName']</value>
-      <webElementGuid>3cc27394-3d71-46d9-b61c-bdca68806ba9</webElementGuid>
+      <value>//input[@id='zip']</value>
+      <webElementGuid>e5d3020e-dd6a-4313-9559-be389196f2f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'userName' and @name = 'userName' and @placeholder = 'User Name' and @type = 'email']</value>
-      <webElementGuid>55c75445-67a5-477a-9534-3d6b705008d7</webElementGuid>
+      <value>//input[@id = 'zip' and @name = 'zip' and @placeholder = 'Zip Code' and @type = 'text']</value>
+      <webElementGuid>2105935a-d76d-416e-bca2-d56d91eda9a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/div/div/div[2]/div/input</value>
-      <webElementGuid>8dbbcf9a-b716-446f-8192-e9b65ce6cda9</webElementGuid>
+      <value>//form[@id='patDebtForm']/div[2]/div[4]/div/div/div[2]/div/input</value>
+      <webElementGuid>7cf4644d-2a47-4bc7-aa17-0b7b2ae5d2cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>25bf044d-8b04-41f5-bf26-b97ec78548a8</webElementGuid>
+      <value>//div[4]/div/div/div[2]/div/input</value>
+      <webElementGuid>b68a3250-87d5-460a-8021-643536f9c861</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>document</value>
-      <webElementGuid>cb99f812-4c60-4198-bf2d-460eb7f396b4</webElementGuid>
+      <webElementGuid>e09e1b2b-b02e-4bc1-a56d-db71b18392b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,6 +31,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>81e5534f-027f-4cfb-a7ab-54f17664ea67</webElementGuid>
+      <webElementGuid>330b2913-7bb2-47a5-a2df-8f88beb390a5</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

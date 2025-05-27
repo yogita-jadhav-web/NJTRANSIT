@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.MuiFormGroup-root.MuiRadioGroup-root.css-1h7anqn > div.MuiGrid-root.MuiGrid-container.css-1d3bbye</value>
+         <value>div.MuiBox-root.css-cxvds7</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Select Plan&quot;i >> div >> nth=0</value>
+         <value>internal:text=&quot;Monthly Adult - $67.00&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>df085abd-9363-4e26-bffe-d03a27ef280e</webElementGuid>
+      <webElementGuid>8d6943ff-ece5-47e2-a448-72ef623a9ceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiGrid-root MuiGrid-container css-1d3bbye</value>
-      <webElementGuid>53ef11c8-ee06-4865-9516-1953da9a6d1a</webElementGuid>
+      <value>MuiBox-root css-cxvds7</value>
+      <webElementGuid>8672864a-3fde-4379-b6d9-71f26cafb606</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Monthly Adult  - $67.00</value>
-      <webElementGuid>239a7667-928f-49b7-92d8-3c2116254838</webElementGuid>
+      <webElementGuid>75ef9963-520f-416f-a88e-56e4f8117238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;addFundsModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-mbdu2s&quot;]/div[@class=&quot;MuiDialogContent-root css-1emnwlk&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-rmv5n0&quot;]/fieldset[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth css-tzsjye&quot;]/div[@class=&quot;MuiFormGroup-root MuiRadioGroup-root css-1h7anqn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]</value>
-      <webElementGuid>888a03d6-3ed3-4c35-b981-1255c4dff11c</webElementGuid>
+      <value>id(&quot;addFundsModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-mbdu2s&quot;]/div[@class=&quot;MuiDialogContent-root css-1emnwlk&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-rmv5n0&quot;]/fieldset[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth css-tzsjye&quot;]/div[@class=&quot;MuiFormGroup-root MuiRadioGroup-root css-1h7anqn&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6 css-iol86l&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-2yi0xy&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-milyov&quot;]/div[@class=&quot;MuiBox-root css-cxvds7&quot;]</value>
+      <webElementGuid>36c17e7e-4340-4cc2-a5b6-1f9d840b66c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,55 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Monthly Adult  - $67.00' or . = 'Monthly Adult  - $67.00')]</value>
-      <webElementGuid>b034d1e7-4902-4d26-8708-35bc355bf4bf</webElementGuid>
+      <webElementGuid>38334a25-ae16-4ff4-a2b4-627a93b98bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFundsModal']/div[3]/div/div[2]/div[4]/div/fieldset/div/div/div/label/span[2]/div</value>
+      <webElementGuid>193f14db-0372-43e6-abf0-56135681e88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>9b3e9eb5-c408-4964-a87c-220bf1c46a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Plan'])[1]/following::div[5]</value>
+      <webElementGuid>0aa9fde6-590d-46ae-b746-28219c2af8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::div[6]</value>
+      <webElementGuid>364aa439-0fce-4248-a077-e99581b731c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Plan'])[2]/preceding::div[1]</value>
+      <webElementGuid>530234b2-8f72-40df-8e4a-0326a16b8b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monthly']/parent::*</value>
+      <webElementGuid>fad0d6da-30a1-4216-929d-e63099b6c3bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

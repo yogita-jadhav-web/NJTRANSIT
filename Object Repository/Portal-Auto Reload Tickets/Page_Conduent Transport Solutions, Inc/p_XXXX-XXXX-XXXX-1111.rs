@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Ticket Details</name>
+   <name>p_XXXX-XXXX-XXXX-1111</name>
    <tag></tag>
-   <elementGuidId>ee8823c5-6bd3-4a16-b034-ad6b101a07dc</elementGuidId>
+   <elementGuidId>f86b859c-c273-41a5-8024-57f1fa113afc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p[(text() = 'Ticket Details:' or . = 'Ticket Details:')]</value>
+         <value>//p[(text() = ' XXXX-XXXX-XXXX-1111 ' or . = ' XXXX-XXXX-XXXX-1111 ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Ticket Details:&quot;i</value>
+         <value>internal:text=&quot;XXXX-XXXX-XXXX-1111&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>649d833c-70e1-47c6-87d9-6ade71ef5ab3</webElementGuid>
+      <webElementGuid>57ff7eb7-9ceb-4ddf-bc7f-e1b42bac9930</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiTypography-root MuiTypography-body1 css-wk9qww</value>
-      <webElementGuid>0357fc6f-aae9-44a9-a624-4ccc8604bb40</webElementGuid>
+      <value>MuiTypography-root MuiTypography-body1 css-mla550</value>
+      <webElementGuid>7d898070-1705-40f3-9755-5f77c07acc39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ticket Details:</value>
-      <webElementGuid>33664dcb-ef69-4ee3-98d3-f793ce898b54</webElementGuid>
+      <value> XXXX-XXXX-XXXX-1111 </value>
+      <webElementGuid>737b9762-558a-4ae5-bd38-b596ad092652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-gajhq5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-1gmt76g&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1gg04pz&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-11df6jn&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-wk9qww&quot;]</value>
-      <webElementGuid>3c2dcd7e-daeb-4f5b-9872-f860ee993c43</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-gajhq5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-1gmt76g&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1gg04pz&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-q5akny&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-mla550&quot;]</value>
+      <webElementGuid>0489bf21-b966-438c-beda-647ad1e7f2ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Ticket Details:' or . = 'Ticket Details:')]</value>
-      <webElementGuid>07f77e93-5f50-4514-8f40-d2d65542dfd6</webElementGuid>
+      <value>//p[(text() = ' XXXX-XXXX-XXXX-1111 ' or . = ' XXXX-XXXX-XXXX-1111 ')]</value>
+      <webElementGuid>edccb416-e73b-4a44-a8c5-867f813528e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div[2]/div/div/div[3]/div/p</value>
-      <webElementGuid>b8ec2f55-0ae3-4946-9ee0-85b17e4e048c</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div[2]/div/div/div[4]/div[2]/p</value>
+      <webElementGuid>b07b2dac-3c10-4421-8106-df3d3f0bad70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div/div/div[3]/div/p</value>
-      <webElementGuid>6ad572ca-a858-4231-a32c-9dd7ab773ff6</webElementGuid>
+      <value>//div[4]/div[2]/p</value>
+      <webElementGuid>3417a077-d991-4834-947d-1e09390a0fb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/following::p[9]</value>
-      <webElementGuid>4d65af53-632b-447c-8865-ad9c7faf2f4f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/following::p[12]</value>
+      <webElementGuid>79dadb52-4164-4e59-8a6a-1ec88e81b945</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::p[10]</value>
-      <webElementGuid>5dfca085-9749-4122-837e-dcde66b8daa5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::p[13]</value>
+      <webElementGuid>c1044e13-9f12-4e39-8af6-31bcbcd79b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Ticket'])[1]/preceding::p[6]</value>
-      <webElementGuid>a5cbfc9c-a640-4cce-9288-7368b523bff1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Ticket'])[1]/preceding::p[3]</value>
+      <webElementGuid>8cbb0cdf-b47b-4d50-8931-d5ef24803ccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotlist FARE-PAY Card'])[1]/preceding::p[6]</value>
-      <webElementGuid>c1fe718f-743b-4844-8c30-4945ccbcd497</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotlist FARE-PAY Card'])[1]/preceding::p[3]</value>
+      <webElementGuid>257ee1e1-0208-43aa-b5cd-11c51cd50ea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ticket Details:']/parent::*</value>
-      <webElementGuid>5461381b-c9a9-41ee-a1bf-44f51df5f37a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='XXXX-XXXX-XXXX-1111']/parent::*</value>
+      <webElementGuid>6832acb3-2e4c-4dfe-b263-243a7e233692</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
