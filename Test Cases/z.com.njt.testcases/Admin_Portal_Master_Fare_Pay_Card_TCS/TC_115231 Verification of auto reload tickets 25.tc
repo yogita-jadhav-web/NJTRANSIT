@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115231 Verification of auto reload tickets 25</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd6d58ef-3ed6-4884-897c-9b53812c43b4</testCaseGuid>
+</TestCaseEntity>

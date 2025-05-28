@@ -23,19 +23,23 @@ WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], Failure
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Unregistered_fare_pay_card'), [:], FailureHandling.OPTIONAL)
 
-WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_FP_Card_details_Add_Value'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.profile.page/Delete_Credit_Card_From_Manage_Saved_Payments'), [:], FailureHandling.OPTIONAL)
+
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_on_fare_pay_card_tab'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_FP_Card_details_Purchase'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_Auto_Reload_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.callTestCase(findTestCase('com.auto.reload.page/validate_card_value_tab'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_tickets_tab'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.auto.reload.page/Select_HBLR_from_select_ticket_dropdown'), [:], FailureHandling.STOP_ON_FAILURE)
+
+not_run: WebUI.callTestCase(findTestCase('com.auto.reload.page/validate_select_ticket_dropdown_Options'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/velidate_selected_ticket_details'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/validate_selected_plan'), [:], FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.callTestCase(findTestCase('com.auto.reload.page/validate_select_ticket_dropdown_Options'), [:], FailureHandling.STOP_ON_FAILURE)
 
 not_run: WebUI.click(findTestObject('Object Repository/Portal-Auto Reload Tickets/Page_Fare-Pay Dashboard  NJ Transit/div_Select Ticket'))
 

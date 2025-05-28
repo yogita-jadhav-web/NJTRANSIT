@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115230 Verification of auto reload values 24</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11e75eaa-9494-4c88-b8bf-713e1d301c7e</testCaseGuid>
+</TestCaseEntity>

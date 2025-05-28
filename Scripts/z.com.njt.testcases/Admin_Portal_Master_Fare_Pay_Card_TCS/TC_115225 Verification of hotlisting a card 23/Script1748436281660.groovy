@@ -41,17 +41,7 @@ String actualCardNumber = farePayCardNumber.replaceAll('-', '')
 
 println(actualCardNumber)
 
-WebUI.executeJavaScript(('window.open(\'' + GlobalVariable.ADMIN_PORTAL_URL) + '\', \'_blank\')', [])
-
-WebUI.switchToWindowIndex(1)
-
-WebUI.setText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Admin_UserName_Filed'), GlobalVariable.ADMIN_USERNAME)
-
-WebUI.setText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Admin_Password'), GlobalVariable.ADMIN_PASSWORD)
-
-WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Admin_SignInBTN'))
-
-WebUI.delay(2)
+WebUI.callTestCase(findTestCase('com.login.admin.page/Switch to_1st_index_tab and_login_to_ Admin_portal'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Fare_Card_Admin_Object_Repo/input_Guest - FARE-PAY Card_emailId'), userEmail)
 
@@ -75,7 +65,7 @@ WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListDropDown'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListReason-defective'))
+WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/hotlistReason-Refunded'))
 
 String commentBoxText = CustomKeywords.'kw_web.kw_Random.generateRandomString'(10)
 
@@ -93,9 +83,9 @@ WebUI.switchToWindowIndex(0)
 
 WebUI.refresh()
 
-String hotListStatus = WebUI.getText(findTestObject('Fare_Card_Refund_Object_Repo/hotListStatusnCustomerPortal'))
+String hotListStatus = WebUI.getText(findTestObject('Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/FarecardStatus-Refunded_CP'))
 
-WebUI.verifyEqual(hotListStatus, 'Defective')
+WebUI.verifyEqual(hotListStatus, 'Refunded')
 
 WebUI.comment('Test Verification is Completed to Avoid Next Test case Failure again UnHotlist the Card.....')
 

@@ -17,42 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//select ticket
-TestObject ticket = findTestObject('Page_Fare-Pay Dashboard  NJ Transit/div_Hudson Bergen Light Rail')
+WebUI.executeJavaScript(('window.open(\'' + GlobalVariable.ADMIN_PORTAL_URL) + '\', \'_blank\')', [])
 
-String ticketText = WebUI.getAttribute(ticket, 'textContent')
+WebUI.switchToWindowIndex(1)
 
-println('ticketText :' + ticketText)
+WebUI.setText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Admin_UserName_Filed'), GlobalVariable.ADMIN_USERNAME)
 
-WebUI.comment('ticketText :' + ticketText)
+WebUI.setText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Admin_Password'), GlobalVariable.ADMIN_PASSWORD)
 
-WebUI.verifyElementAttributeValue(ticket, 'aria-disabled', 'true', 5)
+WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/Admin_SignInBTN'))
 
-WebUI.comment('Tickets should not be editable')
-
-//Tariff Type
-TestObject tariff_type = findTestObject('Page_Fare-Pay Dashboard  NJ Transit/div_Within New Jersey')
-
-String tariff_type_Text = WebUI.getAttribute(tariff_type, 'textContent')
-
-println('tariff_type_Text :' + tariff_type_Text)
-
-WebUI.comment('tariff_type_Text :' + tariff_type_Text)
-
-WebUI.verifyElementAttributeValue(tariff_type, 'aria-disabled', 'true', 5)
-
-WebUI.comment('tariff_type should not be editable')
-
-//select_zone
-TestObject select_zone = findTestObject('Page_Fare-Pay Dashboard  NJ Transit/div_1')
-
-select_zone_value = WebUI.getAttribute(select_zone, 'textContent')
-
-println('select_zone_value :' + select_zone_value)
-
-WebUI.comment('select_zone_value :' + select_zone_value)
-
-WebUI.verifyElementAttributeValue(select_zone, 'aria-disabled', 'true', 5)
-
-WebUI.comment('select zone value should not be editable')
+WebUI.delay(2)
 

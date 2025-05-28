@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>hotListReason</name>
+   <name>hotListReason-defective</name>
    <tag></tag>
    <elementGuidId>f8a1fe52-16b1-4534-857c-3adb1ca8e5d5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

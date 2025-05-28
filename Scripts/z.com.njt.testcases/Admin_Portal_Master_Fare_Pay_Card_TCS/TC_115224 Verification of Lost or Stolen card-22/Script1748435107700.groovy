@@ -75,7 +75,7 @@ WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListDropDown'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListReason-defective'))
+WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/hotlistReason-Lost or stolen'))
 
 String commentBoxText = CustomKeywords.'kw_web.kw_Random.generateRandomString'(10)
 
@@ -95,21 +95,21 @@ WebUI.refresh()
 
 String hotListStatus = WebUI.getText(findTestObject('Fare_Card_Refund_Object_Repo/hotListStatusnCustomerPortal'))
 
-WebUI.verifyEqual(hotListStatus, 'Defective')
+WebUI.verifyEqual(hotListStatus, 'Lost / Stolen')
 
 WebUI.comment('Test Verification is Completed to Avoid Next Test case Failure again UnHotlist the Card.....')
 
-WebUI.switchToWindowIndex(1)
+not_run: WebUI.switchToWindowIndex(1)
 
-WebUI.scrollToElement(findTestObject('Fare_Card_Refund_Object_Repo/unHotlistFareCard'), 10)
+not_run: WebUI.scrollToElement(findTestObject('Fare_Card_Refund_Object_Repo/unHotlistFareCard'), 10)
 
-WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/unHotlistFareCard'), FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/unHotlistFareCard'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/commentBoxText'), commentBoxText)
+not_run: WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/commentBoxText'), commentBoxText)
 
-WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/saveButton'))
+not_run: WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/saveButton'))
 
-WebUI.delay(1)
+not_run: WebUI.delay(1)
 
 WebUI.closeBrowser()
 

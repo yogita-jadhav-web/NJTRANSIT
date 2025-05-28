@@ -101,7 +101,7 @@ WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/hotLi
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/hotListReason'))
+WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/hotListReason-defective'))
 
 String commentBoxText = CustomKeywords.'kw_web.kw_Random.generateRandomString'(10)
 

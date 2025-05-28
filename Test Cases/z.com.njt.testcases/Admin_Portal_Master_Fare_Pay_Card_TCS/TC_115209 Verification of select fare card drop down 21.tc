@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115209 Verification of select fare card drop down 21</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4cca7dbe-8ae7-440d-84b9-a370ec339781</testCaseGuid>
+</TestCaseEntity>

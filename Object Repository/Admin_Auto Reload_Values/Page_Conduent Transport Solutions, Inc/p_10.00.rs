@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_XXXX-XXXX-XXXX-1111</name>
+   <name>p_10.00</name>
    <tag></tag>
-   <elementGuidId>f86b859c-c273-41a5-8024-57f1fa113afc</elementGuidId>
+   <elementGuidId>716a0c3a-ed2f-4578-8e05-f8683bb13cdc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-mla550</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div[2]/div/div/div[4]/div[2]/p</value>
+         <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div[2]/div/div/div[3]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;XXXX-XXXX-XXXX-1111&quot;i</value>
+         <value>internal:text=&quot;$10.00&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>90c3ce9f-a4a5-449f-b064-72f844457001</webElementGuid>
+      <webElementGuid>f8dd0816-fc52-4898-9d0d-f24901371ceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,86 +37,86 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-body1 css-mla550</value>
-      <webElementGuid>31c1534e-ed0b-44b6-8dec-f65c588805f7</webElementGuid>
+      <webElementGuid>425be3e8-778c-4577-829a-d911fe4a5df1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> XXXX-XXXX-XXXX-1111 </value>
-      <webElementGuid>c3c4cab1-3256-4490-81f1-4a43413d1f0a</webElementGuid>
+      <value>  $10.00   </value>
+      <webElementGuid>f4dbe35d-a5ce-4e86-a053-0cad093188b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-gajhq5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-1gmt76g&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1gg04pz&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-q5akny&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-mla550&quot;]</value>
-      <webElementGuid>44e17ab9-7362-4275-9047-2a1f1b6228d8</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1wchkno&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-lvxigz&quot;]/div[@class=&quot;MuiBox-root css-gajhq5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-1ofkr2b&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1gg04pz&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-6 css-q5akny&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-mla550&quot;]</value>
+      <webElementGuid>3a0b47c6-a6b3-4d34-8c86-3c3ed632579c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = ' XXXX-XXXX-XXXX-1111 ' or . = ' XXXX-XXXX-XXXX-1111 ')]</value>
-      <webElementGuid>edf04ae0-7d11-4193-9389-17b7d2023293</webElementGuid>
+      <value>//p[(text() = '  $10.00   ' or . = '  $10.00   ')]</value>
+      <webElementGuid>eb1cc090-435a-4d67-aedb-f18fc0c764cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div[2]/div/div/div[4]/div[2]/p</value>
-      <webElementGuid>46508331-facf-4fac-baf6-24a04aeea79e</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div[2]/div/div[3]/div[2]/div/div/div[3]/p</value>
+      <webElementGuid>d67b4ba0-9300-44bc-bf6f-4af7b143be1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/p</value>
-      <webElementGuid>0e20c671-1b25-4afd-9c5e-791babfbbd4d</webElementGuid>
+      <value>//div[3]/div[2]/div/div/div[3]/p</value>
+      <webElementGuid>6bfe578a-1f4a-4658-aca7-eac3824490dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/following::p[12]</value>
-      <webElementGuid>6aafe811-a0d1-4fcc-b6fe-0a483a141d79</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::p[12]</value>
+      <webElementGuid>cc118dd3-0510-4045-bcff-ca20ef9e3f18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/following::p[13]</value>
-      <webElementGuid>5e2f880b-9ad7-414e-8d08-235e99299c46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/following::p[13]</value>
+      <webElementGuid>0efbd992-c12d-4559-be41-55cfa3e8ae62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Ticket'])[1]/preceding::p[3]</value>
-      <webElementGuid>37077f6d-d1e8-4c23-a2dd-8e0f21791789</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Auto Reload'])[1]/preceding::p[3]</value>
+      <webElementGuid>fa5f8bd3-e1de-486c-8cf4-74a7d06b19a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotlist FARE-PAY Card'])[1]/preceding::p[3]</value>
-      <webElementGuid>bb9f0527-68ca-4168-a653-9522bf9977d8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspend'])[1]/preceding::p[3]</value>
+      <webElementGuid>bf6453d6-e072-458a-ba55-da292e258efd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='XXXX-XXXX-XXXX-1111']/parent::*</value>
-      <webElementGuid>4d319f39-460b-4105-8e56-8efb9bc078de</webElementGuid>
+      <value>//*/text()[normalize-space(.)='$10.00']/parent::*</value>
+      <webElementGuid>fb388d9a-39b3-4b82-abac-1bc8207c1350</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Switch to_1st_index_tab and_login_to_ Admin_portal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48274be0-f9b2-4080-b882-b09890c11a46</testCaseGuid>
+</TestCaseEntity>

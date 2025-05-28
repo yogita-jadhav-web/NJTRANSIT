@@ -134,7 +134,7 @@ not_run: WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListDropDow
 
 not_run: WebUI.delay(2)
 
-not_run: WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListReason'))
+not_run: WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListReason-defective'))
 
 not_run: String commentBoxText = CustomKeywords.'kw_web.kw_Random.generateRandomString'(10)
 

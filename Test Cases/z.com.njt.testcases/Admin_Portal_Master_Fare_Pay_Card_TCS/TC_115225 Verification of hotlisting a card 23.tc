@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115225 Verification of hotlisting a card 23</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b312cb7d-8caa-48b2-be31-e427fab475f3</testCaseGuid>
+</TestCaseEntity>

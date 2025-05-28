@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115224 Verification of Lost or Stolen card-22</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2e2c779-2b39-44f6-91a9-f24aa5ff7608</testCaseGuid>
+</TestCaseEntity>

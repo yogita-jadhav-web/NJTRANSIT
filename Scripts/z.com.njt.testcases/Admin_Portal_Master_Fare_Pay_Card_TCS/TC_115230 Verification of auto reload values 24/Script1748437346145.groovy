@@ -60,74 +60,19 @@ WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted
 WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/div_YES'), 
     'YES')
 
+WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Validate_Auto_reload_values'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.scrollToElement(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Hotlist FARE-PAY Card'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Hotlist FARE-PAY Card'))
-
-WebUI.click(findTestObject('Admin_Portal_Hotlisted card/select hotlist reason'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/li_Defective'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Hotlist FARE-PAY Card'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/li_Defective'))
+println('test execution completed, below steps are to cancel the auto reload values ')
 
-WebUI.setText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/textarea_asddd'), 
-    'asddd')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Save'), 
-    'Save')
-
-WebUI.click(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Save'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/div_Hotlist Fare Card is successful'), 
-    'Hotlist Fare Card is successful')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_De-Hotlist FARE-PAY Card'), 
-    'De-Hotlist FARE-PAY Card')
-
-WebUI.switchToWindowIndex('0')
+WebUI.switchToWindowIndex(0)
 
 WebUI.refresh()
 
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Fare-Pay Dashboard  NJ Transit/span_Defective'), 
-    'Defective')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Fare-Pay Dashboard  NJ Transit/span_Card Status'), 
-    'Card Status')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Fare-Pay Dashboard  NJ Transit/span_Auto Reload'), 
-    'Auto Reload')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Fare-Pay Dashboard  NJ Transit/span_Card Value'), 
-    'Card Value:')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Fare-Pay Dashboard  NJ Transit/span_No'), 
-    'No')
-
-println('test case get passed')
-
-not_run: WebUI.callTestCase(findTestCase('com.login.admin.page/Login_into_NJT_Admin_Login_page'), [:], FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.callTestCase(findTestCase('com.login.admin.page/Account_Search_with_Email_Address'), [:], FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.click(findTestObject('Object Repository/Portal-Auto Reload Tickets/Page_Conduent Transport Solutions, Inc/button_FARE-PAY Card'))
-
-WebUI.switchToWindowIndex(1)
-
-WebUI.scrollToElement(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_De-Hotlist FARE-PAY Card'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_De-Hotlist FARE-PAY Card'))
-
-WebUI.setText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/textarea_asssa'), 
-    'asssa')
-
-WebUI.click(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Save'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/div_De-Hotlist Fare card is successful'), 
-    'De-Hotlist Fare card is successful')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Admin_Portal_Hotlisted card/Page_Conduent Transport Solutions, Inc/button_Hotlist FARE-PAY Card'), 
-    0)
+WebUI.callTestCase(findTestCase('com.auto.reload.page/cancel_autoreload_card_value'), [:], FailureHandling.STOP_ON_FAILURE)
 
