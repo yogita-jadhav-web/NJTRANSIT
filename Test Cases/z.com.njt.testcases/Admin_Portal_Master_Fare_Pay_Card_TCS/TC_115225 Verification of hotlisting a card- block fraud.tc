@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115225 Verification of hotlisting a card- block fraud</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d28867b-2198-419d-bafb-2e817be1125a</testCaseGuid>
+</TestCaseEntity>

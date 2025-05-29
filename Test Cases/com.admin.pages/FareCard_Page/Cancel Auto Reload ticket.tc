@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel Auto Reload ticket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27ded72a-305c-4ffd-b3f8-d57500bfc8ac</testCaseGuid>
+</TestCaseEntity>

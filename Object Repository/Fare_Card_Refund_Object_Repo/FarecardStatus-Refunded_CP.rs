@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FarecardStatus-Refunded_CP</name>
+   <tag></tag>
+   <elementGuidId>d6925385-8b3c-450a-bd0f-04ac4b59b861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Refunded')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

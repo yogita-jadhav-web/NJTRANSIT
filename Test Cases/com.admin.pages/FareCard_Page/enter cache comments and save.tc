@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>enter cache comments and save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1e690d1-ac1d-451d-a899-1e6d80b6952d</testCaseGuid>
+</TestCaseEntity>

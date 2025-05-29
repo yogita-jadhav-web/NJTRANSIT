@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cancel the popup -suspend AutoReload</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0be3172-b75c-437f-85f4-1f67a9f0c908</testCaseGuid>
+</TestCaseEntity>

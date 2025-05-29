@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115225 Verification of hotlisting a card-Defective</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c866b444-9921-4303-932b-8151584a7e26</testCaseGuid>
+</TestCaseEntity>

@@ -36,12 +36,18 @@ WebUI.verifyElementPresent(findTestObject('Admin_Auto Reload_Values/Page_Conduen
     0)
 
 WebUI.verifyElementPresent(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/p_10.00'), 0)
+
 //String price = '$10.00'
 //String number = price.replace('$', '').split('\\.')[0]
-String ThreshHoldAmnt=WebUI.getText(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/p_10.00'), FailureHandling.STOP_ON_FAILURE)
-ThreshHoldAmnt_updated=ThreshHoldAmnt.replace('$', '').split('\\.', )[0]
+String ThreshHoldAmnt = WebUI.getText(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/p_10.00'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+ThreshHoldAmnt_updated = (ThreshHoldAmnt.replace('$', '').split('\\.')[0])
+
 println(ThreshHoldAmnt_updated)
+
 WebUI.verifyEqual(ThreshHoldAmnt_updated, 10)
+
 WebUI.verifyElementPresent(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/p_Credit Card Number'), 
     0)
 
@@ -55,7 +61,9 @@ WebUI.verifyElementPresent(findTestObject('Admin_Auto Reload_Values/Page_Conduen
 
 reloadAmount_admin = WebUI.getText(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/p_25.00'), 
     FailureHandling.STOP_ON_FAILURE)
-reloadAmount_admin_updated=reloadAmount_admin.replace('$', '').split('\\.', )[0]
+
+reloadAmount_admin_updated = (reloadAmount_admin.replace('$', '').split('\\.')[0])
+
 println(reloadAmount_admin_updated)
 
 WebUI.verifyEqual(reloadAmount_admin_updated, 25)
