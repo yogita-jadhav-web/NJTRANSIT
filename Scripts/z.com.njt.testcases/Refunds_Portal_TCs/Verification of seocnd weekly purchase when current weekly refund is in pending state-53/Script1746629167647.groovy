@@ -75,7 +75,7 @@ WebUI.click(findTestObject('Object Repository/full_refund_Rail_10_trip/Page_Fare
 WebUI.verifyElementPresent(findTestObject('Object Repository/full_refund_Rail_10_trip/Page_Fare-Pay Dashboard  NJ Transit/span_Refund Policy'), 
     0)
 
-WebUI.verifyElementText(findTestObject('full_refund_Rail_10_trip/Pop ups/Page_Fare-Pay Dashboard  NJ Transit/span_Prior to the first business day of the calendar monthweek you will receive a full refund. After the start of the monthweek, if the refund is requested immediately following the purchase, the full amount charged for'), 
+WebUI.verifyElementText(findTestObject('full_refund_Rail_10_trip/Pop ups/Page_Fare-Pay Dashboard  NJ Transit/span_Prior to the first business day of the'), 
     'Prior to the first business day of the calendar month/week you will receive a full refund. After the start of the month/week, if the refund is requested immediately following the purchase, the full amount charged for the monthly/weekly pass will be refunded. For all other refunds, the cost of two one-way tickets will be deducted from the refund amount for each business day you had the pass.')
 
 WebUI.click(findTestObject('full_refund_Rail_10_trip/Pop ups/Yes button -Refund policy pop up'), FailureHandling.STOP_ON_FAILURE)

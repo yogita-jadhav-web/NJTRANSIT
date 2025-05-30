@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Hi Rashmi,                Your refund request has been                         approved.                                                    DateTime 03262025 061004                Reference Number 1000039215</name>
+   <name>div_Hi</name>
    <tag></tag>
    <elementGuidId>6dae3cbf-c84c-477b-a158-ff621c79afd9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.content</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

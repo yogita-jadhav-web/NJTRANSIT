@@ -69,7 +69,7 @@ WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_Proceed_To_Pay_but
 
 WebUI.delay(3)
 
-WebUI.waitForElementVisible(findTestObject('purchase_card_success msg/Page_Fare-Pay Dashboard  NJ Transit/div_Purchase successful. Please check your transaction history for more information on your tickets, and check your email for the transaction receipt'), 
+WebUI.waitForElementVisible(findTestObject('purchase_card_success msg/Page_Fare-Pay Dashboard  NJ Transit/div_Purchase successful'), 
     8)
 
 WebUI.delay(2)

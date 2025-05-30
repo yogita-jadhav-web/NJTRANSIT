@@ -18,10 +18,10 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-not_run: WebUI.verifyElementPresent(findTestObject('Page_Sign In  NJ Transit/div_Your account has been locked due to 3 unsuccessful login attempts. Please allow up to 3 minutes before trying to login again'), 
+not_run: WebUI.verifyElementPresent(findTestObject('Page_Sign In  NJ Transit/div_Your account has been locked due to 3 unsuccessful login attempts'), 
     0)
 
-String UserCreated = WebUI.getText(findTestObject('Page_Sign In  NJ Transit/div_Your account has been locked due to 3 unsuccessful login attempts. Please allow up to 3 minutes before trying to login again'), 
+String UserCreated = WebUI.getText(findTestObject('Page_Sign In  NJ Transit/div_Your account has been locked due to 3 unsuccessful login attempts'), 
     FailureHandling.STOP_ON_FAILURE)
 
 KeywordUtil.logInfo("UserCreated: $UserCreated")

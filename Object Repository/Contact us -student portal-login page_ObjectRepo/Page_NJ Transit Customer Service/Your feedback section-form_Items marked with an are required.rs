@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Your feedback section-form_Items marked with an are required</name>
+   <tag></tag>
+   <elementGuidId>edd3b406-6a2e-4440-b71e-42a0b1a8e401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.form-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Items marked with an * are required. Your feedback Feedback TypeSelect...Commend&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>c9a20cba-6d41-4791-afbd-14a045aa3b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-edit</value>
+      <webElementGuid>3d29fbd6-fccb-42b6-a721-c1f62fe6c9e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Items marked with an * are required. Your feedback Feedback TypeSelect...CommendationComplaintRequest for InformationSuggestion Mode / ServiceSelect...Access LinkMobile AppBusRailHudson Bergen Light RailRiverLINE Light RailNewark Light RailNJTRewards - CustomerNJTRewards - PartnerNot a tripWebsiteWeb Tickets Incident Date   Incident Time  Subject DescriptionRemaining count 2000 AttachmentChoose files...Hold Control key to select up to three files Incident Specifics    Employee Number Employee Name Contact Information First Name Last Name Street Address City State Zip Phone Email Confirm Email Submit</value>
+      <webElementGuid>4be6384c-1dc0-4b30-a6cf-da1300f05dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form-edit&quot;]</value>
+      <webElementGuid>b6d47da5-5ce1-4abf-a071-39ed8c56c192</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/form</value>
+      <webElementGuid>a4bb61f5-0619-435f-b4ba-9592c8d15afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DO NOT INCLUDE FULL CREDIT CARD INFORMATION'])[1]/following::form[1]</value>
+      <webElementGuid>d2f40846-051c-4746-b241-6cddf49fcb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/following::form[1]</value>
+      <webElementGuid>b0853b98-27e3-41bc-a364-ec3187c2037d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>38d5fc36-a093-47ae-8749-1745ef11c024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Items marked with an * are required. Your feedback Feedback TypeSelect...CommendationComplaintRequest for InformationSuggestion Mode / ServiceSelect...Access LinkMobile AppBusRailHudson Bergen Light RailRiverLINE Light RailNewark Light RailNJTRewards - CustomerNJTRewards - PartnerNot a tripWebsiteWeb Tickets Incident Date   Incident Time  Subject DescriptionRemaining count 2000 AttachmentChoose files...Hold Control key to select up to three files Incident Specifics    Employee Number Employee Name Contact Information First Name Last Name Street Address City State Zip Phone Email Confirm Email Submit' or . = 'Items marked with an * are required. Your feedback Feedback TypeSelect...CommendationComplaintRequest for InformationSuggestion Mode / ServiceSelect...Access LinkMobile AppBusRailHudson Bergen Light RailRiverLINE Light RailNewark Light RailNJTRewards - CustomerNJTRewards - PartnerNot a tripWebsiteWeb Tickets Incident Date   Incident Time  Subject DescriptionRemaining count 2000 AttachmentChoose files...Hold Control key to select up to three files Incident Specifics    Employee Number Employee Name Contact Information First Name Last Name Street Address City State Zip Phone Email Confirm Email Submit')]</value>
+      <webElementGuid>99cfc091-7157-42bd-97f9-9b9379478ad4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
