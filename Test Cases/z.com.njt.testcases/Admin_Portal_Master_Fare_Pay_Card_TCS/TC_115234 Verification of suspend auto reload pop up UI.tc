@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115234 Verification of suspend auto reload pop up UI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fca8042-1a02-4d3f-83ff-b90afe54b7d2</testCaseGuid>
+</TestCaseEntity>

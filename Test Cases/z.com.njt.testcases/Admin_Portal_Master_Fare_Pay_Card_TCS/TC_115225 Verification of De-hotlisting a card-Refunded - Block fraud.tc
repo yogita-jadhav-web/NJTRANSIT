@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_115225 Verification of De-hotlisting a card-Refunded - Block fraud</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e35f74ea-9133-49e3-b26a-ca1c5674d863</testCaseGuid>
-</TestCaseEntity>

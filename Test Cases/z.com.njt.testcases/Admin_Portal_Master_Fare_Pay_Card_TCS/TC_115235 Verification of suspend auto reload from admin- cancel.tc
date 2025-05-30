@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115235 Verification of suspend auto reload from admin- cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a042b1d-c821-46bb-8e79-fa284614c008</testCaseGuid>
+</TestCaseEntity>

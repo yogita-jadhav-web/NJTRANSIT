@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Note pop up-Hotlisted Farecard-Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e48d7cc-f326-43d5-8a61-b716b181516a</testCaseGuid>
+</TestCaseEntity>

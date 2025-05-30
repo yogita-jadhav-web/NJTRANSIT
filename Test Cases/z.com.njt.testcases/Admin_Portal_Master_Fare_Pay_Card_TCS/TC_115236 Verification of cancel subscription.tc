@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115236 Verification of cancel subscription</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>77510205-bef3-4491-a4ab-e1cb6ea738e3</testCaseGuid>
+</TestCaseEntity>

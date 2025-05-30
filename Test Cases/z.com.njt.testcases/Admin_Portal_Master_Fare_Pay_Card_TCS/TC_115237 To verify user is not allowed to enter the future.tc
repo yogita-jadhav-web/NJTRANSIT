@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115237 To verify user is not allowed to enter the future</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6ce0b1d-2e7e-40b9-a3a1-4497f30478e4</testCaseGuid>
+</TestCaseEntity>

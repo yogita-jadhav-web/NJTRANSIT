@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115239 Verification of Hotlist from admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a63a0b0e-b00e-41b0-b6e9-d6c7cce90dd8</testCaseGuid>
+</TestCaseEntity>
