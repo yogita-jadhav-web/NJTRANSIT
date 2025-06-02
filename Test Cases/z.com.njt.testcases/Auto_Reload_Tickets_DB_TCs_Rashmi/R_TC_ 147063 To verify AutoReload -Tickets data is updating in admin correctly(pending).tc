@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R_TC_ 147063 To verify AutoReload -Tickets data is updating in admin correctly(pending)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4c43368-1200-47fe-8463-cb0fba48651e</testCaseGuid>
+</TestCaseEntity>

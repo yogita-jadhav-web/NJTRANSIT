@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R_TC_147248 Verification of Cancel Auto reload- Ticket before the job run(pending)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a81a3bc-da2e-4d5f-81dc-091ed1d7db54</testCaseGuid>
+</TestCaseEntity>

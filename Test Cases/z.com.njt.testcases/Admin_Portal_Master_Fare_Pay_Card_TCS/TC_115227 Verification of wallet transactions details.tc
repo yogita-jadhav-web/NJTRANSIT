@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115227 Verification of wallet transactions details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e1d2013-6e0e-4b52-b579-b731268923e9</testCaseGuid>
+</TestCaseEntity>

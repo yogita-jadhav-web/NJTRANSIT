@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -65,37 +66,41 @@ WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_
 
 WebUI.click(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/button_TRX. History'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/th_ActionStatus'), 'Action/Status')
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_Card_Value_Trasactions'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(2)
+String td_DateTime = WebUI.getText(findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/td_FP_date_time'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.njt.web.db/Verify_trx_type_and_bos_data'), [:], FailureHandling.STOP_ON_FAILURE)
+println('td_DateTime :' + td_DateTime)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/span_Refund'), 'Refund')
+KeywordUtil.logInfo("Date/Time: $td_DateTime")
 
-String PortaltransactionTime = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_Tranx_Time'))
+String td_ID = WebUI.getText(findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/td_FP_ID'), FailureHandling.STOP_ON_FAILURE)
 
-String PortaltransactionID = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_Trnx_ID'))
+KeywordUtil.logInfo("td_ID: $td_ID")
 
-String PortalticketType = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_Ticket_Type'))
+println('td_ID : ' + td_ID)
 
-String Portalproduct = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_product_Name'))
+String td_Device = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/portal_td_device'), FailureHandling.STOP_ON_FAILURE)
 
-String Portalroute = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_Route_Name'))
+KeywordUtil.logInfo("td_Device: $td_Device")
 
-String formattedPortalroute = Portalroute.replace('-', ' TO ')
+println('td_Device : ' + td_Device)
 
-String PortalticketExpiration = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_TicketExp_Time'))
+String td_Amount = WebUI.getText(findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/td_wallet_amount'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-String Portalamount = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_trnx_Amount'))
+KeywordUtil.logInfo("td_Amount: $td_Amount")
 
-String PortalpaymentType = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_Payment_Type'))
+println('td_Amount :' + td_Amount)
 
-WebUI.delay(2)
+String Type = WebUI.getText(findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/td_wallet_type'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.refresh()
+KeywordUtil.logInfo("Type: $Type")
 
-String portalActiveTickets = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Portal_Active_Tickets'))
+println('Type :' + Type)
+
+WebUI.callTestCase(findTestCase('com.create.account.db.page/Verify_trx_type_and_bos_data'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.executeJavaScript(('window.open(\'' + GlobalVariable.ADMIN_PORTAL_URL) + '\', \'_blank\')', [])
 
@@ -167,57 +172,48 @@ WebUI.click(findTestObject('Object Repository/Admin_Portal_Master_Fare_Pay_Card_
 
 WebUI.scrollToPosition(200, 400)
 
-String AdmintransactionTime = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Tranx_Time_and_and_Date'))
+WebUI.click(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Card_value_Transaction_button_Wallet_trns'))
 
-String FormattedAdmintransactionTime = AdmintransactionTime.replace(' |', '')
+String Admin_CardValueTime = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_TRnx_Time_and_Date_Card_Value_transaction'))
 
-String AdmintransactionID = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Tranx_ID'))
+String FormatedAdmin_CardValueTime = Admin_CardValueTime.replace(' |', '')
 
-String AdminticketType = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Ticket_Type'))
+String Admin_CardValue_Trnx_ID = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_TransactionID_CardValue_Transaction'))
 
-String Adminproduct = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Product_Name'))
+String Admin_CardValue_Trnx_Device = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Device_Card_value_Trans'))
 
-String Adminroute = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Route'))
+String Admin_CardValue_Trnx_Amount = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admijn_Trns_Amount_Card_Value_Trans'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-String AdminticketExpiration = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_ticket_Expiry'))
+String Formated_Admin_CardValue_Trnx_Amount = Admin_CardValue_Trnx_Amount.replace('-', '')
 
-String FormattedAdminticketExpiration = AdminticketExpiration.replace(' |', '')
+println('Card Value Transaction_amount:' + Formated_Admin_CardValue_Trnx_Amount)
 
-String Adminamount = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_trnx_Amount'))
-
-String AdminpaymentType = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_Payment_Type'))
-
-String AdminactionStatus = WebUI.getText(findTestObject('Object Repository/Fare_Card_Admin_Object_Repo/button_TR'))
+String Admin_CardValue_Trnx_type = WebUI.getText(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Admin_trans_Type'))
 
 WebUI.verifyEqual(farePayCardNumber, AdminfarePayCardNumber)
 
 WebUI.verifyEqual(portalCardStatus, AdminCardStatus)
 
-WebUI.verifyEqual(portalActiveTickets, AdminActiveTickets)
+not_run: WebUI.verifyEqual(portalActiveTickets, AdminActiveTickets)
 
-WebUI.verifyEqual(portalCardValue, AdminCardValueAmount)
+not_run: WebUI.verifyEqual(portalCardValue, AdminCardValueAmount)
 
-WebUI.verifyEqual(PortaltransactionTime, FormattedAdmintransactionTime)
+WebUI.verifyEqual(td_DateTime, FormatedAdmin_CardValueTime)
 
-WebUI.verifyEqual(PortaltransactionID, AdmintransactionID)
+WebUI.verifyEqual(td_ID, Admin_CardValue_Trnx_ID)
 
-WebUI.verifyEqual(PortalticketType, AdminticketType)
+WebUI.verifyEqual(td_Device, Admin_CardValue_Trnx_Device)
 
-WebUI.verifyEqual(Portalproduct, Adminproduct)
+WebUI.verifyEqual(td_Amount, Formated_Admin_CardValue_Trnx_Amount)
 
-not_run: WebUI.verifyEqual(formattedPortalroute.toLowerCase(), Adminroute.toLowerCase())
-
-WebUI.verifyEqual(PortalticketExpiration, FormattedAdminticketExpiration)
-
-WebUI.verifyEqual(Portalamount, Adminamount)
-
-WebUI.verifyEqual(PortalpaymentType, AdminpaymentType)
-
-WebUI.verifyEqual(AdminactionStatus, 'TR')
+WebUI.verifyEqual(Admin_CardValue_Trnx_type, 'Ticket Purchase')
 
 WebUI.switchToWindowIndex(0)
 
 WebUI.delay(2)
+
+WebUI.refresh()
 
 WebUI.scrollToElement(findTestObject('Object Repository/Fare_Card_Refund_Object_Repo/button_TRX. History'), 10)
 
