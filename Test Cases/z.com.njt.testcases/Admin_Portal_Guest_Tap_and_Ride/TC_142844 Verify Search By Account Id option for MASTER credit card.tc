@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142844 Verify Search By Account Id option for MASTER credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>776128e5-3d0e-42d7-b1a4-040905992c2c</testCaseGuid>
+</TestCaseEntity>

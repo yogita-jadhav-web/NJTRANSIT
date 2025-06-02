@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter DiscoverCard_AccountId</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3d45c65-31d3-4736-98ef-3dc431d58f20</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter MasterCard_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85fd5af8-6818-4698-9ab7-62497ef75790</testCaseGuid>
+</TestCaseEntity>

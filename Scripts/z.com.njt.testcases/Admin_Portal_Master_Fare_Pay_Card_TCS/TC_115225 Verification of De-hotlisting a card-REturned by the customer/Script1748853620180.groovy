@@ -65,7 +65,7 @@ WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/hotListDropDown'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/hotlistReason-Refunded'))
+WebUI.click(findTestObject('Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/hotlistReason-Returned by the customer'))
 
 String commentBoxText = CustomKeywords.'kw_web.kw_Random.generateRandomString'(10)
 
@@ -83,9 +83,9 @@ WebUI.switchToWindowIndex(0)
 
 WebUI.refresh()
 
-String hotListStatus = WebUI.getText(findTestObject('Fare_Card_Refund_Object_Repo/FarecardStatus-Refunded_CP'))
+String hotListStatus = WebUI.getText(findTestObject('Fare_Card_Refund_Object_Repo/Fare_Card_Refund_Object_Repo/FarecardStatus-ReturnedbyCustomer_CP'))
 
-WebUI.verifyEqual(hotListStatus, 'Refunded')
+WebUI.verifyEqual(hotListStatus, 'Returned by Customer')
 
 WebUI.switchToWindowIndex(1)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142845 Verify Search By Account Id option for AMEX credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b083f2b5-6323-4299-9356-3d3b08399aca</testCaseGuid>
+</TestCaseEntity>

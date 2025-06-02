@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142846 Verify Search By Account Id option for DISCOVER credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2da3590e-c7c0-4880-b6c0-df239df53d7c</testCaseGuid>
+</TestCaseEntity>

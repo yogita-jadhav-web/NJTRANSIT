@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter AmexCard_Account_Id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4e81806-6a4d-4dff-87ce-e7d0def2df35</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142843 Verify Search By Account Id option for VISA credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41464eed-2ec7-4630-9062-8f5f3ea799d3</testCaseGuid>
+</TestCaseEntity>
