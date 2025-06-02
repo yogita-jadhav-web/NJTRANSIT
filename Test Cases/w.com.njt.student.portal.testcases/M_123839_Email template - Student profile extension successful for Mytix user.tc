@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M_123839_Email template - Student profile extension successful for Mytix user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb60d61f-154a-4127-bd9c-93df2df4ec45</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M_147232_To verify that user is able to subscribe Riverline monthly AutoReload -Tickets using Add New CUP card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68cb38d1-9923-4573-9948-db5b89f26d1e</testCaseGuid>
+</TestCaseEntity>

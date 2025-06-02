@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M_123839_Email template - Student profile extension successful for Web user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2d5fc26-27ae-41a5-ba7d-0f90a497f1c0</testCaseGuid>
+</TestCaseEntity>

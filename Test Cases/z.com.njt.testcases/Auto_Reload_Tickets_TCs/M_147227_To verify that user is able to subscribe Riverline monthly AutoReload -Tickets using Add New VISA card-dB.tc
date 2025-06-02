@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M_147227_To verify that user is able to subscribe Riverline monthly AutoReload -Tickets using Add New VISA card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e048ccb-b022-432b-80f3-da20258830e7</testCaseGuid>
+</TestCaseEntity>

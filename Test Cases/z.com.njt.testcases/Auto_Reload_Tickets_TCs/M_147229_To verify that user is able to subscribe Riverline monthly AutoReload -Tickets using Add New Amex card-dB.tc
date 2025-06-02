@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M_147229_To verify that user is able to subscribe Riverline monthly AutoReload -Tickets using Add New Amex card-dB</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49ad29fd-4484-415b-bea6-1ea59968c6e7</testCaseGuid>
+</TestCaseEntity>

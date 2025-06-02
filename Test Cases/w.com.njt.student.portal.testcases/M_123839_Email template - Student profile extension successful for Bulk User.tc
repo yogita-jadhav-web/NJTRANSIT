@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M_123839_Email template - Student profile extension successful for Bulk User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a22487cb-2f30-47dc-a51d-ae6d1705b2b3</testCaseGuid>
+</TestCaseEntity>
