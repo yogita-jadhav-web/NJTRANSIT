@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115225 Verification of De-hotlisting a card-REturned by the customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4915a8c6-db18-4536-855c-c75e3e55f0a0</testCaseGuid>
+</TestCaseEntity>
