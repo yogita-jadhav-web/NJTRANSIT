@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Trip_No_ Details_Popup_Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2420f93-9408-4d8d-8256-626037b31c12</testCaseGuid>
+</TestCaseEntity>

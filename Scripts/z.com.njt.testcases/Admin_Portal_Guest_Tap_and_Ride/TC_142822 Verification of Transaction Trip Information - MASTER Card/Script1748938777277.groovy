@@ -27,11 +27,11 @@ WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify_
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click_and_Verify_account_id_radio_button'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter AccountId'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter MasterCard_Account_Id'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/click search button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify VISA Card details_admin Guest Tap n Ride page'), 
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Master Card details_admin Guest Tap n Ride page'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Transaction History button'), [:], FailureHandling.STOP_ON_FAILURE)

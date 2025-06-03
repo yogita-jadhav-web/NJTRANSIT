@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_UserTransactionPhone NoGuest - Tap  Ri_883e9e</name>
+   <tag></tag>
+   <elementGuidId>29c87de8-de1a-443d-9b9e-c4dd2840ba31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[(text() = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY Card Credit Card  Account Id Account Id *​SearchVisaCard Status:ActiveAccount Id:Credit Card Number:Expiration Date:Media Type:0BEE741Q XXXX-XXXX-XXXX-0286 02/28/2029   Contactless Card First Trip:Last Trip: 02/21/2024   05/28/2025  Block CardGet Transactions History' or . = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY Card Credit Card  Account Id Account Id *​SearchVisaCard Status:ActiveAccount Id:Credit Card Number:Expiration Date:Media Type:0BEE741Q XXXX-XXXX-XXXX-0286 02/28/2029   Contactless Card First Trip:Last Trip: 02/21/2024   05/28/2025  Block CardGet Transactions History')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>main.css-15y6y0w</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>e1bb40f4-813c-47ed-b21b-ca3b5ee112d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-15y6y0w</value>
+      <webElementGuid>162fb8bb-e344-47ef-92be-5f54cc2eb113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY Card Credit Card  Account Id Account Id *​SearchVisaCard Status:ActiveAccount Id:Credit Card Number:Expiration Date:Media Type:0BEE741Q XXXX-XXXX-XXXX-0286 02/28/2029   Contactless Card First Trip:Last Trip: 02/21/2024   05/28/2025  Block CardGet Transactions History</value>
+      <webElementGuid>22901b62-9dfd-4efd-bf97-f453433fa432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;css-15y6y0w&quot;]</value>
+      <webElementGuid>64e96b6a-f683-4a03-b916-ec8616937b11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[(text() = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY Card Credit Card  Account Id Account Id *​SearchVisaCard Status:ActiveAccount Id:Credit Card Number:Expiration Date:Media Type:0BEE741Q XXXX-XXXX-XXXX-0286 02/28/2029   Contactless Card First Trip:Last Trip: 02/21/2024   05/28/2025  Block CardGet Transactions History' or . = 'UserTransactionPhone NoGuest - Tap &amp; RideGuest - FARE-PAY Card Credit Card  Account Id Account Id *​SearchVisaCard Status:ActiveAccount Id:Credit Card Number:Expiration Date:Media Type:0BEE741Q XXXX-XXXX-XXXX-0286 02/28/2029   Contactless Card First Trip:Last Trip: 02/21/2024   05/28/2025  Block CardGet Transactions History')]</value>
+      <webElementGuid>02c384c6-432a-4cf1-b35a-003053b396f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main</value>
+      <webElementGuid>000f9950-b16c-4fc3-b37a-0167ff3f9284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+      <webElementGuid>5c1cf247-6952-4e0a-9769-6628d47dcc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::main[1]</value>
+      <webElementGuid>0dcdaf0b-8f10-44a5-9c20-dacdae475c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Management'])[1]/following::main[1]</value>
+      <webElementGuid>ed583f52-77a0-4493-a83e-aa4b47fabc0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

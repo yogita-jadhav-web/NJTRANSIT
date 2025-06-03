@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142823 Verification of Transaction Trip Information - AMEX Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>259be994-2e64-4672-b577-952f0007402f</testCaseGuid>
+</TestCaseEntity>

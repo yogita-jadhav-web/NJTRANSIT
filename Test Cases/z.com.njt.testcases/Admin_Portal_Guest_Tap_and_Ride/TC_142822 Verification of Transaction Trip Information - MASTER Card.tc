@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142822 Verification of Transaction Trip Information - MASTER Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ea827c4-4f6a-42c2-b4ee-5d4ddb336cf0</testCaseGuid>
+</TestCaseEntity>
