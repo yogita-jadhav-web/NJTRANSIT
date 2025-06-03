@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142827 Verification of Transaction rip Details - AMEX Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be990d15-c268-4cd5-a26d-c7bea4e2a994</testCaseGuid>
+</TestCaseEntity>

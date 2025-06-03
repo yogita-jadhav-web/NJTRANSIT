@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_147251 To verify that user is able to subscribe Riverline monthly Auto Reload -Tickets using Add New Transit Benefit card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5fa6c48c-eb33-4098-8388-0a02f20cbc69</testCaseGuid>
+</TestCaseEntity>

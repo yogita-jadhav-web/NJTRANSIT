@@ -40,15 +40,9 @@ WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify 
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Transaction Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.scrollToPosition(0, 500)
+
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Trans No'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trip No _Fields'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trip_No_ Details_Popup_Admin'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Trips Option'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trips fields_Admin'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trips _Details'), [:], FailureHandling.STOP_ON_FAILURE)
 

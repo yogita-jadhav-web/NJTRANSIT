@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142825 Verification of Transaction Trip Details - VISA Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12ab17b1-1775-4cfb-a748-6291de3c79ae</testCaseGuid>
+</TestCaseEntity>

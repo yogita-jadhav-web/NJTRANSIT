@@ -40,6 +40,8 @@ WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify 
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Transaction Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.scrollToPosition(0, 500)
+
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Trans No'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trip No _Fields'), [:], FailureHandling.STOP_ON_FAILURE)

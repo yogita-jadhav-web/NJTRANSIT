@@ -27,11 +27,11 @@ WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify_
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click_and_Verify_account_id_radio_button'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter MasterCard_Account_Id'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter DiscoverCard_AccountId'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/click search button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Master Card details_admin Guest Tap n Ride page'), 
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Discover Card details_admin Guest Tap n Ride page'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Transaction History button'), [:], FailureHandling.STOP_ON_FAILURE)
@@ -42,7 +42,17 @@ WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify 
 
 WebUI.scrollToPosition(0, 500)
 
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Trips Option'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trips fields_Admin'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trips _Details'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click_Transactions'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Trans No'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trip No _Fields'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Trip_No_ Details_Popup_Admin'), [:], FailureHandling.STOP_ON_FAILURE)
 

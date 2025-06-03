@@ -21,7 +21,7 @@ FirstName = CustomKeywords.'kw_web.kw_Random.getRandomFirstName'()
 
 WebUI.setText(findTestObject('Object Repository/profile_Object_Repository/Page_Profile  NJ Transit/input_Cardholder_Name'), FirstName)
 
-String Zipcode = CustomKeywords.'kw_web.kw_Random.generateRandomNDigitNumber'(5)
+String Zipcode = CustomKeywords.'kw_web.kw_Random.generateRandomNDigitNumber'(4)
 
 println('Zipcode : ' + Zipcode)
 

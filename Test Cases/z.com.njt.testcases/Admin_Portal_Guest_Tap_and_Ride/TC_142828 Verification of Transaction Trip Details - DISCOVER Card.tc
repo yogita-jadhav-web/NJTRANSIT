@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142828 Verification of Transaction Trip Details - DISCOVER Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38f52914-1ffb-470a-9df1-7f188e368749</testCaseGuid>
+</TestCaseEntity>

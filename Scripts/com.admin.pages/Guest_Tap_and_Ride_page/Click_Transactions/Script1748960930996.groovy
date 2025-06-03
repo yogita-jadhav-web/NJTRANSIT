@@ -17,8 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-not_run: WebUI.scrollToElement(findTestObject('Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/Click Trip option_admin'), 
-    -30)
-
-WebUI.click(findTestObject('Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/Click Trip option_admin'))
+WebUI.click(findTestObject('Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/button_Transactions'))
 
