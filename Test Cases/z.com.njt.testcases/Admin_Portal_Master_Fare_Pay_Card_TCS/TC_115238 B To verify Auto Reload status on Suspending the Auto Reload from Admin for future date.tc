@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_115238 B To verify Auto Reload status on Suspending the Auto Reload from Admin for future date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>394beb14-8f5a-45f3-9796-e7818d534926</testCaseGuid>
+</TestCaseEntity>

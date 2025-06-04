@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Suspend_Autoreload_value_admin_page</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>9290e29f-9759-4a5e-85df-14db3c94936c</testCaseGuid>
-</TestCaseEntity>

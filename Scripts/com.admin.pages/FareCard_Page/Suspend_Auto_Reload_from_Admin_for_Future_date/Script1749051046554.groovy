@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-FirstName = CustomKeywords.'kw_web.kw_Random.getRandomFirstName'()
+WebUI.callTestCase(findTestCase('com.admin.pages/click_suspend_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/profile_Object_Repository/Page_Profile  NJ Transit/input_Cardholder_Name'), FirstName)
+WebUI.setText(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/textarea__cacheComments'), 
+    'adddd')
 
-String Zipcode = CustomKeywords.'kw_web.kw_Random.generateRandomNDigitNumber'(5)
+WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Enter_Future_Date_to_suspend_Auto_Reload_from_Admin_Page'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
-println('Zipcode : ' + Zipcode)
-
-WebUI.setText(findTestObject('Object Repository/profile_Object_Repository/Page_Profile  NJ Transit/input_Zip_Code'), Zipcode)
+WebUI.click(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/button_Save'))
 

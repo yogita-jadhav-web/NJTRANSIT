@@ -73,7 +73,7 @@ WebUI.callTestCase(findTestCase('com.admin.pages/click_suspend_button'), [:], Fa
 WebUI.setText(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/textarea__cacheComments'), 
     'adddd')
 
-not_run: WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Suspend_Autoreload_value_admin_page'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Suspend_Autoreload_value_admin_page-Current-Date'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0)
 

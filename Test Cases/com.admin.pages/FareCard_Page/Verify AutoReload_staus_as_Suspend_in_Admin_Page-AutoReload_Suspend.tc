@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify AutoReload_staus_as_Suspend_in_Admin_Page-AutoReload_Suspend</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>627f9eeb-6d16-4c62-bbfe-8fdefd4b885f</testCaseGuid>
+</TestCaseEntity>

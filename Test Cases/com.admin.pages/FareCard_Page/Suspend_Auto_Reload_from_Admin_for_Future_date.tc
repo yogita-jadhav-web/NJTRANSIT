@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Suspend_Auto_Reload_from_Admin_for_Future_date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d794f1b0-7091-4971-ab25-fc8c485a8160</testCaseGuid>
+</TestCaseEntity>

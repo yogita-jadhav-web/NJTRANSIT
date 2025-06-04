@@ -68,7 +68,10 @@ not_run: WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Vealidat
 
 WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Validate_Auto_reload_values'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Suspend_Autoreload_value_admin_page-Current-Date'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Suspend_Auto_Reload_from_Admin_for_Future_date'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Verify _AutoReload Status_as-Active_in admin__future_date'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.switchToWindowIndex(0)
 
@@ -88,16 +91,18 @@ not_run: WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Verify_Fare_Pay
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_Auto_Reload_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-String Val = WebUI.getAttribute(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Page_Fare-Pay Dashboard  NJ Transit/status Auto reload-suspend-portal'), 
+String Val = WebUI.getAttribute(findTestObject('Admin_Portal_Master_Fare_Pay_Card_Object_Repo/Page_Fare-Pay Dashboard  NJ Transit/status- Auto Reload-disabled- portal'), 
     'value')
 
-WebUI.verifyEqual(Val, 'Suspend')
+WebUI.verifyEqual(Val, 'Active')
 
 println('Test execution completed')
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_Cancel_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_On_Yes_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_On_Yes_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Admin_Auto Reload_Values/Page_Conduent Transport Solutions, Inc/Click-Yes button_Cancel_Suspend_popUp'))
 
 WebUI.callTestCase(findTestCase('com.auto.reload.page/Verify_Auto Reload cancellation successful'), [:], FailureHandling.STOP_ON_FAILURE)
 

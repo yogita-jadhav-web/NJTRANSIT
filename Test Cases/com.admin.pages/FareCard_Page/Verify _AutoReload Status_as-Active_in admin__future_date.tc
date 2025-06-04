@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify _AutoReload Status_as-Active_in admin__future_date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bb3dd9c-f85e-4442-a5e6-3738877f4129</testCaseGuid>
+</TestCaseEntity>
