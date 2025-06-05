@@ -389,4 +389,9 @@
       <initValue>'4487531144444443'</initValue>
       <name>TransBenifitCard</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ASJKLAAA'</initValue>
+      <name>Master_Invalid_Account_id</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

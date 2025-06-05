@@ -6,25 +6,25 @@
    <elementGuidId>368ee041-9c4b-4024-8cf9-4152af5f788e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Hudson Bergen Light Rail' or . = 'Hudson Bergen Light Rail')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id=':r6:']/li[3]</value>
+         <value>//*/text()[normalize-space(.)='Hudson Bergen Light Rail']/parent::*</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Hudson Bergen Light Rail' or . = 'Hudson Bergen Light Rail')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
          <value>internal:role=option[name=&quot;Hudson Bergen Light Rail&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -32,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>01e69810-dcb4-4c9e-84ac-eb4e4cd54373</webElementGuid>
+      <webElementGuid>a437a0a2-8273-4827-9f1f-9c66f5f0eb12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-ebthvb</value>
-      <webElementGuid>88aa1a73-11f2-4323-907e-93b7ae3b8345</webElementGuid>
+      <webElementGuid>3d533f36-50e4-4149-a766-359b07df7c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>fe6ce450-8ec3-4a86-9bd7-f23d9c5f3d04</webElementGuid>
+      <webElementGuid>8dcda175-82bc-4c08-9250-29700f86c487</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>ae0c2677-bb71-4963-a48d-19d60022ea2b</webElementGuid>
+      <webElementGuid>8988289f-7f4a-46a7-b17c-5e8132be5857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4ab59a03-fc3c-4ed9-b983-d977aabddbd6</webElementGuid>
+      <webElementGuid>fa5fa61b-66de-4b04-a8fa-301085c1aa4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>ce883523-35c0-4281-8c9d-7e04fd604bae</webElementGuid>
+      <webElementGuid>49878598-986b-4544-8f78-3d3c83ac07be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hudson Bergen Light Rail</value>
-      <webElementGuid>75ef7c06-d4a1-4f8f-a0a3-913a0db1cf73</webElementGuid>
+      <webElementGuid>c6a4d056-189d-4cdf-a705-23c76b4d567a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r6:&quot;)/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-ebthvb&quot;]</value>
-      <webElementGuid>572b7303-a268-4c59-80af-446e410a0972</webElementGuid>
+      <webElementGuid>1250702e-f937-4823-9a42-4173a42eda7b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id=':r6:']/li[3]</value>
-      <webElementGuid>de81cba4-a31c-4dfa-9196-89b83be4fe5e</webElementGuid>
+      <webElementGuid>cfe2de36-700b-4fba-89bb-1b6222f5a734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Newark Light Rail'])[1]/following::li[1]</value>
-      <webElementGuid>88a3c66b-6d39-4045-9eb2-484d25551e4d</webElementGuid>
+      <webElementGuid>6714af9e-73fa-4e11-bc78-a6b7dfaad9d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Light Rail'])[2]/following::li[2]</value>
-      <webElementGuid>81ec2d5a-dd33-488e-b83c-8fd3361dc4e3</webElementGuid>
+      <webElementGuid>79e64758-69c3-4f25-8e99-dd2ee6ad7ad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='River Line'])[1]/preceding::li[1]</value>
-      <webElementGuid>b2039c7d-9d82-4ece-a481-acbc4afa39a9</webElementGuid>
+      <webElementGuid>8daa3a91-8447-4304-a18b-1c6112dc06fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hudson Bergen Light Rail']/parent::*</value>
-      <webElementGuid>195a59c9-93fb-4a8b-8a5b-9861d75e7444</webElementGuid>
+      <webElementGuid>d058ede0-2005-425a-8a34-f77f189fff98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/ul/li[3]</value>
-      <webElementGuid>916070da-7ec5-4ee9-a886-e3503caecb96</webElementGuid>
+      <webElementGuid>5905e006-127e-4fbe-8fb4-e29fb6cc2aa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,6 +144,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Hudson Bergen Light Rail' or . = 'Hudson Bergen Light Rail')]</value>
-      <webElementGuid>e76592e3-323c-47c8-9871-63252764a5d8</webElementGuid>
+      <webElementGuid>4d60f271-0570-457c-b210-4ab44e980b13</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
