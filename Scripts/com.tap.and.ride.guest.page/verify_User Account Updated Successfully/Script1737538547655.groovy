@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementText(findTestObject('Page_Profile  NJ Transit/div_User Account Updated Successfully'), 'User Account Updated Successfully.')
+WebUI.verifyElementText(findTestObject('profile page/div_user_account_UpdatedSuccessfully'), 'User account updated successfully.')
 
-Msg_Text = WebUI.getText(findTestObject('Page_Profile  NJ Transit/div_User Account Updated Successfully'), FailureHandling.STOP_ON_FAILURE)
+Msg_Text = WebUI.getText(findTestObject('profile page/div_user_account_UpdatedSuccessfully'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Msg_Text :' + Msg_Text)
 

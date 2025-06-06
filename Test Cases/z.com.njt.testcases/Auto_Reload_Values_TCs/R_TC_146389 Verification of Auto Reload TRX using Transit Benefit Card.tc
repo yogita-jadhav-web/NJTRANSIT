@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R_TC_146389 Verification of Auto Reload TRX using Transit Benefit Card</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e102094c-c6a4-49c3-abc7-1a411c2622b3</testCaseGuid>
+</TestCaseEntity>

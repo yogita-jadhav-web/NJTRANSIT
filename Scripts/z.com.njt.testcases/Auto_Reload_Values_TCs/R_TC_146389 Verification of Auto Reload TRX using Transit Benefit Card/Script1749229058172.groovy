@@ -21,17 +21,21 @@ WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:],
 
 WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Unregistered_fare_pay_card'), [:], FailureHandling.OPTIONAL)
 
-not_run: WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Pencil_Icon_from_Manage_saved_payments'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.profile.page/Delete_Credit_Card_From_Manage_Saved_Payments'), [:], FailureHandling.OPTIONAL)
 
-not_run: WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Add_New_Card_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Click_on_fare_pay_card_tab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.scrollToElement(findTestObject('profile page/addNewCardLink'), 0)
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_FP_Card_details_Add_Value'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('profile page/addNewCardLink'))
+WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_Auto_Reload_Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Enter_VISA_Credit_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.auto.reload.page/Enter_min_reload_threshold_amounts'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Add_New_Card_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.profile.page/Enter_TransBenifit _Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Enter_random_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -39,9 +43,11 @@ WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/Enter_Exp_Month
 
 WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_Random_Card_nickname'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Click_on_Add_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.auto.reload.page/click_on_setup_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Verify_Payment Card Added Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.auto.reload.page/verify_NJ_TRANSIT_will_automatically_reload'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.closeBrowser()
+WebUI.callTestCase(findTestCase('com.auto.reload.page/verify_Fare_pay_dashboard_Auto_Reload'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
 

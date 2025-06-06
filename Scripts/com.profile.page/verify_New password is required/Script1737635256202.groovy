@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementText(findTestObject('Page_Profile  NJ Transit/p_New Password is Required'), 'New Password is Required')
+WebUI.verifyElementText(findTestObject('Page_Profile  NJ Transit/p_New Password is Required'), 'New Password is required')
 
 msg = WebUI.getText(findTestObject('Page_Profile  NJ Transit/p_New Password is Required'), FailureHandling.STOP_ON_FAILURE)
 

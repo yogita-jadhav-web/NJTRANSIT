@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], Failure
 
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
+not_run: WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
 
 WebUI.callTestCase(findTestCase('com.profile.page/validate_add_new_card_link'), [:], FailureHandling.STOP_ON_FAILURE)
 

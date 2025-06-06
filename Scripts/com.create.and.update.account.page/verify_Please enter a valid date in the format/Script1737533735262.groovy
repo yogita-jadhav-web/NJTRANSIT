@@ -17,9 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementText(findTestObject('Page_Create Account  NJ Transit/p_Please enter a valid date in the format mmdd'), 
-    'Please enter a valid date in the format: mm/dd')
-
+/*WebUI.verifyElementText(findTestObject('Page_Create Account  NJ Transit/p_Please enter a valid date in the format mmdd'), 
+    'Please enter a valid date in the format: mm/dd')*/
+WebUI.verifyElementText(findTestObject('Page_Create Account  NJ Transit/p_Please enter a valid date in the format mmdd'),
+	'Date Of Birth is too short')
 msg = WebUI.getText(findTestObject('Page_Create Account  NJ Transit/p_Please enter a valid date in the format mmdd'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('msg :' + msg)

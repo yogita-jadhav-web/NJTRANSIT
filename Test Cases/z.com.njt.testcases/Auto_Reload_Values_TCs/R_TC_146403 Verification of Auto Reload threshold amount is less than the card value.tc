@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>R_TC_146403 Verification of Auto Reload threshold amount is less than the card value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1384efd4-6bae-43ca-9cae-367719b231b5</testCaseGuid>
+</TestCaseEntity>
