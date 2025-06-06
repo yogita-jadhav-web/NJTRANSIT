@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/Auto_Reload_Tickets_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/Auto_Reload_Tickets_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/Auto_Reload_Values_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/Auto_Reload_Values_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/FP_Add_value_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suire_c.3/FP_Add_value_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/FP_Purchase_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suire_c.3/FP_Purchase_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/Login_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/Login_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -65,7 +65,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/Profile_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/Profile_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -75,7 +75,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/TapAndRide_Guest_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/TapAndRide_Guest_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -85,7 +85,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/TapAndRide_NonGuest_TestSuite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/TapAndRide_NonGuest_TestSuite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -95,7 +95,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Regression_Suite/User_Registration_Test_Suite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Regression_Suite_c.2/User_Registration_Test_Suite</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
