@@ -17,19 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.admin.page/Login_into_NJT_Admin_Login_page'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/div_card_not_found_in_system_error_msg'), 
+    0)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/Click_Guest_Tap_and_Ride_option_admin_page'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify_Credit_card_and_Account_ID_options_with_radio_buttons_Guest_Tap_n_ride_'), 
-    [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click_and_Verify_account_id_radio_button'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter_MasterCard_Invalid_Account_Id'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/click search button'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Verify _Error_Msg_for-Invalid-AccountId_Search'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/div_card_not_found_in_system_error_msg'), 
+    'Card not found in our system')
 

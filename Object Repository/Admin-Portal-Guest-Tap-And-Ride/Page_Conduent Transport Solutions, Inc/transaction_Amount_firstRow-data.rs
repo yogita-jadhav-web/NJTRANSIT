@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>th_2.55</name>
+   <name>transaction_Amount_firstRow-data</name>
    <tag></tag>
    <elementGuidId>880ebe4e-98fd-4f0e-a7b2-75c038ef3d36</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='searchPaygoTabForm']/div[3]/div/table/tbody/tr/th[4]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='searchPaygoTabForm']/div[3]/div/table/tbody/tr/th[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

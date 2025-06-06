@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>th_04022025  170743</name>
+   <name>th_tranaction_date_Time_firstRow_data</name>
    <tag></tag>
    <elementGuidId>af5ccada-1650-40e8-8608-c042ddf17216</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='searchPaygoTabForm']/div[3]/div/table/tbody/tr/th</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>th.MuiTableCell-root.MuiTableCell-body.MuiTableCell-sizeMedium.css-agxex</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchPaygoTabForm']/div[3]/div/table/tbody/tr/th</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

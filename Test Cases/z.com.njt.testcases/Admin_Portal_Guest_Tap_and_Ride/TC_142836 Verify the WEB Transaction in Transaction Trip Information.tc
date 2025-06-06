@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142836 Verify the WEB Transaction in Transaction Trip Information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f91bb89-27e9-4d4d-8dd2-f1effecf9dc3</testCaseGuid>
+</TestCaseEntity>

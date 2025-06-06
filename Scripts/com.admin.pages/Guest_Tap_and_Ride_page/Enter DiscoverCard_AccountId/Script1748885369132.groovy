@@ -18,5 +18,5 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.setText(findTestObject('Object Repository/Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/input_Guest - FARE-PAY Card_cardAccountId'), 
-    GlobalVariable.Discover_Account_Id)
+    GlobalVariable.Discover_ID)
 

@@ -27,9 +27,29 @@ WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify_
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click_and_Verify_account_id_radio_button'), [:], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter_MasterCard_Invalid_Account_Id'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Enter DiscoverCard_AccountId'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/click search button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.admin.pages/FareCard_Page/Verify _Error_Msg_for-Invalid-AccountId_Search'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.delay(5)
+
+not_run: WebUI.scrollToPosition(0, 500)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Discover Card details_admin Guest Tap n Ride page'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Click Transaction History button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Transaction Info_fields'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Verify Transaction Details'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.admin.pages/Guest_Tap_and_Ride_page/Veriy Web Transactions'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.scrollToPosition(0, 500)
+
+not_run: WebUI.scrollToElement(findTestObject('Object Repository/Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/a_128592'), 
+    -20)
+
+not_run: WebUI.verifyElementNotClickable(findTestObject('Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/th_transaction_type_value-firstRow_data'))
 
