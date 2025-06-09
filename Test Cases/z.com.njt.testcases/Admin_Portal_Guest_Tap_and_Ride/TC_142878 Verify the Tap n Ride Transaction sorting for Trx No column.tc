@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142878 Verify the Tap n Ride Transaction sorting for Trx No column</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d9d0eed-ac00-4549-99aa-16b68edc005a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Trx_No-Value_Sorted_After_clicking_Trx_No_Column</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45675dcf-253a-4de5-8817-57c35cd8ed93</testCaseGuid>
+</TestCaseEntity>

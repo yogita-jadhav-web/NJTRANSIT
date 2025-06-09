@@ -27,7 +27,13 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_On_User_Information_Penc
 
 WebUI.callTestCase(findTestCase('com.profile.page/Profile_First_name_field_validations'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.scrollToElement(findTestObject('Page_Profile  NJ Transit/button_Update'), -10)
+
+WebUI.scrollToPosition(200, 400)
+
+WebUI.click(findTestObject('Page_Profile  NJ Transit/button_Update'))
+
+not_run: WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 

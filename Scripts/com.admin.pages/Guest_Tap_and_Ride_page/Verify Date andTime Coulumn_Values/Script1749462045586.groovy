@@ -16,20 +16,19 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.common.WebUiCommonHelper
+import org.openqa.selenium.WebElement
 
-WebUI.callTestCase(findTestCase('com.login.admin.page/Launch_NJT_Admin_Portal'), [:], FailureHandling.STOP_ON_FAILURE)
+// Define XPath for column values (1st column in this case)
+String columnXPath = "//table/tbody/tr/td[1]"
 
-WebUI.waitForPageLoad(15)
+// Get all matching elements (column cells)
+List<WebElement> columnElements = WebUiCommonHelper.findWebElements(
+	new TestObject().addProperty("xpath", ConditionType.EQUALS, columnXPath),
+	30 // timeout
+)
 
-not_run: WebUI.setText(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/input__userName'), 
-    GlobalVariable.Email_Admin)
-
-not_run: WebUI.setEncryptedText(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/input__password'), 
-    GlobalVariable.password_Admin)
-
-WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/Admin_UserName_Filed'), GlobalVariable.ADMIN_USERNAME)
-
-WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/Admin_Password'), GlobalVariable.ADMIN_PASSWORD)
-
-WebUI.click(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/button_Login'))
-
+// Loop through and print or store the values
+for (WebElement cell : columnElements) {
+	println cell.getText()
+}

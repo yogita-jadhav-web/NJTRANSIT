@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Date andTime Coulumn_Values</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c1e6529d-dbfe-4a55-bf95-08497bba3379</testCaseGuid>
+</TestCaseEntity>

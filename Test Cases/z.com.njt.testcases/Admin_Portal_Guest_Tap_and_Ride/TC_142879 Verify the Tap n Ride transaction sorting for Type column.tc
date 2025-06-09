@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142879 Verify the Tap n Ride transaction sorting for Type column</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>122bd906-2329-4103-8310-7b0466be922a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_142834 Verification of Sorting in Transaction Trip Information Section</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c7faa73-e027-4c95-b43f-63ae1d95f6ff</testCaseGuid>
+</TestCaseEntity>

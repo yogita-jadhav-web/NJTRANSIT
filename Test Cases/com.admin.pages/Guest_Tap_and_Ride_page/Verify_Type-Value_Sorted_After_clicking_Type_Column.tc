@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Type-Value_Sorted_After_clicking_Type_Column</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f748c5e5-5498-46c0-82f1-4561e272181c</testCaseGuid>
+</TestCaseEntity>

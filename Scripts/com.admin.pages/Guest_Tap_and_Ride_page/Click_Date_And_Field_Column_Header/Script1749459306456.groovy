@@ -17,19 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.admin.page/Launch_NJT_Admin_Portal'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.scrollToPosition(200, 500)
 
-WebUI.waitForPageLoad(15)
-
-not_run: WebUI.setText(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/input__userName'), 
-    GlobalVariable.Email_Admin)
-
-not_run: WebUI.setEncryptedText(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/input__password'), 
-    GlobalVariable.password_Admin)
-
-WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/Admin_UserName_Filed'), GlobalVariable.ADMIN_USERNAME)
-
-WebUI.setText(findTestObject('Fare_Card_Refund_Object_Repo/Admin_Password'), GlobalVariable.ADMIN_PASSWORD)
-
-WebUI.click(findTestObject('Object Repository/Admin portal _TC_objectRepo/Page_Conduent Transport Solutions, Inc/button_Login'))
+WebUI.click(findTestObject('Object Repository/Admin-Portal-Guest-Tap-And-Ride/Page_Conduent Transport Solutions, Inc/div_DateTime'), 
+    FailureHandling.STOP_ON_FAILURE)
 
