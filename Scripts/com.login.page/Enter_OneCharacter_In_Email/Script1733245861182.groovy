@@ -21,3 +21,5 @@ WebUI.setText(findTestObject('Object Repository/LoginTC_Object_Repository/Page_S
 
 WebUI.verifyElementText(findTestObject('Page_Sign In  NJ Transit/p_Email is too short'), 'Email is too short')
 
+not_run: WebUI.verifyElementText(findTestObject('Page_Sign In  NJ Transit/p_Email is too short'), 'User Email is too short')
+

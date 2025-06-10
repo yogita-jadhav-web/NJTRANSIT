@@ -21,7 +21,8 @@ WebUI.callTestCase(findTestCase('com.login.page/Launch_NJT_Portal'), [:], Failur
 
 WebUI.callTestCase(findTestCase('com.create.and.update.account.page/Click_on_create_account_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.create.and.update.account.page/New_Registration_Zip_PostalCode_field_validations'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.create.and.update.account.page/New_Registration_Zip_PostalCode_field_validations'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

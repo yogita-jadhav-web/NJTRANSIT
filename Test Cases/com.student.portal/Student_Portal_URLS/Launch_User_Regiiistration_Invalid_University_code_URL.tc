@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_User_Regiiistration_Invalid_University_code_URL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c949fd0d-fa40-44d9-ba84-c81522936978</testCaseGuid>
+</TestCaseEntity>

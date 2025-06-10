@@ -35,7 +35,9 @@ WebUI.callTestCase(findTestCase('com.login.page/Verify_Invalid_User_Email'), [:]
 
 WebUI.sendKeys(EmailField, Keys.chord(Keys.CONTROL, 'a') + Keys.BACK_SPACE)
 
-WebUI.callTestCase(findTestCase('com.login.page/Enter_OneCharacter_In_Email'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.login.page/Enter_One_Character_User_Email'), [:], FailureHandling.STOP_ON_FAILURE)
+
+not_run: WebUI.callTestCase(findTestCase('com.login.page/Enter_OneCharacter_In_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.login.page/Verify_Label_Placeholder_User_Email'), [:], FailureHandling.STOP_ON_FAILURE)
 

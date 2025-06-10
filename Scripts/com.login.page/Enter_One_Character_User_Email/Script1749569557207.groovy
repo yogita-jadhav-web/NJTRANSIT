@@ -17,25 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.page/Launch_NJT_Portal'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('Object Repository/LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Email'), 'A')
 
-WebUI.callTestCase(findTestCase('com.login.page/Enter_Valid_Email_Id'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.verifyElementText(findTestObject('Page_Sign In  NJ Transit/p_Email is too short'), 'Email is too short')
 
-WebUI.sendKeys(findTestObject('LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Email'), Keys.chord(Keys.CONTROL, 
-        'a') + Keys.BACK_SPACE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Verify_Email is required'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Enter_Invalid_Email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Verify_Invalid_Email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Email'), Keys.chord(Keys.CONTROL, 
-        'a') + Keys.BACK_SPACE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Enter_OneCharacter_In_Email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Verify_Label_Placeholder_Email_Id'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Page_Sign In  NJ Transit/p_Email is too short'), 'User Email is too short')
 

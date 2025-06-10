@@ -33,5 +33,5 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:],
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.closeBrowser()
+WebUI.closeBrowser()
 

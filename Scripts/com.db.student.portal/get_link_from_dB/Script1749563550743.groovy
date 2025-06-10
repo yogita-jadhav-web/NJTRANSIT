@@ -17,25 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.page/Launch_NJT_Portal'), [:], FailureHandling.STOP_ON_FAILURE)
+Mas_dB_Connection = CustomKeywords.'com.masqa.db.NJT_Mas_Database.get_MySQL_Mas_DBConnection'(GlobalVariable.NJT_Mas_DB_Url, 
+    GlobalVariable.NJT_Mas_DB_UserName, GlobalVariable.NJT_Mas_DB_Password)
 
-WebUI.callTestCase(findTestCase('com.login.page/Enter_Valid_Email_Id'), [:], FailureHandling.STOP_ON_FAILURE)
+verification_link=CustomKeywords.'com.masqa.db.NJT_Mas_Database_student.get_verificationLink_from_DB'(Mas_dB_Connection, GlobalVariable.randomEmail)
 
-WebUI.sendKeys(findTestObject('LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Email'), Keys.chord(Keys.CONTROL, 
-        'a') + Keys.BACK_SPACE)
+if (verification_link) {
+    WebUI.openBrowser('')
 
-WebUI.callTestCase(findTestCase('com.login.page/Verify_Email is required'), [:], FailureHandling.STOP_ON_FAILURE)
+    WebUI.maximizeWindow()
 
-WebUI.callTestCase(findTestCase('com.login.page/Enter_Invalid_Email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Verify_Invalid_Email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.sendKeys(findTestObject('LoginTC_Object_Repository/Page_Sign In  NJ Transit/input_Email'), Keys.chord(Keys.CONTROL, 
-        'a') + Keys.BACK_SPACE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Enter_OneCharacter_In_Email'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.login.page/Verify_Label_Placeholder_Email_Id'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.closeBrowser()
+    WebUI.navigateToUrl(verification_link)
+} else {
+    println('Failed to extract the verification link.')
+}
 

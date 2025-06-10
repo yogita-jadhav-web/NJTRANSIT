@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Launch_User_Regiiistration_Empty_University_code_URL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9846219-3569-47f6-98db-0a69021f4be9</testCaseGuid>
+</TestCaseEntity>

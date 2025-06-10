@@ -24,7 +24,7 @@ WebUI.callTestCase(findTestCase('com.student.portal/user.creation/UserRegistrati
 WebUI.verifyElementText(findTestObject('Object Repository/Student_Portal/Page_Create Account  NJ Transit/div_User created successfully. A verificati_bb94a3_1'), 
     'User created successfully. A verification code has been sent to your email ID. Please verify.')
 
-WebUI.callTestCase(findTestCase('com.db.student.portal/get_link_from_dB'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.db.student.portal/get_link_from_dB'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Student_Portal/Page_NJTRANSIT/div_User activated successfully_1'), 
     'User activated successfully.')

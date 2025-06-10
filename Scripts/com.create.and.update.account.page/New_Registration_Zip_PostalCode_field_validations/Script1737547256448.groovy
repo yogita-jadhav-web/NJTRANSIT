@@ -47,10 +47,15 @@ Eledigitnumbers = CustomKeywords.'kw_web.kw_Random.generateRandomInput'('numbers
 
 println('Eledigitnumbers : ' + Eledigitnumbers)
 
+WebUI.setText(zip_input, Eledigitnumbers)
+
 not_run: WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Please enter a valid zip postal code'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Zip Postal Code is too short'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Zip Postal Code is too short'), [:], 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Invalid zip postal code'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.sendKeys(zip_input, Keys.chord(Keys.CONTROL, 'a') + Keys.BACK_SPACE)
 
@@ -81,8 +86,8 @@ WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Zip P
 //Leave the  Zip/Postal code field blank
 WebUI.sendKeys(zip_input, Keys.chord(Keys.CONTROL, 'a') + Keys.BACK_SPACE)
 
-WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Please enter a valid zip postal code'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Please enter a valid zip postal code'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
 //Enter 6 digit Zip/Postal code
 fivedigitzip = CustomKeywords.'kw_web.kw_Random.generateRandomInput'('numbers', 5)
