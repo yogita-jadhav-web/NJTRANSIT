@@ -6,16 +6,16 @@
    <elementGuidId>0e23e9e3-0b0b-498f-a985-e16b3ff9b45c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button']</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::button[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton-sizeMedium.css-slyssw</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e80ad679-6eb5-4b13-aab2-4228b50a043e</webElementGuid>
+      <webElementGuid>bbebf9dd-51b5-4f07-9301-cbe67a6403fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-slyssw</value>
-      <webElementGuid>e84bebbe-3225-4fa8-8de1-79c6aa14b2d5</webElementGuid>
+      <webElementGuid>356914a6-498f-48db-9a51-56a81a8ad76d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f395ad48-4368-4a03-aacf-b79904be578c</webElementGuid>
+      <webElementGuid>fb8a5da1-0637-44ec-85f1-e88f7da3ae74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4a1cb82e-96b7-464a-97ae-76ef228472b4</webElementGuid>
+      <webElementGuid>8c88d89f-daf6-4dbc-a82c-e0d921449ccb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Choose date, selected date is Oct 28, 2024</value>
-      <webElementGuid>4ffb6a37-9a6f-4962-b855-04ddc7ea3cb7</webElementGuid>
+      <webElementGuid>9c9da7a3-4fc8-4738-96ea-edbe6c02185c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;historyModal&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-cwpu7v&quot;]/div[@class=&quot;MuiDialogContent-root css-104qf4r&quot;]/div[@class=&quot;MuiBox-root css-1dj3lnb&quot;]/div[@class=&quot;MuiBox-root css-kcslfk&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root css-1rj51oe&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd css-1x3x0it&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeSmall css-1nvf7g0&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-slyssw&quot;]</value>
-      <webElementGuid>5f8cd1df-1a79-41c0-ad5a-c82b12e89a20</webElementGuid>
+      <webElementGuid>1a9f54e3-73dd-44c7-ba59-a1999c8eb1a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>9f16c86d-fcb9-4b22-b98d-6cf2a4d506c0</webElementGuid>
+      <webElementGuid>e26c8f2b-bd61-4be9-8d31-f5d457fb51fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='historyModal']/div[3]/div/div[2]/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>fcc7402e-ad1a-4b83-9149-1ed1c6103086</webElementGuid>
+      <webElementGuid>00fa5f2b-2530-42ef-856b-867a58cbfd54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::button[1]</value>
-      <webElementGuid>ea169443-2b35-4b3f-9fba-951c233581b6</webElementGuid>
+      <webElementGuid>5b3c9a94-4f68-4a30-8e57-ce0a06dcec37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::button[1]</value>
-      <webElementGuid>28130d21-c820-4d0a-b3cd-dda2e8116fdd</webElementGuid>
+      <webElementGuid>038d0f44-29f2-4cd4-bc02-2eb33767d49d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::button[1]</value>
-      <webElementGuid>af5705b8-1b6f-496e-9b09-af9dcd030440</webElementGuid>
+      <webElementGuid>35b5b4c3-5ee3-4a9b-85c1-0204a89f8d78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/preceding::button[1]</value>
-      <webElementGuid>386af61c-0f73-433c-a7a4-16977c8ce7e6</webElementGuid>
+      <webElementGuid>32b8c3d2-fa6d-46e2-8eb2-abf754c7d713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>759989be-57bd-4396-a07d-09c7ab77b85e</webElementGuid>
+      <webElementGuid>80dcbef6-f8ee-4383-bc8c-2b999af91b4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,6 +137,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>970debdd-3655-477d-aa83-d881546a6ea8</webElementGuid>
+      <webElementGuid>45f3bd4a-6707-440a-9a4b-71bdd1312520</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

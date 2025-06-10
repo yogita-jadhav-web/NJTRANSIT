@@ -6,30 +6,34 @@
    <elementGuidId>877b505c-db60-4529-b04a-e140b058e6b5</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[2]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#blockBtn</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[2]</value>
+         <key>BASIC</key>
+         <value>//button[@id = 'blockBtn' and (text() = 'Block Card' or . = 'Block Card')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
          <value>internal:role=button[name=&quot;Block Card&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4f5f2350-6900-41a6-a70c-83bdb24937c7</webElementGuid>
+      <webElementGuid>58acdc00-e901-49f6-9b7b-c9d69333a101</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-colorPrimary MuiButton-fullWidth css-17aw7ur</value>
-      <webElementGuid>267876f1-6468-4d93-a9ca-730169665f94</webElementGuid>
+      <webElementGuid>d34b616a-e5f9-4a62-b4a2-e1c3a3d4b982</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +49,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>97491e2d-38ca-4b1c-9be4-6aaa8e6a60f3</webElementGuid>
+      <webElementGuid>e181575f-9380-46f8-9e17-2f22b00b150d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e5589c7d-1520-4769-b999-9e0c070b24c8</webElementGuid>
+      <webElementGuid>8c37c530-372a-4304-9f78-64f33d9b28d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>id</name>
       <type>Main</type>
       <value>blockBtn</value>
-      <webElementGuid>7aa00ab2-b57e-4f3c-ad06-68bb9283a059</webElementGuid>
+      <webElementGuid>d1eebc0d-2a30-46fb-94e7-e89564977235</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5340b705-b1cb-4755-b1bb-35726500ee2e</webElementGuid>
+      <webElementGuid>4d739630-3acd-47f6-8693-dba3b7c7a9bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +81,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Block Card</value>
-      <webElementGuid>1a22d87d-d37c-4188-a15f-6886eeedf317</webElementGuid>
+      <webElementGuid>be219118-9ab6-4a0b-89c6-598b595d0960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;blockBtn&quot;)</value>
-      <webElementGuid>6432c461-4e58-4fab-8c6c-0c4ab54787ed</webElementGuid>
+      <webElementGuid>059ec6a7-bd4c-41ad-9720-823a13e268e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='blockBtn']</value>
-      <webElementGuid>a260971e-1a80-4baf-8d94-8549c6b7c728</webElementGuid>
+      <webElementGuid>44b7f397-4e04-4840-bafa-a99366560cf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'blockBtn' and (text() = 'Block Card' or . = 'Block Card')]</value>
-      <webElementGuid>41f172fc-9b90-4d82-b967-234bd43c2e7a</webElementGuid>
+      <webElementGuid>18d0dfff-cd6b-49eb-a96b-1f155975ecd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/main/div/div[2]/div[2]/div/div[2]/div[2]/button</value>
-      <webElementGuid>2827c222-a500-4131-a183-908f54da9a54</webElementGuid>
+      <webElementGuid>66f12689-9448-4fb1-a142-d659d4317eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>a2c95332-a2d7-4724-b618-9c67a8836e1a</webElementGuid>
+      <webElementGuid>fc41c5d9-c8f9-4c6c-aef4-d83f40478e2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email History'])[1]/following::button[1]</value>
-      <webElementGuid>15e851b5-6c2c-4c76-bf76-197975870c8c</webElementGuid>
+      <webElementGuid>df6709b0-ebe4-4dec-9ae5-5e8702a45868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +137,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Subscriptions'])[1]/following::button[2]</value>
-      <webElementGuid>abb8f33d-55df-4e71-ba64-c0a205e0135b</webElementGuid>
+      <webElementGuid>4847620e-78c4-4bde-86e4-12f68300bd10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Transactions History'])[1]/preceding::button[1]</value>
-      <webElementGuid>d2a248b5-58a4-4761-b595-ec3d50c8ccfe</webElementGuid>
+      <webElementGuid>364a47a3-b9f5-4989-a8d9-e09b2b43ed5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +153,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[2]</value>
-      <webElementGuid>cc88afde-9861-449d-9943-ff29868583a6</webElementGuid>
+      <webElementGuid>7705d829-51d1-4008-84ac-c2dc37323ade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +161,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Block Card']/parent::*</value>
-      <webElementGuid>c73a7462-94f6-46e3-8e36-d59c070879af</webElementGuid>
+      <webElementGuid>9030fae7-e5ce-4244-a333-af4e1637a4a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
