@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementText(findTestObject('Page_Profile  NJ Transit/p_Invalid zip code'), 'Invalid zip code')
+WebUI.verifyElementText(findTestObject('Page_Profile  NJ Transit/p_Invalid zip code'), 'Zip/Postal Code is invalid')
 
 msg = WebUI.getText(findTestObject('Page_Profile  NJ Transit/p_Invalid zip code'), FailureHandling.STOP_ON_FAILURE)
 

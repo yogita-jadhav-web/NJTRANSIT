@@ -27,9 +27,11 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_On_User_Information_Penc
 
 WebUI.callTestCase(findTestCase('com.profile.page/Profile_Phone_field_validations'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.scrollToPosition(200, 400)
+
 WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

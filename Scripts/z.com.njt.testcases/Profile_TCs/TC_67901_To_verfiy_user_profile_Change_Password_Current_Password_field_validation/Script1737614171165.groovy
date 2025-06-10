@@ -29,5 +29,5 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Change_Password_editb
 
 WebUI.callTestCase(findTestCase('com.profile.page/Profile_Current_Password_field_validations'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

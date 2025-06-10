@@ -29,3 +29,5 @@ WebUI.callTestCase(findTestCase('com.profile.page/validate_add_new_card_link'), 
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/validate_all_cards_logo'), [:], FailureHandling.STOP_ON_FAILURE)
 
+not_run: WebUI.closeBrowser()
+

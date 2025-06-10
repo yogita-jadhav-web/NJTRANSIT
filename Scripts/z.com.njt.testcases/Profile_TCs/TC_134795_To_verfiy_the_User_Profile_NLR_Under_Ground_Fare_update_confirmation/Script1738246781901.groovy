@@ -25,7 +25,7 @@ WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], Failure
 
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
+not_run: WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Verify_NLR_Underground_fare_Default'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -33,5 +33,5 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_On_NLR_Underground_editb
 
 WebUI.callTestCase(findTestCase('com.profile.page/select_NLR_underground_fare_toggle'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 
