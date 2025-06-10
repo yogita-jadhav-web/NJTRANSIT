@@ -6,19 +6,19 @@
    <elementGuidId>04f0c3d4-3a1a-40cb-8aa1-9b6328ae0a8a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//button[@type = 'button' and @aria-label = 'calendar view is open, switch to year view']</value>
+         <key>XPATH</key>
+         <value>//div[@class='MuiPickersCalendarHeader-label css-1v994a0']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeSmall.MuiPickersCalendarHeader-switchViewButton.css-1wjkg3</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@class='MuiPickersCalendarHeader-label css-1v994a0']</value>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and @aria-label = 'calendar view is open, switch to year view']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dfaacad9-ff47-4afe-a59a-8317c9c04027</webElementGuid>
+      <webElementGuid>12426536-03c1-4b69-874e-0f58bc94925c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall MuiPickersCalendarHeader-switchViewButton css-1wjkg3</value>
-      <webElementGuid>50e5d0f0-f67e-4ca3-97ac-dff38658280c</webElementGuid>
+      <webElementGuid>b3f16bf0-10ec-420a-b6b7-1cc1d8126e89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>33422ee7-733b-438e-b154-cb552236fb3d</webElementGuid>
+      <webElementGuid>84eff421-02a6-4e71-9072-55f837fa5570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9a604f11-c2d0-446d-8437-13dacd11189f</webElementGuid>
+      <webElementGuid>5125febe-1089-4112-ba37-fe5e6411141b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>calendar view is open, switch to year view</value>
-      <webElementGuid>1cc7a71a-6fba-4231-b61e-c278f55cb35c</webElementGuid>
+      <webElementGuid>fae16a6e-abd8-4814-a901-05a78bdbd68f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiPopper-root MuiPickersPopper-root css-1mtsuo7&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPickersPopper-paper css-3kfabf&quot;]/div[@class=&quot;MuiPickersLayout-root css-192l38i&quot;]/div[@class=&quot;MuiPickersLayout-contentWrapper css-lz05jy&quot;]/div[@class=&quot;MuiDateCalendar-root css-5oi4td&quot;]/div[@class=&quot;MuiPickersCalendarHeader-root css-1dozdou&quot;]/div[@class=&quot;MuiPickersCalendarHeader-labelContainer css-16j77m4&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall MuiPickersCalendarHeader-switchViewButton css-1wjkg3&quot;]</value>
-      <webElementGuid>2747931b-d4df-4a60-9631-80b4d414e441</webElementGuid>
+      <webElementGuid>28a3b9a6-2a19-4d97-bbba-59b9951f1447</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>69d498aa-1b2f-41dc-aeb8-f556b51217f2</webElementGuid>
+      <webElementGuid>a3d7b083-f972-437a-936b-27f203fc0509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>816cda55-d289-4d70-9774-4fe8ec2d0cac</webElementGuid>
+      <webElementGuid>929d2943-1cb9-4bc8-8756-53697a57ea78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>c9b892e4-6914-49e3-b58a-48528a3c1281</webElementGuid>
+      <webElementGuid>d6467f30-57db-4508-8a30-04fb5efe8d2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2025'])[1]/following::button[1]</value>
-      <webElementGuid>a071e752-6237-47ab-b715-9ec8e68f1d0f</webElementGuid>
+      <webElementGuid>2f67351d-b5a1-4be5-a891-abc5620c0b01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>d5403cfe-9963-46b5-a580-fcef78d9bf57</webElementGuid>
+      <webElementGuid>e69c20c1-27ab-4644-82fb-8e3ea5d2c0a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/preceding::button[3]</value>
-      <webElementGuid>79924d3b-e689-4f53-aafb-40a1a3bcc568</webElementGuid>
+      <webElementGuid>eddcb8c2-2eb8-4b88-bbed-7d4739e35bd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::button[3]</value>
-      <webElementGuid>e7ede99c-a41b-4328-8829-d7e55e4b2bb1</webElementGuid>
+      <webElementGuid>05542f08-e82a-4f57-8f48-5e102baa60c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

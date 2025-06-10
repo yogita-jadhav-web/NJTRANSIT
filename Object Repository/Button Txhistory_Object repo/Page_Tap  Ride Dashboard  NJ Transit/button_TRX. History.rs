@@ -6,15 +6,19 @@
    <elementGuidId>7541b076-d0ed-4caf-9b0f-836d3c683f69</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//button[@id='historyBtn']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#historyBtn</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='historyBtn']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and @id = 'historyBtn' and @title = 'TRX. History' and (text() = 'TRX. History' or . = 'TRX. History')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>975ee43b-3160-4cc1-a3c5-56dedeec287f</webElementGuid>
+      <webElementGuid>6d65c018-6051-4aab-afe7-87f6fde6103e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorSecondary MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-colorSecondary css-eoy7ye</value>
-      <webElementGuid>4757f27c-f7cc-4f92-802b-2ae4e7177757</webElementGuid>
+      <webElementGuid>115184c4-ddec-43d5-a0c6-e84c84381fdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>37f1be7a-f048-40c5-8302-33a17a0d9805</webElementGuid>
+      <webElementGuid>b6054205-0e3a-45f2-9fe5-86fa6757b1b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>7715e4b3-900b-45dd-ac50-2880f0e85dd5</webElementGuid>
+      <webElementGuid>35a7e6b1-75ec-4422-8ecf-14fd09fc51e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>id</name>
       <type>Main</type>
       <value>historyBtn</value>
-      <webElementGuid>09d16aa3-a5f4-4c75-b69b-858f6ebac531</webElementGuid>
+      <webElementGuid>43f50e95-a33f-425e-96d2-d50f7f58752f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>title</name>
       <type>Main</type>
       <value>TRX. History</value>
-      <webElementGuid>7857378f-ca14-43f3-9f98-1de43ada2d1e</webElementGuid>
+      <webElementGuid>0ee1934b-0c87-4cad-9aac-d4fcc5f20c6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>TRX. History</value>
-      <webElementGuid>dbed2999-96d8-44bc-ad21-95f60b926b1e</webElementGuid>
+      <webElementGuid>3c12a4bf-a667-485c-8e5b-243ca1599902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ad5d5e4b-46c6-4165-86f3-72eee0466985</webElementGuid>
+      <webElementGuid>6e22e402-84a6-4c40-a8b5-155e5b9f6c1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>data-theme</name>
       <type>Main</type>
       <value>main</value>
-      <webElementGuid>2d89b7b7-0a20-41ce-bb5c-bf631a47550b</webElementGuid>
+      <webElementGuid>956b5371-3322-4216-b6ef-5dfd88ef5bb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +105,7 @@
       <name>text</name>
       <type>Main</type>
       <value>TRX. History</value>
-      <webElementGuid>5e7f8505-85f1-43ad-8c54-d7815d7e0ce9</webElementGuid>
+      <webElementGuid>f0382157-f914-48a1-b9a2-f7c2f61f1886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;historyBtn&quot;)</value>
-      <webElementGuid>8198f7d2-68e5-4e8c-96ab-02d48ce9f058</webElementGuid>
+      <webElementGuid>ad50aae8-2c64-4745-8e51-cf94f3b32384</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='historyBtn']</value>
-      <webElementGuid>d565c366-3d6b-422c-b629-dad6e135a291</webElementGuid>
+      <webElementGuid>1e81a7ec-0c06-4f1b-86de-34bc56af2441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'historyBtn' and @title = 'TRX. History' and (text() = 'TRX. History' or . = 'TRX. History')]</value>
-      <webElementGuid>ae4ae09f-5aa3-413a-9c98-bfa38fb0f484</webElementGuid>
+      <webElementGuid>663260e9-2e4e-4673-9c79-b1fdfccd47d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +137,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dashboardCard']/div/div[2]/div/div/button</value>
-      <webElementGuid>e7d57c12-a7b7-426d-8f64-8a2c41d7fca2</webElementGuid>
+      <webElementGuid>640a246e-fcf1-4b99-8cd8-3dea6b4f2bd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +145,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>80a5af37-af8e-4788-bfe6-7b04b5923d1f</webElementGuid>
+      <webElementGuid>e7294800-4866-4661-a048-9e272c1d01d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +153,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unregister Card'])[1]/following::button[1]</value>
-      <webElementGuid>477889e9-cf03-4226-b548-3325b9ed30d3</webElementGuid>
+      <webElementGuid>25efd9a6-567e-4766-9c35-231645585bd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +161,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVE'])[1]/following::button[2]</value>
-      <webElementGuid>c14a320d-6ba9-4351-af7f-f64ac7e38f9b</webElementGuid>
+      <webElementGuid>371f4d00-0a79-4d28-ad74-eb3174a8fd2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +169,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::button[1]</value>
-      <webElementGuid>0adde741-ee84-477a-8d50-2705b9df4e22</webElementGuid>
+      <webElementGuid>4789f1d5-edad-4a13-b437-97e84410a16e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +177,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::button[1]</value>
-      <webElementGuid>a0aff7d8-68bb-4267-9695-5de3d13de729</webElementGuid>
+      <webElementGuid>699b8dd2-7e08-4d99-9d2d-9e0f2c079831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,6 +185,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='TRX. History']/parent::*</value>
-      <webElementGuid>1c7cf780-541e-4e30-bbda-9b3f1b9848b3</webElementGuid>
+      <webElementGuid>a48fef9a-c1de-4692-a53f-f2ffb7e31a4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.1.0</modifiedVersion>
+   <modifiedVersion>10.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\NJT_ Katalon_Automation_Mon_9\NJTRANSIT\NITRANSIT_Web.prj</projectFileLocation>
+   <projectFileLocation>C:\Yogita_Automation\Katalon_Scripts\NJT_Customer\NJTRANSIT\NITRANSIT_Web.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

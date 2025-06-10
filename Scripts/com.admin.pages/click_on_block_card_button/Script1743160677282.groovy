@@ -19,5 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.scrollToElement(findTestObject('Page_Conduent Transport Solutions, Inc/button_Block Card'), 0)
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Page_Conduent Transport Solutions, Inc/button_Block Card'))
 

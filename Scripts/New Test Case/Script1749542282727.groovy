@@ -17,17 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-TestObject card_Msg=findTestObject('Object Repository/Page_Guest Tap  Ride  NJ Transit/div_Card not found in our system')
-
-
-WebUI.verifyElementText(card_Msg, 'Card not found in our system.')
-
-msg_text = WebUI.getText(card_Msg, FailureHandling.STOP_ON_FAILURE)
-
-println('msg_text : ' + msg_text)
-
-WebUI.comment('msg_text :' + msg_text)
-
-WebUI.delay(2)
-
