@@ -29,5 +29,5 @@ WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_pou
 
 WebUI.callTestCase(findTestCase('com.profile.page/validate_NLR_Underground_Fare_icon'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

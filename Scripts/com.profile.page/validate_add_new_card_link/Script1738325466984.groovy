@@ -18,11 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 // Validate "ADD NEW CARD" link is displayed
-
-
 TestObject addNewCardLink = findTestObject('Object Repository/Page_Fare-Pay Dashboard  NJ Transit/button_ADD NEW CARD')
-WebUI.scrollToElement(addNewCardLink, 5)
-WebUI.verifyElementPresent(addNewCardLink, 5)
+
+WebUI.scrollToElement(findTestObject('profile page/addNewCardLink'), 5)
+
+WebUI.verifyElementPresent(findTestObject('profile page/addNewCardLink'), 5)
 
 WebUI.comment('Verified: "ADD NEW CARD" link is displayed.')
 

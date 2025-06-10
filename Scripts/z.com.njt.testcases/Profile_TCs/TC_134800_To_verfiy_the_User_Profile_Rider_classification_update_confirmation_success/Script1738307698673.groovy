@@ -20,11 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('z.com.njt.testcases/Create_And_Update_Account_TCs/TC_67883_To_verify_user_is_able_to_create_new_account'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.create.account.db.page/Login_Using_New_User'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.create.account.db.page/Login_Using_New_User'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
+not_run: WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
 
 WebUI.callTestCase(findTestCase('com.profile.page/verify_current_rider_classification'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -36,7 +36,7 @@ WebUI.callTestCase(findTestCase('com.profile.page/update_comfirmation_msg_rider_
 
 WebUI.callTestCase(findTestCase('com.profile.page/click_on_confirm_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

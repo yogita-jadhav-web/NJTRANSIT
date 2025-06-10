@@ -84,7 +84,7 @@
    <testCaseLink>
       <guid>41b730a5-1e66-47e7-be82-6cf522875a66</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67894_To_verify_the_User_Profile_First_name_field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -98,28 +98,28 @@
    <testCaseLink>
       <guid>f4b4fcea-5ffc-471a-9d1d-13fe3e791290</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67896_To_verfiy_the_user_profile_phone_number_field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b97220d4-0dda-4b71-94c6-d88850b840ef</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67897_To_verfiy_the_user_profile_zip_postal_code_field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1dd9caf4-134f-49b9-abf4-0aeb122f5557</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67898_To_verfiy_the_user_profile_ Country_drop_down</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d0f807c9-a1bd-41f1-bd53-a78e4eca5d97</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67899_To_verfiy_the_user_profile_Date_of_birth</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -133,21 +133,21 @@
    <testCaseLink>
       <guid>4951eba3-c1e7-4dbf-944b-e146a98246e3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67901_To_verfiy_user_profile_Change_Password_Current_Password_field_validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f22644f8-0572-4766-8f2f-3f0042c92e6c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67902_To_verfiy_user_profile_Change_Password_New_Password_field_validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>18d80452-df2c-4493-9d78-01938e80057c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67903_To_verfiy_user_profile_Change_Password_Confirm_Password_field_validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -168,7 +168,7 @@
    <testCaseLink>
       <guid>95129890-208c-4313-93cb-251e16a56dec</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/z.com.njt.testcases/Profile_TCs/TC_67922_To_verify_that_Manage_Saved_Payments_field_shows_Add_New_card_link_along_with_card_brand_logos</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

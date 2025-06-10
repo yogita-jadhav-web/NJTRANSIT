@@ -17,21 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('Page_Profile  NJ Transit/p_Please enter a valid zip code'), 'Zip/Postal Code is required')
 
-WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
+msg = WebUI.getText(findTestObject('Page_Profile  NJ Transit/p_Please enter a valid zip code'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.comment('msg :' + msg)
 
-WebUI.callTestCase(findTestCase('com.profile.page/Click_On_User_Information_Pencil_Icon'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.profile.page/Profile_Zip_PostalCode_field_validations'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.scrollToPosition(200, 400)
-
-WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.closeBrowser()
+println('msg :' + msg)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Zip Postal Code is required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b08b9274-7010-439a-a9f0-3bd74273c34b</testCaseGuid>
+</TestCaseEntity>

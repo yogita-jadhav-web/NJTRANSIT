@@ -23,9 +23,25 @@ WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], Failure
 
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.scrollToElement(findTestObject('profile page/addNewCardLink'), 0)
+
+WebUI.click(findTestObject('profile page/addNewCardLink'))
+
+WebUI.callTestCase(findTestCase('com.profile.page/Enter_VISA_Credit_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.profile.page/Enter_random_Card_Details'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/Enter_Exp_Month_Year'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.Fare.Pay.Card.page/Enter_Random_Card_nickname'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.profile.page/Click_on_Add_Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.profile.page/Verify_Payment Card Added Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Pencil_Icon_from_Manage_saved_payments'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Select_a_card_and_click_on_deleted'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

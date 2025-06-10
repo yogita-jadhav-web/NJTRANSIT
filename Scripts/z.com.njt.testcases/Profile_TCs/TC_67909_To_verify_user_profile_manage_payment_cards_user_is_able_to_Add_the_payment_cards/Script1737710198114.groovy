@@ -43,5 +43,5 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_on_Add_Button'), [:], Fa
 
 WebUI.callTestCase(findTestCase('com.profile.page/Verify_Payment Card Added Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 
-not_run: WebUI.closeBrowser()
+WebUI.closeBrowser()
 

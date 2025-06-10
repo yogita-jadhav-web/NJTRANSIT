@@ -27,5 +27,5 @@ WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], F
 
 WebUI.callTestCase(findTestCase('com.profile.page/Verify_NLR_Underground_fare_Default'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.closeBrowser()
+not_run: WebUI.closeBrowser()
 

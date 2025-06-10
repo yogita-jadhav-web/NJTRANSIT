@@ -17,21 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('z.com.njt.testcases/Create_And_Update_Account_TCs/TC_67883_To_verify_user_is_able_to_create_new_account'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.login.page/Login_Into_NJT_LoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+not_run: WebUI.callTestCase(findTestCase('com.login.page/Click_On_Sign_In'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_Profile_TAB'), [:], FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.callTestCase(findTestCase('com.tap.and.ride.non.guest.page/click_close_poup_button'), [:], FailureHandling.OPTIONAL)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Click_On_User_Information_Pencil_Icon'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.profile.page/Profile_Date_Of_Birth_validations'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_Profile  NJ Transit/button_Update'))
-
-not_run: WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)
 

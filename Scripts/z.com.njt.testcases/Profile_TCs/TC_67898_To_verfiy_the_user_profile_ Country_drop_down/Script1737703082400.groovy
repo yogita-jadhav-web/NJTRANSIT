@@ -29,6 +29,8 @@ WebUI.callTestCase(findTestCase('com.profile.page/Select_Country_Code_dropdwn'),
 
 WebUI.callTestCase(findTestCase('com.profile.page/Enter_Random_postal_code'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.scrollToPosition(200, 400)
+
 WebUI.callTestCase(findTestCase('com.profile.page/Click_on_update_button'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('com.tap.and.ride.guest.page/verify_User Account Updated Successfully'), [:], FailureHandling.STOP_ON_FAILURE)

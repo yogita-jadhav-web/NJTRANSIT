@@ -40,7 +40,9 @@ println('fourdigitnumbers : ' + fourdigitnumbers)
 
 WebUI.setText(Pn_placeholder, fourdigitnumbers)
 
-WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Phone Number is invalid'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Phone Number is invalid'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('com.create.and.update.account.page/verify_Phone Number is too short'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.sendKeys(Pn_placeholder, Keys.chord(Keys.CONTROL, 'a') + Keys.BACK_SPACE)
 
